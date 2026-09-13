@@ -1,4 +1,4 @@
-# 2 FIRST 시즌 개요 {#s-2}
+# 2 FIRST 시즌 개요
 
 ## FIRST와 함께 번영하는 지구를 설계하세요
 
@@ -6,8 +6,8 @@
 
 **만들기. 문제 해결하기. 팀워크를 통해 더 강해지기.**
 
-자연에서 영감을 받은 2026-2027 로봇 시즌, **FIRST® CANOPY™**에 오신 것을 환영합니다.
+자연에서 영감을 받은 2026-2027 로봇 시즌, \*\*FIRST® CANOPY™\*\*에 오신 것을 환영합니다.
 
-![FIRST CANOPY와 BIOGLOW, BIOBUZZ, BIOCORE 로고](assets/image-006.png)
+![FIRST CANOPY와 BIOGLOW, BIOBUZZ, BIOCORE 로고](.gitbook/assets/image-006.png)
 
 **FIRST® CANOPY™ · BIOGLOW / BIOBUZZ / BIOCORE — FIRST 공식 HTML 원본 이미지**

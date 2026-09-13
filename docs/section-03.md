@@ -1,9 +1,9 @@
-# 3 대회 참가 자격 및 검사 (I) {#s-3}
+# 3 대회 참가 자격 및 검사 (I)
 
-## 3.1 팀 참가 자격 규칙 {#s-3-1}
+## 3.1 팀 참가 자격 규칙 <a href="#s-3-1" id="s-3-1"></a>
 
 {% hint style="success" %}
-#### I101 \*팀은 FIRST에 등록되어 있어야 합니다. {#rule-I101}
+#### I101 \*팀은 FIRST에 등록되어 있어야 합니다. <a href="#rule-i101" id="rule-i101"></a>
 
 FIRST Tech Challenge 공식 이벤트에서 경쟁하고 MATCH 포인트를 획득하거나 심사상 수상 자격을 얻으려면 팀은 “competition ready” 상태여야 합니다.
 
@@ -29,7 +29,7 @@ ii. 프로그램 비용, 등록, 청소년 보호 심사에 관한 지역 Progra
 {% endhint %}
 
 {% hint style="success" %}
-#### I102 \*이벤트에 정시에 체크인하십시오. {#rule-I102}
+#### I102 \*이벤트에 정시에 체크인하십시오. <a href="#rule-i102" id="rule-i102"></a>
 
 별도 지정 또는 Event Director 승인 없이는 성인 팀원이 Qualification MATCH 시작 예정 시각 45분 전까지 Pit Administration 또는 지정 장소에서 체크인해야 합니다. 팀 성인이 체크인을 완료해야 하며 최소 1명의 STUDENT가 행사장에 있어야 합니다.
 
@@ -47,16 +47,16 @@ D. 인쇄된 팀 PORTFOLIO(선택 사항)
 {% endhint %}
 
 {% hint style="success" %}
-#### I103 \*책임 있는 성인이 이벤트 전체 시간 동안 있어야 합니다. {#rule-I103}
+#### I103 \*책임 있는 성인이 이벤트 전체 시간 동안 있어야 합니다. <a href="#rule-i103" id="rule-i103"></a>
 
 STUDENT 팀원을 책임지는 성인이 최소 1명, 가능하면 2명 항상 있어야 합니다. 책임 성인은 팀 명단에 등록되어 있는 것이 권장됩니다.
 {% endhint %}
 
-## 3.2 수상 자격 규칙 {#s-3-2}
+## 3.2 수상 자격 규칙 <a href="#s-3-2" id="s-3-2"></a>
 
 Team Judged Awards 수상 자격을 얻으려면 Initial Interview(A203)에 참여해야 하며 일부 상은 PORTFOLIO(A201) 제출도 요구합니다. 여러 Qualifying 또는 League Tournament, HOME REGION 밖 이벤트 참가 팀에는 A213 및 A214가 적용됩니다. 자세한 시상 규칙은 Section 6 Awards (A)를 참조하십시오.
 
-## 3.3 MATCH 참가 자격 규칙 {#s-3-3}
+## 3.3 MATCH 참가 자격 규칙 <a href="#s-3-3" id="s-3-3"></a>
 
 Qualification 또는 Playoff MATCH 전에 팀은 INSPECTOR가 진행하는 ROBOT 검사를 통과해야 합니다. 목적은 MATCH 전에 ROBOT이 기본 안전 및 대회 요건을 충족하는지 확인하는 것입니다.
 
@@ -64,7 +64,7 @@ Qualification 또는 Playoff MATCH 전에 팀은 INSPECTOR가 진행하는 ROBOT
 일정이 정해진 Practice MATCH는 검사 전 참가할 수 있으나, 일정에 없는 또는 “filler line” Practice MATCH는 검사 전 참가할 수 없습니다. FTA, LRI 또는 Head REFEREE가 ROBOT이 안전하지 않거나 FIELD를 손상시킬 가능성이 있다고 판단하면 Practice MATCH 참가를 금지할 수 있습니다.
 {% endhint %}
 
-### 3.3.1 Inspection {#s-3-3-1}
+### 3.3.1 Inspection <a href="#s-3-3-1" id="s-3-3-1"></a>
 
 Inspection은 이벤트 도착 후 첫 활동 중 하나인 경우가 많습니다. 팀은 지정된 시간 안에 검사를 완료해야 합니다.
 
@@ -79,25 +79,25 @@ STUDENT 팀원은 ROBOT, 사용될 모든 COMPONENT, OPERATOR CONSOLE을 제시�
 검사는 한 번에 끝나지 않을 수 있으며 여러 INSPECTOR가 참여할 수 있습니다. INSPECTOR 또는 팀은 LRI에게 도움을 요청할 수 있습니다.
 
 {% hint style="success" %}
-#### I301 \*완전한 ROBOT과 지원 장비를 검사에 가져오십시오. {#rule-I301}
+#### I301 \*완전한 ROBOT과 지원 장비를 검사에 가져오십시오. <a href="#rule-i301" id="rule-i301"></a>
 
 MATCH에서 사용할 장식 부품을 포함한 모든 COMPONENT와 ROBOT, OPERATOR CONSOLE을 제시합니다. 모든 검사 COMPONENT를 매 MATCH에 사용할 필요는 없지만, 재검사 없이 미검사 COMPONENT를 추가해서는 안 됩니다. MATCH에서 사용할 모든 ROBOT 구성 방식을 INSPECTOR에게 보여주어야 합니다.
 {% endhint %}
 
 {% hint style="success" %}
-#### I302 \*특정 제한은 모든 구성에 적용됩니다. {#rule-I302}
+#### I302 \*특정 제한은 모든 구성에 적용됩니다. <a href="#rule-i302" id="rule-i302"></a>
 
 모든 MECHANISM과 기본 ROBOT 제작에 사용되는 전자장치(모터, 서보, Android Device 등)의 총수는 동시에 사용되는지와 관계없이 Section 12의 제한을 초과할 수 없습니다.
 {% endhint %}
 
-### 3.3.2 Re-Inspection {#s-3-3-2}
+### 3.3.2 Re-Inspection <a href="#s-3-3-2" id="s-3-3-2"></a>
 
 최초 검사 후 이벤트 중 ROBOT을 변경할 수 있습니다. 일부 예외를 제외하면 변경 사항은 이후 Qualification 또는 Playoff MATCH 전에 재검사를 받아야 합니다. Head REFEREE 또는 FTA도 안전하지 않거나 허용되지 않는 ROBOT 제작을 발견하면 재검사를 요청할 수 있습니다.
 
 ROBOT 변경 시 Team Support 자원봉사자의 조언과 도움을 구할 것을 권장합니다. 검사 후 경쟁상 이점을 얻기 위해 재검사 없이 의도적으로 ROBOT을 변경하는 것은 대회의 정신에 어긋납니다.
 
 {% hint style="success" %}
-#### I303 \*ROBOT의 대부분의 변경 사항에 대해 재검사를 요청하십시오. {#rule-I303}
+#### I303 \*ROBOT의 대부분의 변경 사항에 대해 재검사를 요청하십시오. <a href="#rule-i303" id="rule-i303"></a>
 
 ROBOT이 안전 및 대회 지침을 준수하지 않게 될 수 있는 변경을 했거나 Head REFEREE 또는 FTA가 요청한 경우 재검사를 받아야 합니다.
 
@@ -121,9 +121,9 @@ G. 이미 검사받은 MECHANISM의 일부 조합으로 ROBOT을 추가·제거�
 {% endhint %}
 
 {% hint style="success" %}
-#### I304 \*재검사 절차를 악용하지 마십시오. {#rule-I304}
+#### I304 \*재검사 절차를 악용하지 마십시오. <a href="#rule-i304" id="rule-i304"></a>
 
 팀은 다른 규칙을 우회하기 위해 재검사 절차를 이용해서는 안 됩니다.
 {% endhint %}
 
-![BIOBUZZ 벌집 장식 그래픽](assets/image-007.jpg)
+![BIOBUZZ 벌집 장식 그래픽](.gitbook/assets/image-007.jpg)

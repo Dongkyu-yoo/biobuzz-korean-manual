@@ -1,12 +1,12 @@
-# 10 Game Details {#s-10}
+# 10 Game Details
 
-![Figure 10-1 · BIOBUZZ FIELD](assets/image-041.png)
+![Figure 10-1 · BIOBUZZ FIELD](.gitbook/assets/image-041.png)
 
 **Figure 10-1 · BIOBUZZ FIELD**
 
 BIOBUZZ에서는 2개의 ALLIANCE(각 ALLIANCE는 2개의 FIRST Tech Challenge 팀으로 이루어진 협력 단위)가 아래에 설명된 세부사항에 따라 준비되고 운영되는 MATCH를 플레이합니다.
 
-## 10.1 MATCH Overview {#s-10-1}
+## 10.1 MATCH Overview <a href="#s-10-1" id="s-10-1"></a>
 
 MATCH는 Pre-MATCH Setup, 30초 AUTO Period, AUTO와 TELEOP 사이의 8초 Transition Period, 2분 TELEOP Period, 그리고 Post-MATCH Reset으로 구성됩니다.
 
@@ -16,7 +16,7 @@ HIVE가 TIPPED될 때마다 ALLIANCE는 ALLIANCE AREA에 처음 배치된 5개�
 
 ROBOT은 NECTAR를 배치하여 FLOWER의 Ownership을 확보하고 자신의 LOADING ZONE으로 돌아가면서 MATCH를 마무리합니다.
 
-## 10.2 DRIVE TEAM {#s-10-2}
+## 10.2 DRIVE TEAM <a href="#s-10-2" id="s-10-2"></a>
 
 A DRIVE TEAM은 특정 MATCH에서 Team Performance를 책임지는 동일한 FIRST Tech Challenge Team 소속 최대 4명으로 구성됩니다. DRIVE TEAM에는 ALLIANCE가 ROBOT을 돕기 위해 사용할 수 있는 3개의 구체적인 역할이 있으며, DRIVE TEAM Member 중 비-STUDENT는 1명만 허용됩니다.
 
@@ -32,45 +32,17 @@ DRIVE TEAM의 정의와 DRIVE TEAM 관련 규칙의 취지는, 예외적인 상�
 
 **Table 10-1 · DRIVE TEAM roles**
 
-<table>
-<thead>
-<tr>
-<th>Role</th>
-<th>Description</th>
-<th>Max./ DRIVE TEAM</th>
-<th>Criteria</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>DRIVE COACH</td>
-<td>a guide or advisor</td>
-<td>1</td>
-<td>모든 Team Member가 가능하며 Adult일 수도 있음, “DRIVE COACH” Badge 착용 필수</td>
-</tr>
-<tr>
-<td>DRIVER</td>
-<td>an operator and controller of the ROBOT</td>
-<td rowspan="2">3</td>
-<td>STUDENT, “DRIVE TEAM” Badge 착용 필수</td>
-</tr>
-<tr>
-<td>HUMAN PLAYER</td>
-<td>a SCORING ELEMENT manager</td>
-<td>STUDENT, “DRIVE TEAM” Badge 착용 필수</td>
-</tr>
-</tbody>
-</table>
+<table><thead><tr><th>Role</th><th>Description</th><th>Max./ DRIVE TEAM</th><th>Criteria</th></tr></thead><tbody><tr><td>DRIVE COACH</td><td>a guide or advisor</td><td>1</td><td>모든 Team Member가 가능하며 Adult일 수도 있음, “DRIVE COACH” Badge 착용 필수</td></tr><tr><td>DRIVER</td><td>an operator and controller of the ROBOT</td><td rowspan="2">3</td><td>STUDENT, “DRIVE TEAM” Badge 착용 필수</td></tr><tr><td>HUMAN PLAYER</td><td>a SCORING ELEMENT manager</td><td>STUDENT, “DRIVE TEAM” Badge 착용 필수</td></tr></tbody></table>
 
 A STUDENT는 현재 Season의 9월 1일 기준으로 자신의 HOME REGION에서 High School, Secondary School 또는 이에 준하는 교육 단계를 완료하지 않은 사람입니다.
 
-## 10.3 Setup {#s-10-3}
+## 10.3 Setup <a href="#s-10-3" id="s-10-3"></a>
 
 각 MATCH가 시작되기 전에 FIELD STAFF는 Section 10.3.1 SCORING ELEMENTS에 따라 SCORING ELEMENTS를 배치합니다. DRIVE TEAMS는 Section 10.3.4 ROBOTS에 따라 ROBOTS를, Section 10.3.3 OPERATOR CONSOLES에 따라 OPERATOR CONSOLES를 준비합니다. 이후 DRIVE TEAMS는 Section 10.3.2 DRIVE TEAMS에 따라 자신의 위치에 섭니다.
 
-### 10.3.1 SCORING ELEMENTS {#s-10-3-1}
+### 10.3.1 SCORING ELEMENTS <a href="#s-10-3-1" id="s-10-3-1"></a>
 
-![Figure 10-2 · SCORING ELEMENT staging positions](assets/image-042.png)
+![Figure 10-2 · SCORING ELEMENT staging positions](.gitbook/assets/image-042.png)
 
 **Figure 10-2 · SCORING ELEMENT staging positions**
 
@@ -106,7 +78,7 @@ CELL의 NECTAR는 CELL의 Back Wall에 접촉하고 해당 색 ALLIANCE AREA와 
 
 Section 15.2 Game Modification에 따라 FIRST Championship과 FIRST Premier Event에서는 SCORING ELEMENTS의 수, 종류, 분포가 조정될 수 있습니다. FIRST Championship의 Game Modification은 Section 1.7.3 Team Updates에 설명된 마지막 정규 Team Update 또는 그 이전에 공개됩니다. FIRST Premier Event의 Game Modification은 Event Organizer가 Event 전에 게시합니다.
 
-### 10.3.2 DRIVE TEAMS {#s-10-3-2}
+### 10.3.2 DRIVE TEAMS <a href="#s-10-3-2" id="s-10-3-2"></a>
 
 DRIVE TEAMS는 이전 MATCH의 DRIVE TEAM이 떠난 뒤 ALLIANCE AREA에 들어가 다음 MATCH를 준비합니다. 시작 조건은 아래와 같으며, 이 조건을 방해하거나 지연하는 DRIVE TEAM은 G301 위반 위험이 있습니다.
 
@@ -120,7 +92,7 @@ D. DRIVE TEAM Member는 지정된 DRIVE TEAM Badge를 허리 위에 명확히 �
 
 E. Playoff MATCH의 경우 ALLIANCE CAPTAIN은 지정된 ALLIANCE CAPTAIN Identifier(예: 모자, Armband)를 명확히 표시합니다.
 
-### 10.3.3 OPERATOR CONSOLES {#s-10-3-3}
+### 10.3.3 OPERATOR CONSOLES <a href="#s-10-3-3" id="s-10-3-3"></a>
 
 DRIVE TEAMS는 ALLIANCE AREA에 위치하는 즉시 OPERATOR CONSOLES를 설치합니다. OPERATOR CONSOLES는 관련 모든 규칙, 특히 Section 12.9 OPERATOR CONSOLE을 준수해야 합니다. OPERATOR CONSOLE Setup을 방해하거나 지연하는 DRIVE TEAM은 G301 위반 위험이 있습니다.
 
@@ -130,7 +102,7 @@ B. 그렇지 않은 DRIVE TEAM은 DRIVER STATION App에서 TELEOP OpMode를 선�
 
 C. 선택한 OpMode는 DRIVER STATION App의 “INIT” 버튼을 눌러 초기화해야 합니다.
 
-### 10.3.4 ROBOTS {#s-10-3-4}
+### 10.3.4 ROBOTS <a href="#s-10-3-4" id="s-10-3-4"></a>
 
 DRIVE TEAMS는 G304에 따라 ROBOT을 배치합니다. ROBOT Setup 요구사항을 방해하거나 지연하는 DRIVE TEAM은 G301 위반 위험이 있습니다.
 
@@ -147,7 +119,7 @@ ROBOT 배치 순서가 어느 한쪽 또는 양쪽 ALLIANCE에 중요하면 Setu
 
 Qualification MATCH에서는 Red 1 또는 Blue 1로 배정된 ROBOT이 자신의 ALLIANCE에서 먼저 배치합니다. Playoff MATCH에서는 ALLIANCE Lead가 자신의 ALLIANCE에서 어느 ROBOT을 먼저 배치할지 결정합니다.
 
-## 10.4 MATCH Periods {#s-10-4}
+## 10.4 MATCH Periods <a href="#s-10-4" id="s-10-4"></a>
 
 각 MATCH의 첫 번째 Period는 30초(0:30)의 Autonomous Period(AUTO)입니다. AUTO 동안 ROBOTS는 DRIVER의 Control 또는 Input 없이 작동합니다.
 
@@ -155,7 +127,7 @@ AUTO와 TELEOP 사이에는 Section 10.5 Scoring에서 설명한 Scoring 목적�
 
 각 MATCH의 세 번째 Period는 2분(2:00)의 Teleoperated Period(TELEOP)입니다. TELEOP 동안 DRIVERS가 ROBOTS를 원격으로 조작하여 점수를 획득합니다. 자세한 MATCH Timing은 Table 9-1을 참고하십시오.
 
-## 10.5 Scoring {#s-10-5}
+## 10.5 Scoring <a href="#s-10-5" id="s-10-5"></a>
 
 ALLIANCES는 MATCH 전체에서 Table 10-2에 표시된 여러 Action을 완료하여 보상을 받습니다.
 
@@ -183,7 +155,7 @@ Scoring은 Human Volunteer가 평가하고 점수를 부여합니다. Live Score
 MATCH 시작 전, AUTO-to-TELEOP Transition Period 중, 그리고 MATCH가 0:00에 끝난 후에 만들어진 Achievement는 Penalty 대상이 될 수 있습니다.
 {% endhint %}
 
-### 10.5.1 HIVE Scoring Criteria {#s-10-5-1}
+### 10.5.1 HIVE Scoring Criteria <a href="#s-10-5-1" id="s-10-5-1"></a>
 
 **HIVE TIP**
 
@@ -193,15 +165,15 @@ A. 한 Stable State에서 다른 Stable State로 이동하여 Downwards-facing C
 
 B. 그 후 이전에는 Frame과 접촉하지 않던 HIVE의 Damper가 Frame과 접촉하기 시작합니다.
 
-![Figure 10-3 · HIVE damper and frame](assets/image-043.png)
+![Figure 10-3 · HIVE damper and frame](.gitbook/assets/image-043.png)
 
 **Figure 10-3 · HIVE damper and frame**
 
 {% hint style="info" %}
-HIVE는 Bi-stable로 설계되어 대부분의 상황에서 한 Stable State에서 다른 Stable State로 이동했는지가 명확합니다. 구체적인 HIVE TIP Criteria가 제공되어 있지만 Volunteer가 Damper가 Frame과 접촉하는 정확한 순간을 감시할 것으로 기대하지 않습니다.<br>
-<br>
-Team은 HIVE가 기울어지는 동안 Downward-facing CELL에 LAUNCH하면 움직임을 방해하여 TIP이 성립하지 않을 수 있음을 알아야 합니다. 정상 Gameplay에서는 드물지만 이런 상황에서는 Volunteer에게 TIP이 성립했음이 명확하도록 LAUNCHING을 잠시 멈춰야 할 수 있습니다.<br>
-<br>
+HIVE는 Bi-stable로 설계되어 대부분의 상황에서 한 Stable State에서 다른 Stable State로 이동했는지가 명확합니다. 구체적인 HIVE TIP Criteria가 제공되어 있지만 Volunteer가 Damper가 Frame과 접촉하는 정확한 순간을 감시할 것으로 기대하지 않습니다.\
+\
+Team은 HIVE가 기울어지는 동안 Downward-facing CELL에 LAUNCH하면 움직임을 방해하여 TIP이 성립하지 않을 수 있음을 알아야 합니다. 정상 Gameplay에서는 드물지만 이런 상황에서는 Volunteer에게 TIP이 성립했음이 명확하도록 LAUNCHING을 잠시 멈춰야 할 수 있습니다.\
+\
 Upward-facing CELL에 LAUNCH하는 것이 HIVE TIP을 얻을 수 있는 유일한 허용 방법입니다. ROBOTS는 G417을 따라야 하며 다른 방법으로 HIVE TIP을 방해하거나 일으킬 수 없습니다.
 {% endhint %}
 
@@ -209,11 +181,11 @@ Upward-facing CELL에 LAUNCH하는 것이 HIVE TIP을 얻을 수 있는 유일�
 
 MATCH 종료 시 Upward-facing CELL에 남아 있는 POLLEN 및/또는 NECTAR는 해당 ALLIANCE의 점수가 됩니다.
 
-### 10.5.2 FLOWER Scoring Criteria {#s-10-5-2}
+### 10.5.2 FLOWER Scoring Criteria <a href="#s-10-5-2" id="s-10-5-2"></a>
 
 NECTAR와 POLLEN은 FLOWER Scoring Volume, 즉 CAD Reference 10-4에서 보라색으로 강조된 Top Ring과 Middle Ring 사이의 Volume에 최소 일부라도 들어가 있으면 득점합니다.
 
-![CAD Reference 10-4 · FLOWER scoring volume](assets/image-044.png)
+![CAD Reference 10-4 · FLOWER scoring volume](.gitbook/assets/image-044.png)
 
 **CAD Reference 10-4 · FLOWER scoring volume**
 
@@ -231,23 +203,23 @@ FLOWER에서 Scoring Criteria를 충족하는 NECTAR 중 가장 아래에 자신
 
 FLOWER에서 Scoring Criteria를 충족하는 NECTAR 중 가장 위에 자신의 색 NECTAR가 있는 ALLIANCE가 해당 FLOWER를 소유합니다. 해당 FLOWER를 어느 ALLIANCE가 POLLEN 및/또는 NECTAR를 넣었는지와 관계없이, 그 FLOWER의 Scoring Criteria를 충족하는 모든 POLLEN과 NECTAR에 대해 Owner ALLIANCE가 점수를 얻습니다.
 
-![Figure 10-5 · FLOWER Ownership](assets/image-045.png)
+![Figure 10-5 · FLOWER Ownership](.gitbook/assets/image-045.png)
 
 **Figure 10-5 · FLOWER Ownership**
 
-### 10.5.3 GARDEN Scoring Criteria {#s-10-5-3}
+### 10.5.3 GARDEN Scoring Criteria <a href="#s-10-5-3" id="s-10-5-3"></a>
 
 GARDEN Point를 얻으려면 POLLEN 또는 NECTAR가 GARDEN Zone에 최소 일부라도 들어가 있어야 합니다.
 
-- GARDEN은 ALLIANCE SPECIFIC이며 어느 ALLIANCE가 POLLEN 또는 NECTAR를 넣었는지와 관계없이 GARDEN과 같은 색 ALLIANCE가 점수를 얻습니다.
-- GARDEN은 Protected Zone이 아니며, 어느 ALLIANCE든 MATCH 동안 어느 GARDEN에서든 SCORING ELEMENT를 제거할 수 있습니다.
-- 어느 ALLIANCE의 NECTAR든, 그리고 POLLEN은 들어가 있는 GARDEN의 색과 같은 ALLIANCE에 점수가 부여됩니다.
+* GARDEN은 ALLIANCE SPECIFIC이며 어느 ALLIANCE가 POLLEN 또는 NECTAR를 넣었는지와 관계없이 GARDEN과 같은 색 ALLIANCE가 점수를 얻습니다.
+* GARDEN은 Protected Zone이 아니며, 어느 ALLIANCE든 MATCH 동안 어느 GARDEN에서든 SCORING ELEMENT를 제거할 수 있습니다.
+* 어느 ALLIANCE의 NECTAR든, 그리고 POLLEN은 들어가 있는 GARDEN의 색과 같은 ALLIANCE에 점수가 부여됩니다.
 
-![Figure 10-6 · GARDEN Scoring](assets/image-046.png)
+![Figure 10-6 · GARDEN Scoring](.gitbook/assets/image-046.png)
 
 **Figure 10-6 · GARDEN Scoring**
 
-### 10.5.4 ROBOT Scoring Criteria {#s-10-5-4}
+### 10.5.4 ROBOT Scoring Criteria <a href="#s-10-5-4" id="s-10-5-4"></a>
 
 **LEAVE**
 
@@ -257,19 +229,23 @@ LEAVE Point를 얻으려면 ROBOT이 Perimeter Wall과 더 이상 접촉하지 �
 
 PARK Point를 얻으려면 ROBOT이 LOADING ZONE에 최소 일부라도 들어가도록 이동해야 합니다.
 
-![Figure 10-7 · LOADING ZONE PARK Examples](assets/image-047.png)
+![Figure 10-7 · LOADING ZONE PARK Examples](.gitbook/assets/image-047.png)
 
 **Figure 10-7 · LOADING ZONE PARK Examples**
 
-### 10.5.5 Point Values {#s-10-5-5}
+### 10.5.5 Point Values <a href="#s-10-5-5" id="s-10-5-5"></a>
 
 **Table 10-2 · BIOBUZZ Point Values**
 
-<table><thead><tr><th colspan="2"></th><th colspan="2">MATCH 포인트</th><th rowspan="2">랭킹 포인트(RP)</th></tr><tr><th colspan="2"></th><th>AUTO</th><th>TELEOP</th></tr></thead><tbody><tr><td colspan="2">LEAVE</td><td>3</td><td>–</td><td>–</td></tr><tr><td colspan="2">PARK</td><td>5</td><td>5</td><td>–</td></tr><tr><td rowspan="2">HIVE</td><td>HIVE TIP</td><td>20</td><td>20</td><td>–</td></tr><tr><td>CELL에 남아 있는 POLLEN 및/또는 NECTAR</td><td>–</td><td>2</td><td>–</td></tr><tr><td rowspan="2">FLOWER</td><td>최하단 NECTAR 보너스</td><td>–</td><td>5</td><td>–</td></tr><tr><td>소유한 FLOWER 안의 POLLEN 및/또는 NECTAR</td><td>–</td><td>2</td><td>–</td></tr><tr><td>GARDEN</td><td>GARDEN 안의 POLLEN 및/또는 NECTAR</td><td>–</td><td>1</td><td>–</td></tr><tr><td colspan="4">SWARM RP – 획득한 LEAVE + PARK 합산 점수가 기준값 이상</td><td>1</td></tr><tr><td colspan="4">POLLINATOR 1 RP – TIP 횟수가 기준값 이상</td><td>1</td></tr><tr><td colspan="4">POLLINATOR 2 RP – TIP 횟수가 기준값 이상</td><td>1</td></tr><tr><td>WIN</td><td colspan="3">상대보다 더 많은 MATCH 포인트로 MATCH를 종료</td><td>3</td></tr><tr><td>TIE</td><td colspan="3">상대와 같은 MATCH 포인트로 MATCH를 종료</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th></th><th></th><th>MATCH 포인트</th><th></th><th>랭킹 포인트(RP)</th></tr></thead><tbody><tr><td colspan="2"></td><td>AUTO</td><td>TELEOP</td><td></td></tr><tr><td colspan="2">LEAVE</td><td>3</td><td>–</td><td>–</td></tr><tr><td colspan="2">PARK</td><td>5</td><td>5</td><td>–</td></tr><tr><td rowspan="2">HIVE</td><td>HIVE TIP</td><td>20</td><td>20</td><td>–</td></tr><tr><td>CELL에 남아 있는 POLLEN 및/또는 NECTAR</td><td>–</td><td>2</td><td>–</td></tr><tr><td rowspan="2">FLOWER</td><td>최하단 NECTAR 보너스</td><td>–</td><td>5</td><td>–</td></tr><tr><td>소유한 FLOWER 안의 POLLEN 및/또는 NECTAR</td><td>–</td><td>2</td><td>–</td></tr><tr><td>GARDEN</td><td>GARDEN 안의 POLLEN 및/또는 NECTAR</td><td>–</td><td>1</td><td>–</td></tr><tr><td colspan="4">SWARM RP – 획득한 LEAVE + PARK 합산 점수가 기준값 이상</td><td>1</td></tr><tr><td colspan="4">POLLINATOR 1 RP – TIP 횟수가 기준값 이상</td><td>1</td></tr><tr><td colspan="4">POLLINATOR 2 RP – TIP 횟수가 기준값 이상</td><td>1</td></tr><tr><td>WIN</td><td colspan="3">상대보다 더 많은 MATCH 포인트로 MATCH를 종료</td><td>3</td></tr><tr><td>TIE</td><td colspan="3">상대와 같은 MATCH 포인트로 MATCH를 종료</td><td>1</td></tr></tbody></table>
 
 **Table 10-3 · BIOBUZZ RP thresholds**
 
-<table><thead><tr><th>RP 유형</th><th>FIRST Championship</th><th>Regional Championships</th><th>기타 모든 Event*</th></tr></thead><tbody><tr><td>SWARM RP</td><td>TBA</td><td>TBA</td><td>16점</td></tr><tr><td>POLLINATOR 1 RP</td><td>TBA</td><td>TBA</td><td>TIP 4회</td></tr><tr><td>POLLINATOR 2 RP</td><td>TBA</td><td>TBA</td><td>TIP 7회</td></tr></tbody></table>
+| RP 유형           | FIRST Championship | Regional Championships | 기타 모든 Event\* |
+| --------------- | ------------------ | ---------------------- | ------------- |
+| SWARM RP        | TBA                | TBA                    | 16점           |
+| POLLINATOR 1 RP | TBA                | TBA                    | TIP 4회        |
+| POLLINATOR 2 RP | TBA                | TBA                    | TIP 7회        |
 
 {% hint style="info" %}
 Regional Championships와 FIRST Championship의 RP Threshold는 Team Updates를 통해 발표됩니다.
@@ -277,17 +253,17 @@ Regional Championships와 FIRST Championship의 RP Threshold는 Team Updates를 
 \* FIRST Premier Events는 Team에게 제공하려는 Experience에 가장 적합하도록 자체 Threshold를 설정할 수 있습니다.
 {% endhint %}
 
-## 10.6 Violations {#s-10-6}
+## 10.6 Violations <a href="#s-10-6" id="s-10-6"></a>
 
 FIRST Tech Challenge는 Rule 평가와 Violation 부여와 관련하여 Duration과 Action을 설명하기 위해 3개의 용어를 사용합니다. 이 용어는 일반적인 Benchmark를 설명하기 위한 Guideline이며, REFEREE가 해당 시간 동안 Count를 제공하도록 의도된 것은 아닙니다.
 
-- **MOMENTARY** — 약 3초보다 짧은 Duration
-- **CONTINUOUS** — 약 10초보다 긴 Duration
-- **REPEATED** — 한 MATCH 안에서 두 번 이상 발생하는 Action
+* **MOMENTARY** — 약 3초보다 짧은 Duration
+* **CONTINUOUS** — 약 10초보다 긴 Duration
+* **REPEATED** — 한 MATCH 안에서 두 번 이상 발생하는 Action
 
 FIRST Tech Challenge는 Section 1.5 Competition Integrity Contract (CIC)에 설명된 Competition Spirit에 어긋나는 특정 유형의 Violation을 설명하기 위해 **STRATEGIC**이라는 용어를 사용합니다.
 
-- **STRATEGIC** — Competitive Advantage를 얻기 위한 목적으로 수행된 Action
+* **STRATEGIC** — Competitive Advantage를 얻기 위한 목적으로 수행된 Action
 
 일부 Rule은 Action이 STRATEGIC으로 판단되면 해당 Action을 금지하거나 더 큰 Violation을 부여합니다(예: Scoring Action을 방해하거나 가능하게 하는 행동). 여기에는 고의적인 Action 또는 예상 가능한 결과를 무시한 Reckless Action이 포함됩니다. 우연하거나 예측 불가능한 상황은 STRATEGIC일 수 없습니다.
 
@@ -305,16 +281,24 @@ B. 여러 MATCH에 걸쳐 개별적으로는 Accident 또는 Unforeseeable로 �
 
 **Table 10-4 · Rule violations**
 
-<table><thead><tr><th>Penalty</th><th>Description</th></tr></thead><tbody><tr><td>VERBAL WARNING</td><td>Event Staff 또는 Head REFEREE가 부여하는 Warning</td></tr><tr><td>MINOR FOUL</td><td>상대 ALLIANCE의 MATCH Point 총점에 5점을 추가</td></tr><tr><td>MAJOR FOUL</td><td>상대 ALLIANCE의 MATCH Point 총점에 20점을 추가</td></tr><tr><td>YELLOW CARD</td><td>심각한 ROBOT 또는 Team Member Behavior나 Rule Violation에 대해 Head REFEREE가 부여하는 Warning. 같은 Tournament Phase에서 Subsequent YELLOW CARD를 받으면 RED CARD가 됨</td></tr><tr><td>RED CARD</td><td>심각한 ROBOT 또는 Team Member Behavior나 Rule Violation에 대해 Head REFEREE가 부여하며 해당 Team이 MATCH에서 DISQUALIFIED되는 Penalty</td></tr><tr><td>DISABLED</td><td>REFEREE가 Team에게 ROBOT을 정지하도록 지시하여 모든 Output을 비활성화하고 MATCH의 남은 시간 동안 ROBOT을 작동 불가능하게 만드는 상태</td></tr><tr><td>DISQUALIFIED</td><td>Qualification MATCH에서 MATCH Point 0점 및 RANKING POINT 0점을 받거나, Playoff MATCH에서 해당 ALLIANCE가 MATCH Point 0점을 받게 되는 Team 상태</td></tr></tbody></table>
+| Penalty        | Description                                                                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| VERBAL WARNING | Event Staff 또는 Head REFEREE가 부여하는 Warning                                                                                                       |
+| MINOR FOUL     | 상대 ALLIANCE의 MATCH Point 총점에 5점을 추가                                                                                                             |
+| MAJOR FOUL     | 상대 ALLIANCE의 MATCH Point 총점에 20점을 추가                                                                                                            |
+| YELLOW CARD    | 심각한 ROBOT 또는 Team Member Behavior나 Rule Violation에 대해 Head REFEREE가 부여하는 Warning. 같은 Tournament Phase에서 Subsequent YELLOW CARD를 받으면 RED CARD가 됨 |
+| RED CARD       | 심각한 ROBOT 또는 Team Member Behavior나 Rule Violation에 대해 Head REFEREE가 부여하며 해당 Team이 MATCH에서 DISQUALIFIED되는 Penalty                                |
+| DISABLED       | REFEREE가 Team에게 ROBOT을 정지하도록 지시하여 모든 Output을 비활성화하고 MATCH의 남은 시간 동안 ROBOT을 작동 불가능하게 만드는 상태                                                      |
+| DISQUALIFIED   | Qualification MATCH에서 MATCH Point 0점 및 RANKING POINT 0점을 받거나, Playoff MATCH에서 해당 ALLIANCE가 MATCH Point 0점을 받게 되는 Team 상태                        |
 
-### 10.6.1 YELLOW and RED CARDS {#s-10-6-1}
+### 10.6.1 YELLOW and RED CARDS <a href="#s-10-6-1" id="s-10-6-1"></a>
 
 이 문서 전체에 명시된 Rule Violation 외에도 FIRST Tech Challenge에서는 Section 1.5 Competition Integrity Contract (CIC)에 설명된 Behavioral/Ethical Guideline을 위반하는 Team 및 ROBOT Behavior를 다루기 위해 YELLOW CARD와 RED CARD를 사용합니다.
 
 Head REFEREE는 다음을 부여할 수 있습니다.
 
-- Warning으로 YELLOW CARD
-- Escalation Guidelines(추후 공개)에 따라 CIC를 위반하는 Behavior에 RED CARD
+* Warning으로 YELLOW CARD
+* Escalation Guidelines(추후 공개)에 따라 CIC를 위반하는 Behavior에 RED CARD
 
 RED CARD는 MATCH DISQUALIFICATION을 초래합니다. YELLOW CARD 또는 RED CARD를 받은 Team은 아래에 명시된 예외를 제외하고 이후 MATCH에 YELLOW CARD 상태를 Carry합니다.
 
@@ -324,7 +308,7 @@ YELLOW CARDS는 누적됩니다. 두 번째 YELLOW CARD는 자동으로 RED CARD
 
 Audience Display MATCH Result Screen에는 YELLOW CARD, 두 번째 YELLOW CARD 또는 RED CARD가 Figure 10-8처럼 표시됩니다. YELLOW CARD는 노란색 Rectangle, 두 번째 YELLOW CARD는 노란색 Rectangle 위의 빨간색 Rectangle, RED CARD는 빨간색 Rectangle으로 표시됩니다.
 
-![Figure 10-8 · Example MATCH results graphic showing YELLOW and RED CARD indicators](assets/image-048.jpg)
+![Figure 10-8 · Example MATCH results graphic showing YELLOW and RED CARD indicators](.gitbook/assets/image-048.jpg)
 
 **Figure 10-8 · Example MATCH results graphic showing YELLOW and RED CARD indicators**
 
@@ -332,19 +316,24 @@ MATCH가 순서와 다르게 진행되는 경우 Subsequent MATCH란 원래 예�
 
 Team이 YELLOW 또는 RED CARD를 받은 뒤에는 Replay를 포함한 모든 Subsequent MATCH의 Audience Display에서 Team Number가 Yellow Background로 표시되어 Team, REFEREES, Audience가 해당 Team이 YELLOW CARD를 Carry하고 있음을 알 수 있습니다.
 
-![Figure 10-9 · Example in-MATCH audience screen showing YELLOW CARD indicators](assets/image-049.jpg)
+![Figure 10-9 · Example in-MATCH audience screen showing YELLOW CARD indicators](.gitbook/assets/image-049.jpg)
 
 **Figure 10-9 · Example in-MATCH audience screen showing YELLOW CARD indicators**
 
 모든 YELLOW CARDS와 G301 VERBAL WARNINGS는 Practice, Qualification 및 Division Playoff MATCHES가 끝날 때 초기화됩니다. Head REFEREE가 부여한 다른 VERBAL WARNINGS는 Practice MATCHES 이후 초기화되며, 별도 명시가 없으면 Qualification MATCHES부터 Subsequent Tournament Phase까지 유지됩니다.
 
-### 10.6.2 YELLOW and RED CARD application {#s-10-6-2}
+### 10.6.2 YELLOW and RED CARD application <a href="#s-10-6-2" id="s-10-6-2"></a>
 
 YELLOW 및 RED CARDS는 다음 기준으로 적용됩니다.
 
 **Table 10-5 · YELLOW and RED CARD application**
 
-<table><thead><tr><th>Time YELLOW or RED CARDS earned</th><th>MATCH to which CARD is applied</th></tr></thead><tbody><tr><td>Qualification MATCHES 이전</td><td>Qualification MATCHES 시작 전에는 REFEREES가 FIELD에 없을 수 있습니다. Event Staff의 의견을 바탕으로 Head REFEREE는 특히 심각한 Behavior에 대해 Qualification MATCHES 이전에 받은 VERBAL WARNING 또는 YELLOW CARD를 첫 Qualification MATCH까지 유지하도록 선택할 수 있습니다.</td></tr><tr><td>Qualification MATCHES 중</td><td>Team의 현재(또는 방금 완료한) 비-SURROGATE MATCH에 적용합니다. SURROGATE MATCH에서는 CARD를 Team의 이전 Qualification MATCH에 적용합니다.</td></tr><tr><td>Qualification MATCHES 종료 후 Playoff MATCHES 시작 전</td><td>ALLIANCE의 첫 Playoff MATCH에 적용합니다.</td></tr><tr><td>Playoff MATCHES 중</td><td>ALLIANCE의 현재(또는 방금 완료한) MATCH에 적용합니다.</td></tr></tbody></table>
+| Time YELLOW or RED CARDS earned                 | MATCH to which CARD is applied                                                                                                                                                                                         |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Qualification MATCHES 이전                        | Qualification MATCHES 시작 전에는 REFEREES가 FIELD에 없을 수 있습니다. Event Staff의 의견을 바탕으로 Head REFEREE는 특히 심각한 Behavior에 대해 Qualification MATCHES 이전에 받은 VERBAL WARNING 또는 YELLOW CARD를 첫 Qualification MATCH까지 유지하도록 선택할 수 있습니다. |
+| Qualification MATCHES 중                         | Team의 현재(또는 방금 완료한) 비-SURROGATE MATCH에 적용합니다. SURROGATE MATCH에서는 CARD를 Team의 이전 Qualification MATCH에 적용합니다.                                                                                                            |
+| Qualification MATCHES 종료 후 Playoff MATCHES 시작 전 | ALLIANCE의 첫 Playoff MATCH에 적용합니다.                                                                                                                                                                                      |
+| Playoff MATCHES 중                               | ALLIANCE의 현재(또는 방금 완료한) MATCH에 적용합니다.                                                                                                                                                                                  |
 
 {% hint style="info" %}
 MATCH Result가 게시되었거나 Head REFEREE 또는 Designee가 Team이 ROBOT을 회수해도 된다고 표시한 시점 중 더 늦은 시점이 지나면 해당 MATCH는 더 이상 Current MATCH가 아닙니다.
@@ -352,39 +341,39 @@ MATCH Result가 게시되었거나 Head REFEREE 또는 Designee가 Team이 ROBOT
 YELLOW 및 RED CARD 적용 예시는 Section 10.6.4 Violation Details를 참고하십시오.
 {% endhint %}
 
-### 10.6.3 YELLOW and RED CARDS during Playoff MATCHES {#s-10-6-3}
+### 10.6.3 YELLOW and RED CARDS during Playoff MATCHES <a href="#s-10-6-3" id="s-10-6-3"></a>
 
 Playoff MATCHES에서 YELLOW 및 RED CARDS는 위반 Team에만 적용되는 대신 위반 Team의 전체 ALLIANCE에 적용됩니다. ALLIANCE가 YELLOW CARD 2개를 받으면 전체 ALLIANCE에 RED CARD가 부여되고 해당 MATCH에서 DISQUALIFICATION됩니다.
 
-### 10.6.4 Violation Details {#s-10-6-4}
+### 10.6.4 Violation Details <a href="#s-10-6-4" id="s-10-6-4"></a>
 
 이 Manual에는 여러 형태의 Violation 문구가 사용됩니다. 아래는 대표적인 Violation 예와 그 Violation을 어떻게 평가하는지에 대한 설명입니다. 아래 예시는 가능한 모든 Violation 조합을 나타내는 것이 아니라 대표적인 조합입니다.
 
 **Table 10-6 · Violation examples**
 
-<table><thead><tr><th>Example Violation</th><th>Expanded Interpretation</th></tr></thead><tbody>
-<tr><td>MINOR FOUL</td><td>위반 발생 시 위반 ALLIANCE에 MINOR FOUL 1개를 부여합니다.</td></tr>
-<tr><td>MAJOR FOUL and YELLOW CARD per instance.</td><td>위반 발생 시 위반 ALLIANCE에 MAJOR FOUL 1개를 부여합니다. MATCH 종료 후 위반 Team에 YELLOW CARD를 부여합니다.</td></tr>
-<tr><td>MINOR FOUL per SCORING ELEMENT.</td><td>Rule Violation에 사용된 SCORING ELEMENT 수와 동일한 수의 MINOR FOUL을 위반 ALLIANCE에 부여합니다.</td></tr>
-<tr><td>MAJOR FOUL per instance. MAJOR FOUL per instance and YELLOW CARD per MATCH if REPEATED.</td><td>한 MATCH에서 처음 위반하면 Violation Instance마다 MAJOR FOUL을 부여합니다. 두 번째 문장의 REPEATED 조건이 충족되어 ROBOT이 같은 MATCH에서 위반을 반복하면 추가 MAJOR FOUL을 부여하고 MATCH 종료 후 위반 Team에 YELLOW CARD를 부여합니다.<br/><br/>해당 MATCH에서 이 Rule에 대한 추가 위반이 없다고 가정하면 ALLIANCE는 MAJOR FOUL 2개와 YELLOW CARD 1개를 받습니다. 이후 같은 MATCH에서 추가 위반이 발생하면 MAJOR FOUL 수는 증가하지만 이 Rule로 인해 받는 YELLOW CARD 수는 증가하지 않습니다.</td></tr>
-<tr><td>MAJOR FOUL and an additional MAJOR FOUL for every 3 seconds in which the situation is not corrected</td><td>위반 발생 시 위반 ALLIANCE에 MAJOR FOUL 1개를 부여하고 REFEREE가 Count를 시작합니다. Count 중단 Criteria가 충족될 때까지 계속하며 해당 시간 동안 3초마다 추가 MAJOR FOUL을 부여합니다.<br/><br/>이 유형의 Rule을 15초 동안 위반한 ROBOT은 다른 Rule을 동시에 위반하지 않았다고 가정할 때 총 MAJOR FOUL 6개를 받습니다.</td></tr>
-<tr><td>VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.</td><td>일반적인 위반에는 위반 Team에 VERBAL WARNING을 부여합니다. REFEREES가 위반을 STRATEGIC으로 판단하면 위반 ALLIANCE에 MAJOR FOUL을 부여하고 MATCH 종료 후 위반 Team에 YELLOW CARD를 부여합니다.</td></tr>
-<tr><td>MAJOR FOUL per instance of violation. MAJOR FOUL and YELLOW CARD if REPEATED.</td><td>첫 위반에는 위반 Team에 MAJOR FOUL을 부여합니다. 같은 Team이 같은 MATCH에서 Subsequent Violation을 하여 “if REPEATED” 조건이 충족되면 추가 MAJOR FOUL을 부여합니다. 이것이 MATCH에서 해당 Rule의 유일한 두 위반이라면 MATCH 종료 후 두 번째 위반에 대해 YELLOW CARD를 부여합니다.<br/><br/>총합은 MAJOR FOUL 2개와 YELLOW CARD 1개입니다.</td></tr>
-<tr><td>VERBAL WARNING. YELLOW CARD if subsequent violations occur during the event.</td><td>첫 위반에는 위반 Team에 VERBAL WARNING을 부여합니다. 같은 Event Phase 또는 이후 Event Phase의 MATCH에서 동일 Rule의 추가 위반이 발생하면 각 Subsequent Violation 뒤 MATCH 종료 후 위반 Team에 YELLOW CARD를 부여합니다.</td></tr>
-<tr><td>VERBAL WARNING. MAJOR FOUL and YELLOW CARD per instance, if STRATEGIC. MAJOR FOUL and RED CARD per instance, if STRATEGIC and either CONTINUOUS or opponent ROBOT is unable to drive.</td><td>일반적인 위반에는 위반 Team에 VERBAL WARNING을 부여합니다. REFEREES가 STRATEGIC으로 판단하면 위반 ALLIANCE에 MAJOR FOUL을 부여하고 MATCH 종료 후 Team에 YELLOW CARD를 부여합니다.<br/><br/>위반이 STRATEGIC이고 상대 ROBOT이 Unable to Drive이거나 Entanglement가 10초 이상 지속되면 위반 ALLIANCE에 MAJOR FOUL을 부여하고 MATCH 종료 후 Team에 RED CARD를 부여합니다. 하나의 Violation Instance에서는 MAJOR FOUL 1개와 CARD 1개만 받을 수 있지만, 한 MATCH에서 여러 Violation Instance가 발생하면 여러 MAJOR FOUL과 CARD를 받을 수 있습니다.</td></tr>
-</tbody></table>
+| Example Violation                                                                                                                                                                     | Expanded Interpretation                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| MINOR FOUL                                                                                                                                                                            | 위반 발생 시 위반 ALLIANCE에 MINOR FOUL 1개를 부여합니다.                                                                                                                                                                                                                                                                                                                                                                                     |
+| MAJOR FOUL and YELLOW CARD per instance.                                                                                                                                              | 위반 발생 시 위반 ALLIANCE에 MAJOR FOUL 1개를 부여합니다. MATCH 종료 후 위반 Team에 YELLOW CARD를 부여합니다.                                                                                                                                                                                                                                                                                                                                             |
+| MINOR FOUL per SCORING ELEMENT.                                                                                                                                                       | Rule Violation에 사용된 SCORING ELEMENT 수와 동일한 수의 MINOR FOUL을 위반 ALLIANCE에 부여합니다.                                                                                                                                                                                                                                                                                                                                                  |
+| MAJOR FOUL per instance. MAJOR FOUL per instance and YELLOW CARD per MATCH if REPEATED.                                                                                               | <p>한 MATCH에서 처음 위반하면 Violation Instance마다 MAJOR FOUL을 부여합니다. 두 번째 문장의 REPEATED 조건이 충족되어 ROBOT이 같은 MATCH에서 위반을 반복하면 추가 MAJOR FOUL을 부여하고 MATCH 종료 후 위반 Team에 YELLOW CARD를 부여합니다.<br><br>해당 MATCH에서 이 Rule에 대한 추가 위반이 없다고 가정하면 ALLIANCE는 MAJOR FOUL 2개와 YELLOW CARD 1개를 받습니다. 이후 같은 MATCH에서 추가 위반이 발생하면 MAJOR FOUL 수는 증가하지만 이 Rule로 인해 받는 YELLOW CARD 수는 증가하지 않습니다.</p>                                                           |
+| MAJOR FOUL and an additional MAJOR FOUL for every 3 seconds in which the situation is not corrected                                                                                   | <p>위반 발생 시 위반 ALLIANCE에 MAJOR FOUL 1개를 부여하고 REFEREE가 Count를 시작합니다. Count 중단 Criteria가 충족될 때까지 계속하며 해당 시간 동안 3초마다 추가 MAJOR FOUL을 부여합니다.<br><br>이 유형의 Rule을 15초 동안 위반한 ROBOT은 다른 Rule을 동시에 위반하지 않았다고 가정할 때 총 MAJOR FOUL 6개를 받습니다.</p>                                                                                                                                                                                            |
+| VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.                                                                                                                   | 일반적인 위반에는 위반 Team에 VERBAL WARNING을 부여합니다. REFEREES가 위반을 STRATEGIC으로 판단하면 위반 ALLIANCE에 MAJOR FOUL을 부여하고 MATCH 종료 후 위반 Team에 YELLOW CARD를 부여합니다.                                                                                                                                                                                                                                                                                 |
+| MAJOR FOUL per instance of violation. MAJOR FOUL and YELLOW CARD if REPEATED.                                                                                                         | <p>첫 위반에는 위반 Team에 MAJOR FOUL을 부여합니다. 같은 Team이 같은 MATCH에서 Subsequent Violation을 하여 “if REPEATED” 조건이 충족되면 추가 MAJOR FOUL을 부여합니다. 이것이 MATCH에서 해당 Rule의 유일한 두 위반이라면 MATCH 종료 후 두 번째 위반에 대해 YELLOW CARD를 부여합니다.<br><br>총합은 MAJOR FOUL 2개와 YELLOW CARD 1개입니다.</p>                                                                                                                                                                   |
+| VERBAL WARNING. YELLOW CARD if subsequent violations occur during the event.                                                                                                          | 첫 위반에는 위반 Team에 VERBAL WARNING을 부여합니다. 같은 Event Phase 또는 이후 Event Phase의 MATCH에서 동일 Rule의 추가 위반이 발생하면 각 Subsequent Violation 뒤 MATCH 종료 후 위반 Team에 YELLOW CARD를 부여합니다.                                                                                                                                                                                                                                                         |
+| VERBAL WARNING. MAJOR FOUL and YELLOW CARD per instance, if STRATEGIC. MAJOR FOUL and RED CARD per instance, if STRATEGIC and either CONTINUOUS or opponent ROBOT is unable to drive. | <p>일반적인 위반에는 위반 Team에 VERBAL WARNING을 부여합니다. REFEREES가 STRATEGIC으로 판단하면 위반 ALLIANCE에 MAJOR FOUL을 부여하고 MATCH 종료 후 Team에 YELLOW CARD를 부여합니다.<br><br>위반이 STRATEGIC이고 상대 ROBOT이 Unable to Drive이거나 Entanglement가 10초 이상 지속되면 위반 ALLIANCE에 MAJOR FOUL을 부여하고 MATCH 종료 후 Team에 RED CARD를 부여합니다. 하나의 Violation Instance에서는 MAJOR FOUL 1개와 CARD 1개만 받을 수 있지만, 한 MATCH에서 여러 Violation Instance가 발생하면 여러 MAJOR FOUL과 CARD를 받을 수 있습니다.</p> |
 
-## 10.7 Head REFEREE {#s-10-7}
+## 10.7 Head REFEREE <a href="#s-10-7" id="s-10-7"></a>
 
 T401에 따라 Head REFEREE는 Event 중 ARENA에서 최종 권한을 갖습니다. FIRST Personnel, FTA, Event Director 또는 기타 Event Staff 등 추가 Source의 의견을 받을 수 있지만 Head REFEREE의 판정은 최종입니다. Head REFEREE를 포함한 어떤 Event Staff도 어떤 상황에서도 어떤 Source의 MATCH Video, Photo, Artistic Rendering 등을 판정에 사용하지 않습니다.
 
-## 10.8 Other Logistics {#s-10-8}
+## 10.8 Other Logistics <a href="#s-10-8" id="s-10-8"></a>
 
-### 10.8.1 Practice MATCH Participation {#s-10-8-1}
+### 10.8.1 Practice MATCH Participation <a href="#s-10-8-1" id="s-10-8-1"></a>
 
 FTA, LRI 또는 Head REFEREE가 ROBOT이 안전하지 않거나 ARENA를 손상시킬 가능성이 있다고 판단하면 해당 Team의 Practice MATCH 참가를 금지할 수 있습니다.
 
-### 10.8.2 SCORING ELEMENT Logistics {#s-10-8-2}
+### 10.8.2 SCORING ELEMENT Logistics <a href="#s-10-8-2" id="s-10-8-2"></a>
 
 FIELD 밖으로 나온 POLLEN은 FIELD STAFF가 가장 빠르고 안전한 기회에 가장 가까운 편리한 위치로 FIELD에 다시 투입합니다.
 
@@ -392,20 +381,20 @@ FIELD 밖으로 나온 NECTAR는 Section 11.4.6 Human에 따라 재투입할 수
 
 Section 13.2 MATCH Replays에 설명된 ARENA 운영 Error인 ARENA FAULT는 MATCH가 다음 상태로 우연히 시작한 경우 선언하지 않습니다.
 
-- 손상된 SCORING ELEMENTS
-- 잘못된 수의 SCORING ELEMENTS
-- 잘못된 위치에 배치된 SCORING ELEMENTS
+* 손상된 SCORING ELEMENTS
+* 잘못된 수의 SCORING ELEMENTS
+* 잘못된 위치에 배치된 SCORING ELEMENTS
 
 손상된 SCORING ELEMENTS는 다음 MATCH Reset까지 교체하지 않습니다. DRIVE TEAMS는 MATCH 시작 전에 누락되거나 잘못 배치되었거나 손상된 SCORING ELEMENTS를 FIELD STAFF에게 알려야 합니다.
 
-### 10.8.3 FIELD Mitigation {#s-10-8-3}
+### 10.8.3 FIELD Mitigation <a href="#s-10-8-3" id="s-10-8-3"></a>
 
 MATCH 중 FIELD STAFF는 Field Mitigation Guide(추후 공개)의 단계에 따라 일부 FIELD Issue를 완화할 수 있습니다.
 
-### 10.8.4 FIELD Reset {#s-10-8-4}
+### 10.8.4 FIELD Reset <a href="#s-10-8-4" id="s-10-8-4"></a>
 
 MATCH가 끝나고 Head REFEREE 또는 Designee가 FIELD와 FIELD STAFF가 준비되었다고 판단하면 DRIVE TEAMS에게 ROBOT을 정지하도록 신호합니다. 이 신호로 FIELD Reset이 시작되며 DRIVE TEAMS는 ROBOT을 회수합니다.
 
 FIELD Reset 동안 방금 끝난 MATCH의 ROBOTS와 OPERATOR CONSOLES를 FIELD에서 제거하고, Subsequent MATCH의 ROBOTS와 OPERATOR CONSOLES를 DRIVE TEAMS가 FIELD에 반입하며, FIELD STAFF가 ARENA Element를 Reset합니다.
 
-![](assets/image-050.jpg)
+![](.gitbook/assets/image-050.jpg)

@@ -1,4 +1,4 @@
-# 14 League Play Tournaments (L) {#s-14}
+# 14 League Play Tournaments (L)
 
 모든 Region이 League Play 참가 기회를 제공하는 것은 아닙니다. League는 일반적으로 여러 주 또는 여러 달에 걸쳐 여러 League Meet Event를 진행하는 폐쇄형 Team Group입니다. 같은 League의 모든 Team은 대략 동일한 수의 MATCH를 플레이할 기회를 가져야 합니다. League의 모든 Team은 최소 10개의 League Meet MATCH를 플레이해야 합니다.
 
@@ -14,4 +14,4 @@ League Meet에서 10개보다 적은 MATCH를 플레이한 Team은 부족한 MAT
 
 League Tournament Advancement(Table 4-1)는 Qualification Round Performance를 제외하면 League Tournament에서의 Team Performance만 사용하여 계산합니다. Qualification Round Performance는 위에서 설명한 상위 10개의 League Meet MATCH를 포함하는 League Tournament Ranking을 기준으로 합니다.
 
-![](assets/image-072.jpg)
+![](.gitbook/assets/image-072.jpg)

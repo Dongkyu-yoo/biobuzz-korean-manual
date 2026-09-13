@@ -1,8 +1,8 @@
-# 15 FIRST Championship (C) {#s-15}
+# 15 FIRST Championship (C)
 
 2026-2027 FIRST Championship에서 Team은 6개의 Division으로 나뉩니다. 각 Division은 Section 13.6 Qualification MATCHES 및 Section 13.7 Playoff MATCHES에 설명된 표준 Tournament를 진행하여 Division Winning ALLIANCE를 결정합니다. 이 6개의 Division Winning ALLIANCE는 FIRST Championship FIELD에서 Championship Playoffs에 진출하여 Section 15.5 FIRST Championship Playoffs에 따라 FIRST Tech Challenge Championship Winner를 결정합니다.
 
-## 15.1 Awards Modifications {#s-15-1}
+## 15.1 Awards Modifications <a href="#s-15-1" id="s-15-1"></a>
 
 Venue 제한과 Event의 많은 Team 수를 수용하기 위해 FIRST Championship의 Judging Process가 수정될 수 있습니다. Process 또는 Award Modification은 Section 1.7.3 Team Updates에 설명된 마지막 정규 Team Update 또는 그 이전에 게시됩니다.
 
@@ -10,13 +10,13 @@ Section 6 Awards (A)의 Award는 Table 15-1에 표시된 예외를 제외하고 
 
 **Table 15-1 · FIRST Championship Awards**
 
-<table><thead><tr><th>Award</th><th>Per Division</th><th>FIRST Championship</th></tr></thead><tbody>
-<tr><td>Inspire Award</td><td>1위, 2위, 3위</td><td>1위</td></tr>
-<tr><td>FIRST Leadership List</td><td>0</td><td>10</td></tr>
-<tr><td>Compass Award</td><td>0</td><td>1</td></tr>
-</tbody></table>
+| Award                 | Per Division | FIRST Championship |
+| --------------------- | ------------ | ------------------ |
+| Inspire Award         | 1위, 2위, 3위   | 1위                 |
+| FIRST Leadership List | 0            | 10                 |
+| Compass Award         | 0            | 1                  |
 
-## 15.2 Game Modification {#s-15-2}
+## 15.2 Game Modification <a href="#s-15-2" id="s-15-2"></a>
 
 FIRST Championship BIOBUZZ Tournament에서는 SCORING ELEMENTS의 수, 종류, 분포와 Scoring Achievement(RP) Threshold가 조정될 수 있습니다. 모든 Game Modification은 Section 1.7.3 Team Updates에 설명된 마지막 정규 Team Update 또는 그 이전에 게시됩니다.
 
@@ -26,7 +26,7 @@ FIRST Championship BIOBUZZ Tournament에서는 SCORING ELEMENTS의 수, 종류, 
 
 일부 또는 모든 Division FIELD에는 다른 또는 추가 Decal, Metal Coating, Material Change, Light 등을 포함하여 외관을 변경하는 추가 Modification이 적용될 수 있습니다. 이러한 Modification은 오직 미관상의 변경이 되도록 모든 노력을 기울이며 FIELD Performance 또는 ROBOT Design에 영향을 주지 않도록 합니다. 이러한 Modification의 세부사항은 Section 1.7.3 Team Updates에 설명된 마지막 정규 Team Update 또는 그 이전에 게시됩니다.
 
-## 15.3 3-ROBOT ALLIANCES {#s-15-3}
+## 15.3 3-ROBOT ALLIANCES <a href="#s-15-3" id="s-15-3"></a>
 
 FIRST Championship의 ALLIANCE는 3대의 ROBOT으로 구성됩니다. 각 Division Playoff Tournament 전에 Section 13.7.1 ALLIANCE Selection Process에 설명된 절차에 따라 ALLIANCE를 구성하지만, 다음과 같이 2번째 Selection Round를 계속 진행합니다.
 
@@ -39,23 +39,23 @@ Division 및 Championship Playoff MATCHES에서 ALLIANCE는 각 MATCH를 자신�
 {% endhint %}
 
 {% hint style="success" %}
-#### C301 \*Replay에서는 같은 ROBOT을 사용하십시오. {#rule-C301}
+#### C301 \*Replay에서는 같은 ROBOT을 사용하십시오. <a href="#rule-c301" id="rule-c301"></a>
 
 Playoff MATCH를 Replay해야 하는 경우 Replay에 사용하는 2대 ROBOT은 Original MATCH에서 사용한 ROBOT과 동일해야 합니다. 유일한 예외는 Head REFEREE가 ARENA FAULT 때문에 ROBOT이 작동 불가능 상태가 되었다고 판단한 경우이며, 이 경우 ROBOTS를 변경할 수 있습니다. Tie 때문에 추가 MATCH를 플레이하는 경우에는 3대 ROBOT 중 어떤 2대를 사용해도 됩니다.
 
 > FIRST Tech Challenge Team은 대부분의 Event보다 FIRST Championship에서 훨씬 더 많은 MATCH를 플레이하며 Event의 Team 수도 훨씬 많습니다. 세 번째 ROBOT을 Draft하면 각 ALLIANCE가 내장 Backup ROBOT을 확보하고 서로 다른 MATCH Strategy를 고려하여 Draft할 수 있는 유연성이 생깁니다.
 {% endhint %}
 
-## 15.4 FIRST Championship Pit Crews {#s-15-4}
+## 15.4 FIRST Championship Pit Crews <a href="#s-15-4" id="s-15-4"></a>
 
 FIRST Championship Playoffs에 참가하는 ALLIANCE의 각 Team은 T704에 따라 Pre-MATCH Strategy, ROBOT Repair 및 Maintenance, 기타 Team Support Function을 돕기 위해 ARENA 내부에 추가 Pit Crew Team Member 3명을 둘 수 있습니다. 추가 Pit Crew Member는 ARENA의 Pit Area에 머물러야 합니다.
 
 추가 Team Member는 Adult 또는 STUDENT일 수 있습니다.
 
-## 15.5 FIRST Championship Playoffs {#s-15-5}
+## 15.5 FIRST Championship Playoffs <a href="#s-15-5" id="s-15-5"></a>
 
 {% hint style="info" %}
 FIRST Championship Playoff Tournament Structure에 대한 추가 정보는 향후 Team Update의 일부로 공개됩니다.
 {% endhint %}
 
-![](assets/image-073.jpg)
+![](.gitbook/assets/image-073.jpg)

@@ -1,6 +1,6 @@
-# 8 Game Overview {#s-8}
+# 8 Game Overview
 
-![BIOBUZZ playing field](assets/image-021.png)
+![BIOBUZZ playing field](.gitbook/assets/image-021.png)
 
 RTX가 후원하는 BIOBUZZ™에서는 각각 2개 팀으로 구성된 2개의 ALLIANCE가 서로 경쟁하며 POLLEN과 NECTAR를 수집해 자신의 HIVE로 LAUNCH하고 FLOWER에 넣습니다.
 
@@ -12,4 +12,4 @@ MATCH의 첫 30초 동안 ROBOTS는 자율적으로 작동합니다. ROBOTS는 S
 
 가장 많은 점수를 획득한 ALLIANCE가 MATCH에서 승리하며, 다른 Scoring Achievement를 완료하면 추가 RANKING POINTS를 획득할 수 있습니다.
 
-![BIOBUZZ divider](assets/image-022.jpg)
+![BIOBUZZ divider](.gitbook/assets/image-022.jpg)
