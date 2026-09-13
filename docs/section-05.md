@@ -18,6 +18,7 @@ FIRST는 STEM for Everyone™을 지향하며 편의를 요청하는 장애가 �
 
 ## 5.1 General Rules {#s-5-1}
 
+{% hint style="warning" %}
 #### E101 \*개인의 안전이 최우선입니다. {#rule-E101}
 
 모든 팀원은 이벤트 전체 기간 동안 다음 안전 수칙을 준수해야 합니다.
@@ -34,12 +35,12 @@ E. 행사장에서는 걸어 다닙니다.
 
 F. 해당 이벤트에 적용되는 정부 및 행사장별 보건·안전 요건(예: 마스크 착용)을 준수합니다.
 
-{% hint style="info" %}
-투명하거나 옅게 착색된 보안경을 권장합니다. 필요한 사람은 짙게 착색된 안경을 사용할 수 있으며 별도의 편의 요청은 필요하지 않습니다.<br>
-<br>
-팀은 개인 보호 장비를 직접 준비할 책임이 있습니다. FIRST 이벤트 안전에 관한 자세한 내용은 FIRST Safety Manual을 참고하십시오.
+> 투명하거나 옅게 착색된 보안경을 권장합니다. 필요한 사람은 짙게 착색된 안경을 사용할 수 있으며 별도의 편의 요청은 필요하지 않습니다.<br>
+> <br>
+> 팀은 개인 보호 장비를 직접 준비할 책임이 있습니다. FIRST 이벤트 안전에 관한 자세한 내용은 FIRST Safety Manual을 참고하십시오.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E102 \*서로 존중하십시오. {#rule-E102}
 
 모든 참가자는 FIRST Tech Challenge 이벤트에 참가하는 동안 Section 1.4 The Spirit of the Competition의 행동 프레임워크를 따라야 합니다. 다른 참가자에 대한 무례한 행동은 허용되지 않습니다.
@@ -54,46 +55,66 @@ C. 다른 참가자 또는 관중의 시야를 장시간 의도적으로 가리�
 
 D. ROBOT 또는 ARENA 운영을 방해하는 모든 행동
 
-{% hint style="info" %}
-**특히 심각하여 이벤트 퇴장으로 이어질 수 있는 행동의 예:**
-
-E. 폭행 — 예: 의도하지 않았더라도 던진 물건이 다른 사람에게 맞는 경우
-
-F. 위협 — 예: “그 판정을 번복하지 않으면 후회하게 만들겠다”와 같은 발언
-
-G. 괴롭힘 — 결정이 내려졌거나 질문에 답변이 끝난 뒤 새로운 정보 없이 계속 상대를 몰아붙이는 행동
-
-H. 따돌림·위협 — 신체적 또는 언어적 표현으로 다른 사람이 부족하거나 안전하지 않다고 느끼게 하는 행동
-
-I. 모욕 — 예: 누군가에게 팀에 있을 자격이 없다고 말하는 것
-
-J. 혼잣말이나 자신에게 하는 욕설이 아니라 다른 사람을 향해 욕설하는 것
-
-K. 분노나 좌절로 다른 사람에게 고함을 지르는 것
+> **특히 심각하여 이벤트 퇴장으로 이어질 수 있는 행동의 예:**
+> 
+> 
+> 
+> E. 폭행 — 예: 의도하지 않았더라도 던진 물건이 다른 사람에게 맞는 경우
+> 
+> 
+> 
+> F. 위협 — 예: “그 판정을 번복하지 않으면 후회하게 만들겠다”와 같은 발언
+> 
+> 
+> 
+> G. 괴롭힘 — 결정이 내려졌거나 질문에 답변이 끝난 뒤 새로운 정보 없이 계속 상대를 몰아붙이는 행동
+> 
+> 
+> 
+> H. 따돌림·위협 — 신체적 또는 언어적 표현으로 다른 사람이 부족하거나 안전하지 않다고 느끼게 하는 행동
+> 
+> 
+> 
+> I. 모욕 — 예: 누군가에게 팀에 있을 자격이 없다고 말하는 것
+> 
+> 
+> 
+> J. 혼잣말이나 자신에게 하는 욕설이 아니라 다른 사람을 향해 욕설하는 것
+> 
+> 
+> 
+> K. 분노나 좌절로 다른 사람에게 고함을 지르는 것
 {% endhint %}
 
+{% hint style="warning" %}
 #### E103 \*어린이는 성인과 함께하십시오. {#rule-E103}
 
 12세 미만 어린이는 Pit에서 항상 성인과 동행해야 합니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E104 \*행사장을 존중하십시오. {#rule-E104}
 
 팀은 관람석, 바닥, 벽, 난간 등을 포함하여 행사장을 어떤 방식으로도 훼손해서는 안 됩니다. 사탕, 전단지, 스티커 등 팀 기념품을 버리거나 관중석에서 물품을 던져 쓰레기를 만드는 행위도 포함됩니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E105 \*이벤트 자원은 참가 팀만을 위한 것입니다. {#rule-E105}
 
 Event Director 또는 Program Delivery Partner의 사전 승인이 없는 한 해당 이벤트에 등록된 팀만 competition FIELD, practice FIELD 및 Inspection을 이용할 수 있습니다. Practice FIELD 요소 및/또는 Machine Shop 자원을 제공하는 Host Team은 이를 사용할 수 있지만, 해당 이벤트에 등록된 팀에게 우선권을 주어야 합니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E106 \*허용된 시간과 장소에서만 연습하십시오. {#rule-E106}
 
 팀은 자신의 Pit 공간, 지정된 이벤트 Practice Area 또는 Practice MATCH 중에만 ROBOT으로 연습할 수 있습니다.
 
-{% hint style="info" %}
-팀은 Pit 밖의 다른 행사장 구역에 자체 Practice 장비를 설치할 수 없습니다. Event Director가 Pit의 Practice 설치가 안전하지 않거나 인접 Pit 또는 통로의 활동을 방해한다고 판단하면 팀은 해당 활동을 중단해야 합니다.<br>
-<br>
-방문객이나 JUDGES에게 ROBOT 기능을 시연하는 것은 Practice로 간주하지 않습니다.
+> 팀은 Pit 밖의 다른 행사장 구역에 자체 Practice 장비를 설치할 수 없습니다. Event Director가 Pit의 Practice 설치가 안전하지 않거나 인접 Pit 또는 통로의 활동을 방해한다고 판단하면 팀은 해당 활동을 중단해야 합니다.<br>
+> <br>
+> 방문객이나 JUDGES에게 ROBOT 기능을 시연하는 것은 Practice로 간주하지 않습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E107 \*지정된 구역에서만 작업하십시오. {#rule-E107}
 
 이벤트 행사장에서 팀은 다음 장소에서만 FABRICATED ITEM을 제작할 수 있습니다.
@@ -107,7 +128,9 @@ C. MATCH 또는 Practice FIELD를 위해 대기 중인 장소(공간이 제한�
 D. 이벤트 Staff가 지정한 모든 구역(예: Playoff Pit Area)
 
 E. 모든 팀이 이용할 수 있도록 제공되는 Machine Shop에서 허용된 범위
+{% endhint %}
 
+{% hint style="warning" %}
 #### E108 \*이벤트에 가져오거나 사용해서는 안 되는 물품이 있습니다. {#rule-E108}
 
 다음 물품을 가져오거나 사용하지 마십시오.
@@ -125,19 +148,27 @@ E. Floor stomper, 호루라기, 에어혼 등 시끄러운 장치 또는 소음 
 F. 편의를 위해 사용하는 경우를 제외한 스쿠터
 
 G. 초당 약 5회보다 빠르게 깜박이는 밝은 조명이 있는 물품
+{% endhint %}
 
+{% hint style="warning" %}
 #### E109 \*추가 서비스나 설비를 별도로 요청하지 마십시오. {#rule-E109}
 
 행사장 서비스 제공업체에 전력, 인터넷 접속 또는 전화 회선 제공을 별도로 요청하거나, FIRST Event Management Software 또는 Webcast 등 이벤트 운영용으로 예약된 행사장 인터넷 연결을 사용하려고 해서는 안 됩니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E110 \*물건을 판매하지 마십시오. {#rule-E110}
 
 팀은 이벤트에서 판매 활동을 할 수 없습니다. Event Director가 명시적으로 허용하지 않는 한 추첨권, 음식, 모자, 셔츠, 사탕, 물, 탄산음료, 과일 또는 홍보 상품 등의 판매가 포함됩니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E111 \*큰 음악 소리는 금지됩니다. {#rule-E111}
 
 관중석에서 연주하도록 라이브 밴드를 초대하거나 데려오지 마십시오. 큰 음악을 재생하지 마십시오.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E112 \*배너는 주의해서 거십시오. {#rule-E112}
 
 배너를 걸 때 다른 사람을 존중하십시오.
@@ -154,60 +185,63 @@ E. 표지판과 배너를 안전하게 설치합니다.
 
 F. Team Pit 밖에 거는 배너는 25 ft²(~2.3 m²)보다 클 수 없습니다.
 
-{% hint style="info" %}
-팀이 자신의 Pit 및/또는 ARENA에 전시할 팀 깃발이나 표지판을 가져오는 것을 권장합니다.<br>
-<br>
-표지판 위치와 설치 방법에 관한 행사장별 규칙을 준수하십시오. 이벤트가 끝나면 모든 표지판과 표지판을 거는 데 사용한 테이프, 끈 등을 안전하게 제거하십시오.
+> 팀이 자신의 Pit 및/또는 ARENA에 전시할 팀 깃발이나 표지판을 가져오는 것을 권장합니다.<br>
+> <br>
+> 표지판 위치와 설치 방법에 관한 행사장별 규칙을 준수하십시오. 이벤트가 끝나면 모든 표지판과 표지판을 거는 데 사용한 테이프, 끈 등을 안전하게 제거하십시오.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E113 \*ARENA에서 사용하는 깃발과 깃대의 크기를 제한하십시오. {#rule-E113}
 
 FIELD 주변에서 사용할 깃발과 깃대는 불합리하게 크거나 무거워서는 안 됩니다.
 
-{% hint style="info" %}
-가이드라인으로, 적절한 깃발은 크기가 3 ft × 5 ft(~91 cm × 152 cm) 미만이고 무게가 2 lbs(~907 g) 미만입니다. 적절한 깃대는 길이가 8 ft(~243 cm)를 넘지 않고 무게가 3 lbs(~1360 g) 미만이어야 합니다.
+> 가이드라인으로, 적절한 깃발은 크기가 3 ft × 5 ft(~91 cm × 152 cm) 미만이고 무게가 2 lbs(~907 g) 미만입니다. 적절한 깃대는 길이가 8 ft(~243 cm)를 넘지 않고 무게가 3 lbs(~1360 g) 미만이어야 합니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E114 \*총기 또는 기타 무기는 금지됩니다. {#rule-E114}
 
 총기 또는 기타 무기는 모든 FIRST 프로그램의 모든 FIRST 이벤트에서 금지됩니다. 실제 무기처럼 보이는 소품 또는 모의 무기도 포함됩니다. 이 정책은 법 집행기관 또는 행사장 보안 요원에게는 적용되지 않습니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E115 \*Practice FIELD를 사용하려면 Inspection이 필요합니다. {#rule-E115}
 
 팀은 최초의 완전한 Inspection을 통과한 ROBOT으로만 Practice FIELD를 사용할 수 있습니다. 이 규칙은 예정된 Inspection 시간을 사용하지 않는 이벤트에만 적용됩니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E116 \*동의 없이 이벤트에서 다른 사람을 녹음하지 마십시오. {#rule-E116}
 
 상대방의 동의 없이 이벤트에서 누구와의 상호작용도 녹음하지 마십시오. FIRST Event Staff와 자원봉사자는 녹음에 동의하지 않은 뒤 자신이 녹음되고 있는 상호작용에서 벗어날 수 있습니다.
 
-{% hint style="info" %}
-많은 FIRST 이벤트가 Livestream으로 방송되고 FIRST 참가자가 FIRST 영상에 등장하는 데 동의했다는 사실이 특정 상호작용을 추가 동의 없이 녹음할 수 있다는 의미는 아닙니다.<br>
-<br>
-대화 녹음에 관한 법률은 주와 국가마다 다르며, 경우에 따라 동의 없는 녹음은 범죄가 될 수 있습니다.<br>
-<br>
-누군가의 잘못을 입증하기 위한 것이라는 암시와 함께 대화를 녹음하겠다는 생각을 꺼내는 것은 논의를 격화시키고 대립적인 성격을 강화할 가능성이 높습니다.
+> 많은 FIRST 이벤트가 Livestream으로 방송되고 FIRST 참가자가 FIRST 영상에 등장하는 데 동의했다는 사실이 특정 상호작용을 추가 동의 없이 녹음할 수 있다는 의미는 아닙니다.<br>
+> <br>
+> 대화 녹음에 관한 법률은 주와 국가마다 다르며, 경우에 따라 동의 없는 녹음은 범죄가 될 수 있습니다.<br>
+> <br>
+> 누군가의 잘못을 입증하기 위한 것이라는 암시와 함께 대화를 녹음하겠다는 생각을 꺼내는 것은 논의를 격화시키고 대립적인 성격을 강화할 가능성이 높습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E117 \*토너먼트에는 ROBOT 1대만 출전시키십시오. {#rule-E117}
 
 하나의 FIRST Tech Challenge 이벤트에서 각 팀은 ROBOT 1대만 Inspection을 받고 MATCH에 참가시킬 수 있습니다. FIRST Tech Challenge 팀은 동시에 하나의 이벤트에만 참가할 수 있습니다.
 
-{% hint style="info" %}
-이 규칙의 의도는 자원봉사자에게 여러 ROBOT을 검사하도록 요구하지 않음으로써 토너먼트 자원을 책임 있게 사용하고, 여러 대의 검사 완료 ROBOT을 MATCH 사이에 교체하는 허점을 방지하는 것입니다.<br>
-<br>
-이 규칙은 Award Presentation 또는 Pit Display와 같은 다른 목적으로 다른 ROBOT이나 ROBOT과 유사한 조립체를 행사장에 가져오는 것을 금지하지 않습니다.<br>
-<br>
-팀은 시즌 중 ROBOT을 업데이트하고 변경하며 여러 대를 제작할 수도 있습니다. 이 규칙은 한 이벤트에서 MATCH를 하기 위해 서로 다른 여러 ROBOT을 가져오는 경우에만 적용됩니다.
+> 이 규칙의 의도는 자원봉사자에게 여러 ROBOT을 검사하도록 요구하지 않음으로써 토너먼트 자원을 책임 있게 사용하고, 여러 대의 검사 완료 ROBOT을 MATCH 사이에 교체하는 허점을 방지하는 것입니다.<br>
+> <br>
+> 이 규칙은 Award Presentation 또는 Pit Display와 같은 다른 목적으로 다른 ROBOT이나 ROBOT과 유사한 조립체를 행사장에 가져오는 것을 금지하지 않습니다.<br>
+> <br>
+> 팀은 시즌 중 ROBOT을 업데이트하고 변경하며 여러 대를 제작할 수도 있습니다. 이 규칙은 한 이벤트에서 MATCH를 하기 위해 서로 다른 여러 ROBOT을 가져오는 경우에만 적용됩니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E118 \*좌석을 맡아두지 마십시오. {#rule-E118}
 
 팀은 실제로 사용하고 있지 않은 팀원을 위해 좌석을 맡거나 지정할 수 없습니다.
 
-{% hint style="info" %}
-배너나 리본을 걸거나 다른 방법으로 좌석을 지정해서는 안 됩니다. Event Staff는 좌석을 표시하기 위해 사용한 배너, 줄 등을 제거하고 폐기합니다. 좌석이 부족하면 관람석을 번갈아 사용하십시오. 혼잡한 경우 가능하다면 자신의 팀 MATCH가 끝난 뒤 자리를 비우고 나중에 다시 돌아와 주십시오.<br>
-<br>
-Event Director는 접근 가능한 좌석이 필요한 참석자, 특정 자원봉사자 또는 Playoff 참가 팀이 자신의 팀 경기를 관람할 수 있도록 좌석을 지정할 수 있습니다.
+> 배너나 리본을 걸거나 다른 방법으로 좌석을 지정해서는 안 됩니다. Event Staff는 좌석을 표시하기 위해 사용한 배너, 줄 등을 제거하고 폐기합니다. 좌석이 부족하면 관람석을 번갈아 사용하십시오. 혼잡한 경우 가능하다면 자신의 팀 MATCH가 끝난 뒤 자리를 비우고 나중에 다시 돌아와 주십시오.<br>
+> <br>
+> Event Director는 접근 가능한 좌석이 필요한 참석자, 특정 자원봉사자 또는 Playoff 참가 팀이 자신의 팀 경기를 관람할 수 있도록 좌석을 지정할 수 있습니다.
 {% endhint %}
 
 ## 5.2 Machine Shops and Host Team Build Spaces {#s-5-2}
@@ -216,26 +250,26 @@ Event Director는 접근 가능한 좌석이 필요한 참석자, 특정 자원�
 
 ## 5.3 Wireless Rules {#s-5-3}
 
+{% hint style="warning" %}
 #### E301 \*무선 통신을 사용하지 마십시오. {#rule-E301}
 
 팀은 행사장에서 자체 Wi-Fi(802.11a/b/g/n/ac/ax/be) 무선 통신(예: Access Point 또는 Ad-hoc Network), Bluetooth 또는 2.4GHz나 5GHz 무선을 사용하는 기타 통신 시스템을 설치할 수 없습니다.
 
-{% hint style="info" %}
-휴대전화, 카메라, Smart TV 등이 생성하는 Wireless Hotspot은 Access Point로 간주됩니다.<br>
-<br>
-일부 Smart TV는 출고 시 Access Point 기능이 기본으로 활성화되어 있습니다. 이벤트에 가져오는 TV에서는 이 기능을 반드시 비활성화하십시오.<br>
-<br>
-Bluetooth는 2.4GHz 주파수를 사용하므로 행사장 및 ROBOT 시스템을 방해할 수 있습니다.<br>
-<br>
-드론, 무선 차량, FPV 시스템을 포함한 많은 R/C 장난감은 2.4GHz 및 5GHz 통신을 사용합니다. 행사장에서 이러한 장치를 작동하지 마십시오.
+> 휴대전화, 카메라, Smart TV 등이 생성하는 Wireless Hotspot은 Access Point로 간주됩니다.<br>
+> <br>
+> 일부 Smart TV는 출고 시 Access Point 기능이 기본으로 활성화되어 있습니다. 이벤트에 가져오는 TV에서는 이 기능을 반드시 비활성화하십시오.<br>
+> <br>
+> Bluetooth는 2.4GHz 주파수를 사용하므로 행사장 및 ROBOT 시스템을 방해할 수 있습니다.<br>
+> <br>
+> 드론, 무선 차량, FPV 시스템을 포함한 많은 R/C 장난감은 2.4GHz 및 5GHz 통신을 사용합니다. 행사장에서 이러한 장치를 작동하지 마십시오.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E302 \*무선 네트워크를 방해하지 마십시오. {#rule-E302}
 
 참가자는 명시적인 허가 없이 다른 팀 또는 FIRST의 무선 네트워크를 방해하거나, 방해하려고 시도하거나, 연결하려고 시도해서는 안 됩니다.
 
-{% hint style="info" %}
-무선 보안 취약점이 의심되는 경우 이벤트 현장에서는 FIRST Technical Advisor(FTA) 또는 Event Director에게 보고하고, 이벤트 이후에는 customerservice@firstinspires.org를 통해 FIRST에 알려주십시오.
+> 무선 보안 취약점이 의심되는 경우 이벤트 현장에서는 FIRST Technical Advisor(FTA) 또는 Event Director에게 보고하고, 이벤트 이후에는 customerservice@firstinspires.org를 통해 FIRST에 알려주십시오.
 {% endhint %}
 
 ## 5.4 Load-In {#s-5-4}
@@ -256,10 +290,13 @@ Pit Area는 Team Pit이 위치한 전체 구역을 의미하며, Pit 사이 통�
 
 Team Pit에는 테이블과 전원 콘센트가 제공될 수도 있고 제공되지 않을 수도 있습니다. 개별 팀 콘센트가 제공되지 않는 경우 행사장은 배터리 충전을 위해 팀이 사용할 수 있는 콘센트를 Pit Area에 제공해야 합니다. 여러 날 진행되는 이벤트에서는 야간에 전원이 제공되지 않을 수 있습니다.
 
+{% hint style="warning" %}
 #### E501 \*Pit이 닫혀 있으면 사용할 수 없습니다. {#rule-E501}
 
 팀은 지정된 시간 외에는 Pit Area에 출입할 수 없습니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E502 \*Pit 설치는 Event Organizer가 배정한 공간 안에서 자체적으로 완결되어야 합니다. {#rule-E502}
 
 팀은 허용된 장비를 배정된 Pit 공간 안에 완전히 설치해야 합니다. 팀은 다음 행동을 할 수 없습니다.
@@ -269,63 +306,73 @@ A. Event Director가 지시하거나 허용한 경우를 제외하고 Team Pit�
 B. Pit에 팀 번호가 지정되어 있는 경우 다른 팀과 Team Pit을 서로 바꾸는 것
 
 C. Event Director의 승인 없이 빈 Team Pit으로 이동하는 것
+{% endhint %}
 
+{% hint style="warning" %}
 #### E503 \*통로와 출구 경로를 비워두십시오. {#rule-E503}
 
 팀은 통로나 이동 경로를 막아서는 안 됩니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E504 \*불꽃과 스파크를 발생시키는 장치는 제한적으로 사용하고 세심하게 관리해야 합니다. {#rule-E504}
 
 스파크를 튀기거나 불꽃을 발생시키는 도구는 일반적으로 금지되며, 제한적이고 안전하게 통제되는 경우에만 예외적으로 허용됩니다. Event Director는 불꽃 또는 스파크에 대해 추가 제한을 적용할 수 있습니다.
 
-{% hint style="info" %}
-일반적으로 허용되는 예: 끈이나 스트랩의 풀림을 방지하기 위해 라이터를 제한적으로 사용하여 끝을 녹이는 것, 스파크가 안전한 방향으로 향하고 사용 시간이 짧은 조건에서 Sander를 사용해 Bolt를 줄이는 것.<br>
-<br>
-이 규칙을 위반하는 도구의 예에는 Welder, Bench/Angle Grinder, Gas Torch 등이 포함되지만 이에 한정되지 않습니다.
+> 일반적으로 허용되는 예: 끈이나 스트랩의 풀림을 방지하기 위해 라이터를 제한적으로 사용하여 끝을 녹이는 것, 스파크가 안전한 방향으로 향하고 사용 시간이 짧은 조건에서 Sander를 사용해 Bolt를 줄이는 것.<br>
+> <br>
+> 이 규칙을 위반하는 도구의 예에는 Welder, Bench/Angle Grinder, Gas Torch 등이 포함되지만 이에 한정되지 않습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E505 \*Team Pit에서는 소형 Benchtop Machinery만 허용됩니다. {#rule-E505}
 
 소형 기계는 허용되지만 바닥에 세워 사용하는 전동 공구는 금지됩니다. Event Director가 추가 제한을 적용할 수 있습니다.
 
-{% hint style="info" %}
-‘소형’ 기계란 한 사람이 쉽게 들어 올릴 수 있는 기계를 의미합니다. 예: 3D Printer, 소형 Band Saw, 소형 Drill Press, Desktop CNC Mill, Sander.<br>
-<br>
-금지되는 기계의 예에는 대형 독립형 Drill Press와 Band Saw 등이 포함됩니다.
+> ‘소형’ 기계란 한 사람이 쉽게 들어 올릴 수 있는 기계를 의미합니다. 예: 3D Printer, 소형 Band Saw, 소형 Drill Press, Desktop CNC Mill, Sander.<br>
+> <br>
+> 금지되는 기계의 예에는 대형 독립형 Drill Press와 Band Saw 등이 포함됩니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E506 \*Brazing 또는 Welding은 금지됩니다. {#rule-E506}
 
 Brazing/Welding은 금지됩니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E507 \*지정된 도구로만 납땜하십시오. {#rule-E507}
 
 납땜은 전기식 Soldering Iron/Gun만 사용하여 할 수 있습니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E508 \*Pit 구조물은 안전해야 합니다. {#rule-E508}
 
 사람의 체중을 지지하거나 머리 위에 물품을 보관하는 구조물을 만들어서는 안 됩니다. 구조물이 Fire Sprinkler System을 막거나 방해해서도 안 되며, 그 밖의 방식으로 안전하지 않아서는 안 됩니다. Event Director는 추가 제한을 적용할 수 있습니다.
 
-{% hint style="info" %}
-Popup Tent는 E502를 준수한다면 사용할 수 있지만, 덮개가 Fire Suppression System을 방해하면 이 규칙을 위반할 수 있습니다.
+> Popup Tent는 E502를 준수한다면 사용할 수 있지만, 덮개가 Fire Suppression System을 방해하면 이 규칙을 위반할 수 있습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E509 \*Aerosol 또는 유해한 증기를 발생시키는 화학물질은 승인된 구역에서만 사용하십시오. {#rule-E509}
 
 유해한 증기를 발생시키거나 미립자를 분사하는 Aerosol 또는 Chemical은 승인된 구역에서만 사용해야 합니다. 모든 행사장이 이러한 제품의 현장 사용을 허용하는 것은 아닙니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### E510 \*경쟁상 이점을 얻기 위해 ROBOT COMPONENT를 가열하거나 냉각하지 마십시오. {#rule-E510}
 
 팀은 경쟁상 이점을 얻기 위해 ROBOT 부품을 행사장의 주변 온도보다 높게 가열하거나 낮게 냉각하려고 해서는 안 됩니다.
 
-{% hint style="info" %}
-이 규칙의 의도는 ROBOT이 행사장의 주변 온도에서 장시간 그대로 놓여 있었다고 가정한 상태로 경쟁하도록 하는 것입니다.<br>
-<br>
-**규칙 정신에 어긋나는 행동의 예:** Fuse가 평소보다 늦게 끊어지도록 냉각하는 것, 성능 향상을 위해 Battery를 가열하는 것, 다른 COMPONENT를 더 효과적으로 냉각하기 위해 Heatsink를 얼리는 것.<br>
-<br>
-**위반이 아닌 행동의 예:** ROBOT 성능과 무관한 이유로 COMPONENT를 가열/냉각하는 것(예: 설치 중 Heat Shrink Tubing 가열), 정상 충전 과정으로 주변 온도보다 약간 따뜻한 Battery 사용, 이전 사용으로 COMPONENT가 따뜻한 ROBOT 사용.
+> 이 규칙의 의도는 ROBOT이 행사장의 주변 온도에서 장시간 그대로 놓여 있었다고 가정한 상태로 경쟁하도록 하는 것입니다.<br>
+> <br>
+> **규칙 정신에 어긋나는 행동의 예:** Fuse가 평소보다 늦게 끊어지도록 냉각하는 것, 성능 향상을 위해 Battery를 가열하는 것, 다른 COMPONENT를 더 효과적으로 냉각하기 위해 Heatsink를 얼리는 것.<br>
+> <br>
+> **위반이 아닌 행동의 예:** ROBOT 성능과 무관한 이유로 COMPONENT를 가열/냉각하는 것(예: 설치 중 Heat Shrink Tubing 가열), 정상 충전 과정으로 주변 온도보다 약간 따뜻한 Battery 사용, 이전 사용으로 COMPONENT가 따뜻한 ROBOT 사용.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E511 \*Battery는 안전하고 공정한 방식으로 충전하십시오. {#rule-E511}
 
 Battery를 충전할 때 팀은 다음을 준수해야 합니다.
@@ -336,12 +383,12 @@ B. 평균 Channel Current가 3A를 초과하는 Battery Charger로 충전해서�
 
 C. 안전한 Connector를 사용하여 Battery를 충전합니다.
 
-{% hint style="info" %}
-안전한 Connector란 Battery 자체의 Connector에 대응하는 극성(Polarized) Connector입니다. Alligator Clip 또는 이와 유사한 방식으로 Battery를 충전해서는 안 됩니다.
+> 안전한 Connector란 Battery 자체의 Connector에 대응하는 극성(Polarized) Connector입니다. Alligator Clip 또는 이와 유사한 방식으로 Battery를 충전해서는 안 됩니다.
 {% endhint %}
 
 ## 5.6 ROBOT Carts {#s-5-6}
 
+{% hint style="warning" %}
 #### E601 \*Cart가 다른 사람에게 불편을 주어서는 안 됩니다. {#rule-E601}
 
 팀은 이벤트 중 ROBOT을 운반하기 위해 Cart를 사용할 수 있습니다. Cart는 다음 요건을 충족해야 합니다.
@@ -357,6 +404,7 @@ D. 사용하지 않을 때는 Team Pit에 보관해야 합니다.
 E. 음악 또는 기타 소리를 발생시키는 장치를 장착해서는 안 됩니다.
 
 F. 동력 추진 장치를 사용해서는 안 됩니다.
+{% endhint %}
 
 ## 5.7 Ceremonies {#s-5-7}
 
@@ -364,6 +412,7 @@ F. 동력 추진 장치를 사용해서는 안 됩니다.
 
 Award Ceremony에서 FIRST는 뛰어난 팀에게 Trophy와 Medallion을 수여합니다. 모든 팀원은 Ceremony에 참석하고, 시간을 지키며, 이벤트를 운영한 Volunteer에게 감사를 표현하고, 다른 팀들의 성과를 함께 축하할 것을 권장합니다.
 
+{% hint style="warning" %}
 #### E701 \*Ceremony 중 Pit에서는 조용히 하십시오. {#rule-E701}
 
 Playoff MATCH 이외의 Ceremony가 진행되는 동안 팀원은 다음 행동을 할 수 없습니다.
@@ -373,17 +422,20 @@ A. 전동 공구 사용
 B. Hammer, Saw 등 큰 소리를 내는 Hand Tool 사용
 
 C. Ceremony를 방해할 정도로 소리치거나 고함을 지르거나 큰 목소리를 사용하는 것
+{% endhint %}
 
+{% hint style="warning" %}
 #### E702 \*Ceremony 중 Pit 인원은 5명으로 제한됩니다. {#rule-E702}
 
 Playoff MATCH 이외의 Ceremony가 진행되는 동안 Pit에는 팀원 5명을 초과하여 있을 수 없습니다. 각 팀은 전체 팀에 중요한 정보를 전달할 책임을 맡도록 Ceremony를 관람하는 대표자가 최소 1명 있어야 합니다.
 
-{% hint style="info" %}
-모든 팀은 Ceremony 동안 가능한 한 많은 인원이 관중석에 있을 것을 권장합니다. 이는 Ceremony에서 인정받는 모든 사람을 축하하기 위해서도 중요하지만, Event Organizer가 당일 전달하는 팀에 중요한 정보를 듣기 위해서도 중요합니다.
+> 모든 팀은 Ceremony 동안 가능한 한 많은 인원이 관중석에 있을 것을 권장합니다. 이는 Ceremony에서 인정받는 모든 사람을 축하하기 위해서도 중요하지만, Event Organizer가 당일 전달하는 팀에 중요한 정보를 듣기 위해서도 중요합니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### E703 \*국가 연주 중에는 존중하는 태도를 보이십시오. {#rule-E703}
 
 Pit에 남아 있는 사람을 포함한 모든 팀원은 모든 국가(National Anthem)가 연주되는 동안 평화로운 태도를 보여야 합니다. 전통적인 국가 의례 행동을 따르지 않기를 원하는 팀원은 조용하고 방해하지 않는 한 그렇게 할 권리가 있습니다.
+{% endhint %}
 
 ![BIOBUZZ honeycomb divider](assets/image-012.jpg)

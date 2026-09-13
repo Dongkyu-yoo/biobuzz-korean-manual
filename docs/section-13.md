@@ -12,6 +12,7 @@
 
 ## 13.2 MATCH Replays {#s-13-2}
 
+{% hint style="warning" %}
 #### T201 \*Replay는 허용되지만 드뭅니다. {#rule-T201}
 
 MATCH Replay는 ARENA FAULT가 발생했거나 FIELD STAFF가 FIELD Damage 또는 Personal Injury를 예상하여 MATCH를 중단한 극단적인 상황에서만 허용됩니다.
@@ -22,9 +23,7 @@ A. 정상적이고 예상 가능한 Gameplay 때문에 FIELD Element가 파손�
 
 B. ROBOT이 FIELD Element를 Abuse하여 파손시키고 그 Damage가 상대 ALLIANCE의 MATCH Outcome에 영향을 준 경우
 
-{% hint style="info" %}
-ROBOT Abuse로 파손된 FIELD Element가 해당 ROBOT의 ALLIANCE Outcome에 영향을 준 경우는 ARENA FAULT가 아닙니다.
-{% endhint %}
+> ROBOT Abuse로 파손된 FIELD Element가 해당 ROBOT의 ALLIANCE Outcome에 영향을 준 경우는 ARENA FAULT가 아닙니다.
 
 C. ROBOT Interaction 때문이 아닌데 FIELD Element가 Normal Tolerance 밖으로 이동한 경우
 
@@ -36,22 +35,28 @@ F. Section 10.8 Other Logistics에 명시된 경우를 제외한 FIELD STAFF Err
 
 Head REFEREE가 MATCH Outcome에 영향을 준 ARENA FAULT가 발생했다고 판단하고 영향을 받은 ALLIANCE의 어느 팀이라도 Replay를 원하면 MATCH를 Replay합니다. 또한 FIRST Headquarters는 Head REFEREE 및 FIELD STAFF와 협의하여 ARENA FAULT가 Event Outcome에 영향을 준 MATCH를 Replay할 권한을 가집니다.
 
-{% hint style="info" %}
-팀의 책임인 예기치 않은 ROBOT Behavior는 Replay 사유가 아닙니다. Low Battery, Programming Issue, ROBOT Mechanical Problem 등은 Replay 근거가 되지 않습니다.
+> 팀의 책임인 예기치 않은 ROBOT Behavior는 Replay 사유가 아닙니다. Low Battery, Programming Issue, ROBOT Mechanical Problem 등은 Replay 근거가 되지 않습니다.
+
+> Head REFEREE 관점에서 Error가 어느 ALLIANCE가 MATCH를 이겼는지 및/또는 RANKING POINT 배정을 바꾼다면 MATCH Outcome에 영향을 준 것으로 봅니다. FIRST Headquarters 판단에서 Error가 RANKING POINT 배정을 바꾸거나 Ranking Criteria에 사용되는 Point에 Dramatic Effect를 주면 Event Outcome에 영향을 준 것으로 봅니다.
+> 
+> 
+> 
+> Head REFEREE 관점에서 MATCH Outcome에 영향을 주지 않는 ARENA FAULT는 MATCH Replay로 이어지지 않습니다. 예시는 다음을 포함하되 이에 한정되지 않습니다.
+> 
+> 
+> 
+> A. Human 또는 ROBOT 활동에서 멀리 떨어진 FIELD 안으로 Plastic 조각이 떨어졌고, MATCH Outcome에 영향을 주지 않는 경우
+> 
+> 
+> 
+> B. ARENA Sound 재생이 지연된 경우
+> 
+> 
+> 
+> C. Penalty 또는 Scoring Achievement의 배정이 조정되거나 지연된 경우(해당 조정이 MATCH 후 이루어진 경우 포함)
 {% endhint %}
 
-{% hint style="info" %}
-Head REFEREE 관점에서 Error가 어느 ALLIANCE가 MATCH를 이겼는지 및/또는 RANKING POINT 배정을 바꾼다면 MATCH Outcome에 영향을 준 것으로 봅니다. FIRST Headquarters 판단에서 Error가 RANKING POINT 배정을 바꾸거나 Ranking Criteria에 사용되는 Point에 Dramatic Effect를 주면 Event Outcome에 영향을 준 것으로 봅니다.
-
-Head REFEREE 관점에서 MATCH Outcome에 영향을 주지 않는 ARENA FAULT는 MATCH Replay로 이어지지 않습니다. 예시는 다음을 포함하되 이에 한정되지 않습니다.
-
-A. Human 또는 ROBOT 활동에서 멀리 떨어진 FIELD 안으로 Plastic 조각이 떨어졌고, MATCH Outcome에 영향을 주지 않는 경우
-
-B. ARENA Sound 재생이 지연된 경우
-
-C. Penalty 또는 Scoring Achievement의 배정이 조정되거나 지연된 경우(해당 조정이 MATCH 후 이루어진 경우 포함)
-{% endhint %}
-
+{% hint style="warning" %}
 #### T202 \*Replay에서는 Original MATCH의 조건을 재현합니다. {#rule-T202}
 
 ARENA FAULT 또는 FIELD Damage로 MATCH를 Replay할 때 합리적인 범위에서 Original MATCH와 동일한 Condition을 만들기 위해 노력합니다.
@@ -64,8 +69,7 @@ B. FIELD Damage Severity 때문에 Head REFEREE가 다른 판단을 하지 않�
 
 C. Replay에서 ROBOT/DRIVE TEAM Starting Location과 Pre-loaded SCORING ELEMENT는 원래와 동일하게 복제할 필요 없음
 
-{% hint style="info" %}
-Original MATCH Condition을 복제하기 위해 노력하지만 Ambient Lighting 변화처럼 Event가 통제할 수 없는 Environmental Factor가 있을 수 있습니다.
+> Original MATCH Condition을 복제하기 위해 노력하지만 Ambient Lighting 변화처럼 Event가 통제할 수 없는 Environmental Factor가 있을 수 있습니다.
 {% endhint %}
 
 ## 13.3 Clarifications on MATCH Play Results (“Question Box”) {#s-13-3}
@@ -80,16 +84,17 @@ FIRST Event Management Software는 MINOR/MAJOR FOUL 수량을 추적하지만 FI
 Question Box에서는 합리적인 질문이라면 무엇이든 할 수 있고 Head REFEREE는 가능한 한 도움이 되는 Feedback을 제공하기 위해 노력합니다. 예를 들어 특정 FOUL이 어떻게/왜 불리는지, ROBOT Design/Gameplay 때문에 어떤 FOUL에 취약한지, 특정 Rule을 어떻게 적용하는지 등을 설명할 수 있으나 구체적인 세부사항을 모두 제공하지 못할 수도 있습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### T301 \*Head REFEREE와의 Interaction. {#rule-T301}
 
 팀은 Head REFEREE에게 최대 2명만 질문할 수 있으며 그중 최소 1명은 STUDENT여야 합니다.
 
 **위반:** Head REFEREE는 추가로 참여한 비준수 Team Member 또는 주변 대화에는 응답하지 않습니다.
 
-{% hint style="info" %}
-일부 Event는 ARENA 접근을 DRIVE TEAM Member로 제한할 수 있습니다. Question Box 접근을 위해 Team 내부에서 Badge를 서로 바꾸는 것은 허용됩니다. 가능한 한 STUDENT가 대화의 Active Participant가 되어야 합니다. 동의 없이 Interaction을 녹음하지 마십시오(E116).
+> 일부 Event는 ARENA 접근을 DRIVE TEAM Member로 제한할 수 있습니다. Question Box 접근을 위해 Team 내부에서 Badge를 서로 바꾸는 것은 허용됩니다. 가능한 한 STUDENT가 대화의 Active Participant가 되어야 합니다. 동의 없이 Interaction을 녹음하지 마십시오(E116).
 {% endhint %}
 
+{% hint style="warning" %}
 #### T302 \*MATCH 질문은 제때 해야 합니다. {#rule-T302}
 
 T301 절차로 MATCH Result를 Clarify 또는 Dispute하려면 STUDENT Representative가 다음 시간 안에 Question Box에 와야 합니다.
@@ -98,20 +103,20 @@ A. Qualification MATCH 관련 질문: ALLIANCE Selection 시작 전 언제든지
 
 B. Playoff MATCH 관련 질문: 다음 Playoff Round 시작 전까지. 마지막 Playoff MATCH라면 MATCH 직후
 
-{% hint style="info" %}
-REFEREE도 사람이며 시간이 지날수록 특정 MATCH 세부사항을 기억하기 어려워집니다. 가능하면 해당 MATCH 이후 3 MATCH 이내에 질문·이의를 제기하는 것이 좋습니다. 팀은 최대한 빨리 질문하는 것을 권장합니다. 마지막 Playoff MATCH 후 5분을 넘긴 질문은 처리되지 않을 가능성이 높습니다.
+> REFEREE도 사람이며 시간이 지날수록 특정 MATCH 세부사항을 기억하기 어려워집니다. 가능하면 해당 MATCH 이후 3 MATCH 이내에 질문·이의를 제기하는 것이 좋습니다. 팀은 최대한 빨리 질문하는 것을 권장합니다. 마지막 Playoff MATCH 후 5분을 넘긴 질문은 처리되지 않을 가능성이 높습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### T303 \*질문은 사실에 기반하고 건설적으로 하십시오. {#rule-T303}
 
 Question Box에 오는 팀은 요청 내용을 미리 정리하고 Discussion을 돕기 위해 관련 Rule 또는 Q&amp;A Website Reference를 준비할 것을 권장합니다.
 
-{% hint style="info" %}
-팀이 자신을 위해 Advocate하려고 Question Box를 이용했다고 해서 불이익이 있어서는 안 됩니다. 다만 Team Youth와 Volunteer 모두에게 Stress가 높은 상황일 수 있으므로 대화 중 FIRST Core Values를 기억해야 합니다. 일부 Event에서는 MATCH Result가 FTC-Events Page에 제공될 수 있습니다.
+> 팀이 자신을 위해 Advocate하려고 Question Box를 이용했다고 해서 불이익이 있어서는 안 됩니다. 다만 Team Youth와 Volunteer 모두에게 Stress가 높은 상황일 수 있으므로 대화 중 FIRST Core Values를 기억해야 합니다. 일부 Event에서는 MATCH Result가 FTC-Events Page에 제공될 수 있습니다.
 {% endhint %}
 
 ## 13.4 General Tournament Rules {#s-13-4}
 
+{% hint style="warning" %}
 #### T401 \*Event 중 Gameplay에 관한 최종 권한은 Head REFEREE에게 있습니다. {#rule-T401}
 
 Head REFEREE는 FIRST Personnel, FTA, Event Director, Program Delivery Partner 및 기타 Event Staff의 의견을 받을 수 있지만 Head REFEREE의 판정은 최종입니다. Head REFEREE를 포함한 어떤 Event Staff도 어떤 출처의 MATCH Video, Photo, Artistic Rendering 등을 판정에 사용하지 않습니다.
@@ -124,16 +129,18 @@ C. Framework of Behaviors 및 Competition Integrity Contract(CIC) 위반은 Head
 
 D. 모든 Qualification 및 Playoff MATCH는 Certified Head REFEREE가 관찰해야 하며, Head REFEREE는 한 번에 MATCH 1개만 볼 수 있습니다.
 
-{% hint style="info" %}
-이 매뉴얼의 규칙은 Human Head REFEREE가 적용하도록 작성되었습니다. 일부 규칙은 명확한 기준으로 쉽게 확인할 수 있지만 다른 규칙은 Human Judgment에 의존합니다. Head REFEREE는 자신 또는 다른 REFEREE가 MATCH 중 관찰한 정보를 바탕으로 순간 최선의 판정을 내립니다.
-
-모호하거나 논쟁적인 상황에서 “올바른 판정은 무엇이었나?” 또는 “만약…”을 생각하기 쉽지만 FIRST Tech Challenge Gameplay에서 올바른 판정은 Head REFEREE가 당시 이용 가능한 정보를 바탕으로 Good Faith로 내린 판정입니다.
+> 이 매뉴얼의 규칙은 Human Head REFEREE가 적용하도록 작성되었습니다. 일부 규칙은 명확한 기준으로 쉽게 확인할 수 있지만 다른 규칙은 Human Judgment에 의존합니다. Head REFEREE는 자신 또는 다른 REFEREE가 MATCH 중 관찰한 정보를 바탕으로 순간 최선의 판정을 내립니다.
+> 
+> 모호하거나 논쟁적인 상황에서 “올바른 판정은 무엇이었나?” 또는 “만약…”을 생각하기 쉽지만 FIRST Tech Challenge Gameplay에서 올바른 판정은 Head REFEREE가 당시 이용 가능한 정보를 바탕으로 Good Faith로 내린 판정입니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### T402 \*REFEREE만 ROBOT을 DISABLED로 선언할 수 있습니다. {#rule-T402}
 
 ROBOT은 MATCH 중 REFEREE가 DISABLED라고 선언한 시점부터만 DISABLED로 간주됩니다. ROBOT은 Rule Violation의 결과 또는 ROBOT Failure 때문에 DISABLED될 수 있습니다. Rule Violation 때문에 REFEREE가 ROBOT을 DISABLE하는 경우, DISABLE 전에 FIELD의 특정 Neutral Position으로 ROBOT을 이동하라고 팀에 지시할 수 있습니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### T403 \*Event의 Non-gameplay Decision에 관한 최종 권한은 Event Director에게 있습니다. {#rule-T403}
 
 Competition Manual은 Gameplay와 Judging을 포함한 Competition Rule Set을 제공하지만 FIRST Tech Challenge Event 운영을 위한 모든 Guideline을 망라한 문서는 아닙니다. T401에 따라 Head REFEREE 권한인 Specific Gameplay Rule 이외의 Issue는 Event Director의 재량이며 다음을 포함하되 이에 한정되지 않습니다.
@@ -147,7 +154,9 @@ C. Health and Safety
 D. Team Registration 및 Competition Eligibility
 
 E. ARENA 밖에서의 Team Conduct
+{% endhint %}
 
+{% hint style="warning" %}
 #### T404 \*Event의 모든 Competition FIELD는 서로 일관되어야 합니다. {#rule-T404}
 
 여러 Competition FIELD를 사용하는 Event는 MATCH Schedule에 표시된 모든 Competition FIELD를 서로 일관되게 Setup해야 합니다. 고려해야 하는 항목은 다음을 포함하되 이에 한정되지 않습니다.
@@ -160,46 +169,72 @@ C. FIELD Perimeter Type
 
 D. FIELD TILE Size와 Type
 
-{% hint style="info" %}
-Practice FIELD 등 다른 FIELD는 서로 또는 Competition FIELD와 동일할 필요가 없습니다.
+> Practice FIELD 등 다른 FIELD는 서로 또는 Competition FIELD와 동일할 필요가 없습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### T405 \*선택적 FIELD Measurement/Calibration 시간에는 ROBOT Practice를 할 수 없습니다. {#rule-T405}
 
 ARENA가 Measurement를 위해 열려 있는 동안 ROBOT은 OpMode를 실행할 수 있지만 ROBOT(예: CHASSIS)을 자체 Power로 FIELD 주변에서 이동시킬 수 없습니다.
 
 **위반:** VERBAL WARNING. Event 중 이후 위반이 발생하면 YELLOW CARD.
 
-{% hint style="info" %}
-Event Director 재량으로 Qualification MATCH 시작 전에 ARENA를 최소 30분 동안 열어 팀이 ARENA를 Survey/Measure하고 ROBOT을 FIELD에 놓아 Sensor Calibration을 수행할 수 있습니다. 정확한 Open Time은 Event에서 팀에 안내합니다. 팀은 Head REFEREE 또는 FTA에게 특정 질문이나 의견을 전달할 수 있습니다.
-
-**허용 활동:**
-
-A. ROBOT Power On
-
-B. OpMode Initialize
-
-C. ROBOT CHASSIS 밖으로 MECHANISM Operate/Extend
-
-D. ROBOT이 SCORING ELEMENT CONTROL
-
-E. ROBOT을 Programming Laptop 및 기타 Device에 연결
-
-F. Team Member가 ROBOT과 함께 FIELD 안에 위치
-
-G. Team Member가 ROBOT을 수동으로 FIELD 여러 위치로 이동
-
-H. Team Member 또는 ROBOT이 Tape Measure 같은 Tool 또는 Sensor로 FIELD 측정
-
-**허용되지 않는 활동:**
-
-I. ROBOT CHASSIS가 자체 Power로 FIELD 주변을 이동(AUTO/TELEOP Driving)
-
-J. ROBOT이 SCORING ELEMENT LAUNCH
-
-K. Team Member가 Practice 수행(예: ALLIANCE AREA에서 반복적으로 SCORING ELEMENT를 놓는 연습)
+> Event Director 재량으로 Qualification MATCH 시작 전에 ARENA를 최소 30분 동안 열어 팀이 ARENA를 Survey/Measure하고 ROBOT을 FIELD에 놓아 Sensor Calibration을 수행할 수 있습니다. 정확한 Open Time은 Event에서 팀에 안내합니다. 팀은 Head REFEREE 또는 FTA에게 특정 질문이나 의견을 전달할 수 있습니다.
+> 
+> 
+> 
+> **허용 활동:**
+> 
+> 
+> 
+> A. ROBOT Power On
+> 
+> 
+> 
+> B. OpMode Initialize
+> 
+> 
+> 
+> C. ROBOT CHASSIS 밖으로 MECHANISM Operate/Extend
+> 
+> 
+> 
+> D. ROBOT이 SCORING ELEMENT CONTROL
+> 
+> 
+> 
+> E. ROBOT을 Programming Laptop 및 기타 Device에 연결
+> 
+> 
+> 
+> F. Team Member가 ROBOT과 함께 FIELD 안에 위치
+> 
+> 
+> 
+> G. Team Member가 ROBOT을 수동으로 FIELD 여러 위치로 이동
+> 
+> 
+> 
+> H. Team Member 또는 ROBOT이 Tape Measure 같은 Tool 또는 Sensor로 FIELD 측정
+> 
+> 
+> 
+> **허용되지 않는 활동:**
+> 
+> 
+> 
+> I. ROBOT CHASSIS가 자체 Power로 FIELD 주변을 이동(AUTO/TELEOP Driving)
+> 
+> 
+> 
+> J. ROBOT이 SCORING ELEMENT LAUNCH
+> 
+> 
+> 
+> K. Team Member가 Practice 수행(예: ALLIANCE AREA에서 반복적으로 SCORING ELEMENT를 놓는 연습)
 {% endhint %}
 
+{% hint style="warning" %}
 #### T406 \*Team Timeout은 없지만 MATCH 사이 Break는 있습니다. {#rule-T406}
 
 Back-to-back MATCH에 참가하는 팀은 최소한 다음 Break를 받습니다.
@@ -208,28 +243,37 @@ A. Qualification MATCH: 이전 MATCH Result가 게시된 시점부터 다음 MAT
 
 B. Playoff MATCH: 이전 MATCH Result가 게시된 시점부터 다음 MATCH의 G301상 Expected Start Time까지 최소 8분
 
-{% hint style="info" %}
-MATCH Result가 게시되지 않는 경우(예: Immediate Replay) Head REFEREE 재량으로 팀에 합리적인 Reset Time을 제공합니다.
-
-이 Break는 FIRST Event Management System이 자동 추적합니다. FIELD STAFF는 필요한 경우 예상 Start Time을 팀에 전달합니다. 팀은 FTA, Head REFEREE 또는 Designee에게 영향을 받는 MATCH의 Timing을 물어볼 수 있습니다.
+> MATCH Result가 게시되지 않는 경우(예: Immediate Replay) Head REFEREE 재량으로 팀에 합리적인 Reset Time을 제공합니다.
+> 
+> 
+> 
+> 이 Break는 FIRST Event Management System이 자동 추적합니다. FIELD STAFF는 필요한 경우 예상 Start Time을 팀에 전달합니다. 팀은 FTA, Head REFEREE 또는 Designee에게 영향을 받는 MATCH의 Timing을 물어볼 수 있습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### T407 \*MATCH는 순서대로 진행합니다. {#rule-T407}
 
 Qualification 및 Playoff MATCH는 Event Director와 협의한 Head REFEREE가 Extenuating Circumstance를 인정한 경우를 제외하고 Numerical Order로 진행합니다. 모든 Qualification MATCH는 ALLIANCE Selection 시작 전에 완료되어야 하며, 현재 Playoff Round의 모든 MATCH는 다음 Round 시작 전에 완료되어야 합니다.
 
 순서를 벗어나거나 Replay되는 MATCH의 Timing은 FIELD STAFF 또는 Event Personnel이 해당 팀에 전달합니다.
 
-{% hint style="info" %}
-순서가 바뀔 수 있는 Extenuating Circumstance 예는 다음과 같습니다.
-
-A. 다음 가능한 Break, Day End, 다른 Qualification MATCH 종료 후, 또는 현재 Playoff Round 종료 시 Replay 진행
-
-B. 한 Competition FIELD의 긴 Repair로 그 FIELD에서 MATCH 진행이 중단되지만 다른 FIELD는 계속 사용할 수 있는 경우
-
-C. Team과 관련된 긴급하거나 예외적인 상황
-
-이 규칙은 MATCH를 질서 있게 진행하면서 예상치 못한 상황에 유연성을 제공하기 위한 것입니다. 진행 순서와 관계없이 T406과 G301은 계속 적용됩니다.
+> 순서가 바뀔 수 있는 Extenuating Circumstance 예는 다음과 같습니다.
+> 
+> 
+> 
+> A. 다음 가능한 Break, Day End, 다른 Qualification MATCH 종료 후, 또는 현재 Playoff Round 종료 시 Replay 진행
+> 
+> 
+> 
+> B. 한 Competition FIELD의 긴 Repair로 그 FIELD에서 MATCH 진행이 중단되지만 다른 FIELD는 계속 사용할 수 있는 경우
+> 
+> 
+> 
+> C. Team과 관련된 긴급하거나 예외적인 상황
+> 
+> 
+> 
+> 이 규칙은 MATCH를 질서 있게 진행하면서 예상치 못한 상황에 유연성을 제공하기 위한 것입니다. 진행 순서와 관계없이 T406과 G301은 계속 적용됩니다.
 {% endhint %}
 
 ## 13.5 Practice MATCHES {#s-13-5}
@@ -302,50 +346,53 @@ Qualification MATCH 참가 팀은 RANKING SCORE로 순위가 정해집니다. �
 
 <table><thead><tr><th>정렬 순서</th><th>기준</th></tr></thead><tbody><tr><td>1위</td><td>RANKING SCORE (RS)</td></tr><tr><td>2위</td><td>평균 ALLIANCE MATCH 포인트 — MINOR FOUL 및 MAJOR FOUL 제외 (평균 MATCH 포인트 − FOUL)</td></tr><tr><td>3위</td><td>평균 TIP 횟수</td></tr><tr><td>4위</td><td>평균 AUTO 포인트</td></tr><tr><td>5위</td><td>FIRST Event Management Software에 의한 무작위 정렬</td></tr></tbody></table>
 
+{% hint style="warning" %}
 #### T601 \*Qualification에서 DISQUALIFICATION은 DISQUALIFIED된 팀에만 적용됩니다. {#rule-T601}
 
 Qualification MATCH에서 한 팀의 DISQUALIFICATION은 ALLIANCE Partner에게 영향을 주지 않습니다.
+{% endhint %}
 
 ## 13.7 Playoff MATCHES {#s-13-7}
 
 Playoff MATCHES는 Qualification MATCHES 뒤에 진행됩니다. ALLIANCE Selection으로 고정 ALLIANCE를 구성하고 Double-elimination Bracket을 통해 Event Winner를 결정합니다. Playoff에서는 RP를 얻지 않으며 승패로 다음 단계로 진출합니다. Playoff에서 한 팀이 DISQUALIFIED되면 전체 ALLIANCE에 적용되어 ALLIANCE 모든 팀이 0 MATCH Point를 받습니다.
 
+{% hint style="warning" %}
 #### T701 \*STUDENT Representative 1명 또는 2명을 보내십시오. {#rule-T701}
 
 각 팀은 지정된 ALLIANCE Selection Time(일반적으로 마지막 Scheduled Qualification MATCH 직후)에 팀을 대표할 STUDENT 1명 이상 2명 이하를 ARENA로 보내야 합니다.
 
 **위반:** Representative를 보내지 않은 팀은 Playoff Tournament 참가 자격이 없습니다.
 
-{% hint style="info" %}
-Absent Team이 ALLIANCE Lead가 될 순위였다면 그보다 낮은 ALLIANCE Lead가 한 자리씩 올라갑니다. Playoff에 참가하지 않을 계획이라면 가능한 한 빨리 Event Director와 Head REFEREE에게 알려야 합니다.
+> Absent Team이 ALLIANCE Lead가 될 순위였다면 그보다 낮은 ALLIANCE Lead가 한 자리씩 올라갑니다. Playoff에 참가하지 않을 계획이라면 가능한 한 빨리 Event Director와 Head REFEREE에게 알려야 합니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### T702 \*초대를 Decline한 팀은 다시 Pick될 수 없습니다. {#rule-T702}
 
 ALLIANCE CAPTAIN은 다른 ALLIANCE의 Playoff Invitation을 Decline한 팀을 초대할 수 없습니다.
 
 **위반:** ALLIANCE CAPTAIN은 다른 팀을 선택해야 합니다.
 
-{% hint style="info" %}
-다른 ALLIANCE의 Invitation을 Decline한 ALLIANCE Lead는 자신의 ALLIANCE에 팀을 초대할 수는 있지만 다른 ALLIANCE에 다시 초대될 수 없습니다.
+> 다른 ALLIANCE의 Invitation을 Decline한 ALLIANCE Lead는 자신의 ALLIANCE에 팀을 초대할 수는 있지만 다른 ALLIANCE에 다시 초대될 수 없습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### T703 \*Playoff MATCH에는 Backup Team이 없습니다. {#rule-T703}
 
 ALLIANCE는 Playoff MATCH에서 Backup Team을 요청할 수 없습니다.
 
-{% hint style="info" %}
-Playoff Tournament의 각 Round에서 ALLIANCE의 모든 팀이 참가해야 하므로 Partner 선택 시 Reliability를 고려할 것을 권장합니다.
+> Playoff Tournament의 각 Round에서 ALLIANCE의 모든 팀이 참가해야 하므로 Partner 선택 시 Reliability를 고려할 것을 권장합니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### T704 \*Playoff MATCH 중 Team은 추가 ARENA Access를 받을 수 있습니다. {#rule-T704}
 
 Event Director 지시에 따라 Playoff MATCH 사이 ROBOT을 제시간에 유지·수리하기 위해 각 팀은 추가 Pit Crew Member 최대 3명을 사용할 수 있습니다. 이 Member는 DRIVE TEAM과 같은 ARENA Access를 받을 수 있지만 MATCH Play에는 참여할 수 없습니다.
 
-{% hint style="info" %}
-추가 Pit Crew Allocation은 Venue별 조건이며 Event Director 재량입니다.
+> 추가 Pit Crew Allocation은 Venue별 조건이며 Event Director 재량입니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### T705 \*여러 DISQUALIFICATION은 특별히 처리합니다. {#rule-T705}
 
 Playoff MATCH에서 하나 이상의 ALLIANCE DISQUALIFICATION은 다음과 같이 처리합니다.
@@ -355,6 +402,7 @@ A. 한 ALLIANCE가 DISQUALIFIED이면 그 ALLIANCE가 패배
 B. 양쪽 ALLIANCE 모두 DISQUALIFIED이면 시간상 먼저 DISQUALIFIED된 ALLIANCE가 패배
 
 C. Head REFEREE가 두 ALLIANCE가 동시에 DISQUALIFIED되었다고 판단하면 MATCH는 Tie
+{% endhint %}
 
 ### 13.7.1 ALLIANCE Selection Process {#s-13-7-1}
 
@@ -468,17 +516,23 @@ F. **Manual** — Program Delivery Partner가 수동으로 배정한 Team List�
 
 이전 Manual Section의 Rule에 더해 Dual Division Event에는 다음 Rule이 적용됩니다.
 
+{% hint style="warning" %}
 #### T801 \*두 Division은 같은 크기의 Playoff Bracket을 사용합니다. {#rule-T801}
 
 Playoff ALLIANCE 수는 Table 13-2에 따라 **더 작은 Division의 Playoff 참가 자격 Team 수**를 기준으로 결정합니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### T802 \*Dual Division Award는 Event Level에서 수여합니다. {#rule-T802}
 
 모든 Award는 Division Level이 아니라 전체 Tournament Level에서 Judging되고 수여됩니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### T803 \*Dual Division Award 수는 전체 Team 수를 기준으로 합니다. {#rule-T803}
 
 Dual Division Event에서 수여되는 Award 수는 Table 6-1을 사용해 전체 참가 Team 수를 기준으로 결정합니다.
+{% endhint %}
 
 ### 13.8.1 Dual Division Advancement Points {#s-13-8-1}
 

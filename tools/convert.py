@@ -139,7 +139,13 @@ def render(node, filename):
         title=content.select_one('.rule-title')
         anchor=node.get('id', 'rule-' + number.get_text(strip=True))
         body=''.join(render(x,filename) for x in content.children if x is not title)
-        return '\n\n#### ' + render(number,filename).strip() + ' ' + render(title,filename).strip() + f' {{#{anchor}}}\n\n' + body + '\n\n'
+        # Use a single callout per rule. Nested hints are replaced with
+        # blockquotes so explanatory notes remain distinct inside the box.
+        def quote_note(match):
+            return '\n\n' + '\n'.join('> ' + line for line in match.group(1).strip().splitlines()) + '\n\n'
+        body=re.sub(r'\{% hint[^%]*%\}(.*?)\{% endhint %\}', quote_note, body, flags=re.S)
+        heading='#### ' + render(number,filename).strip() + ' ' + render(title,filename).strip() + f' {{#{anchor}}}'
+        return '\n\n{% hint style="warning" %}\n' + heading + '\n\n' + body.strip() + '\n{% endhint %}\n\n'
     if 'alpha' in cls or 'roman' in cls:
         return '\n\n' + ' '.join(render(x,filename).strip() for x in node.children if str(x).strip()) + '\n\n'
     if any(c in cls for c in ('note-box','callout','notice')):

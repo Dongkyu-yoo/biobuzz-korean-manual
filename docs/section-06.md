@@ -117,6 +117,7 @@ JUDGES는 Pit Interview 중 추가 정보를 읽을 수 있지만 JUDGE Delibera
 
 ## 6.2 Team Judged Award Rules {#s-6-2}
 
+{% hint style="warning" %}
 #### A201 \*Team PORTFOLIO에는 제한이 있습니다. {#rule-A201}
 
 팀은 심사 과정의 일부로 사용할 Team PORTFOLIO를 제출할 수 있습니다. 이 문서 외의 인쇄물이나 Digital Content는 JUDGES가 Deliberation에서 고려하기 위해 수집하지 않습니다. Team PORTFOLIO는 다음 요건을 충족해야 합니다.
@@ -131,40 +132,40 @@ D. Digital 제출 시 전체 파일 크기는 15MB 미만
 
 E. 2026년 1월 1일 이후에 발생한 Progress, Challenge, Accomplishment만 포함
 
-{% hint style="info" %}
-Cover Page의 내용은 어떤 Award 기준 평가에도 사용되지 않습니다. 허용된 15페이지를 초과한 내용은 JUDGES가 검토하지 않습니다.<br>
-<br>
-PORTFOLIO의 Personally Identifying Information(PII)은 엄격히 최소화해야 합니다. 학생 Privacy를 위해 이름과 성의 첫 글자만 사용하십시오. 학생 사진은 허용되지만 Full Name은 공개해서는 안 됩니다.<br>
-<br>
-JUDGES는 Cover Page를 통해 PORTFOLIO가 어느 팀의 것인지 확인합니다. Cover Page를 빠뜨려 팀을 식별할 수 없으면 심사에서 제외될 수 있습니다.<br>
-<br>
-가독성을 고려해 설계하십시오. 10pt 미만 Font와 이미지 위의 낮은 Contrast Text는 피하십시오. JUDGES가 읽을 수 없는 내용은 평가할 수 없습니다.<br>
-<br>
-JUDGES는 PORTFOLIO의 Link, Website, Video를 클릭하지 않습니다. Interview에서 받은 추가 인쇄물을 심사실로 가져갈 수도 없습니다. 보여주고 싶은 내용은 PORTFOLIO 자체에 직접 넣으십시오.<br>
-<br>
-지적재산권을 존중하고 Footnote 또는 Endnote로 출처를 밝힌다면 AI와 Research Aid를 PORTFOLIO 작성에 사용할 수 있습니다. 예: “Portfolio created by Team XXXXX and ChatGPT”.<br>
-<br>
-성장을 보여주기 위해 이전 시즌을 언급할 수 있지만 강조점은 현재 시즌에 있어야 합니다.
+> Cover Page의 내용은 어떤 Award 기준 평가에도 사용되지 않습니다. 허용된 15페이지를 초과한 내용은 JUDGES가 검토하지 않습니다.<br>
+> <br>
+> PORTFOLIO의 Personally Identifying Information(PII)은 엄격히 최소화해야 합니다. 학생 Privacy를 위해 이름과 성의 첫 글자만 사용하십시오. 학생 사진은 허용되지만 Full Name은 공개해서는 안 됩니다.<br>
+> <br>
+> JUDGES는 Cover Page를 통해 PORTFOLIO가 어느 팀의 것인지 확인합니다. Cover Page를 빠뜨려 팀을 식별할 수 없으면 심사에서 제외될 수 있습니다.<br>
+> <br>
+> 가독성을 고려해 설계하십시오. 10pt 미만 Font와 이미지 위의 낮은 Contrast Text는 피하십시오. JUDGES가 읽을 수 없는 내용은 평가할 수 없습니다.<br>
+> <br>
+> JUDGES는 PORTFOLIO의 Link, Website, Video를 클릭하지 않습니다. Interview에서 받은 추가 인쇄물을 심사실로 가져갈 수도 없습니다. 보여주고 싶은 내용은 PORTFOLIO 자체에 직접 넣으십시오.<br>
+> <br>
+> 지적재산권을 존중하고 Footnote 또는 Endnote로 출처를 밝힌다면 AI와 Research Aid를 PORTFOLIO 작성에 사용할 수 있습니다. 예: “Portfolio created by Team XXXXX and ChatGPT”.<br>
+> <br>
+> 성장을 보여주기 위해 이전 시즌을 언급할 수 있지만 강조점은 현재 시즌에 있어야 합니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A202 \*PORTFOLIO는 요청된 방식과 기한에 맞춰 제출해야 합니다. {#rule-A202}
 
 심사에서 PORTFOLIO를 고려받으려면 Event Director의 지시와 명시된 기한에 따라 제출해야 합니다. 별도 지시가 없다면 Initial Interview에서 인쇄본 1부를 제출합니다.
 
-{% hint style="info" %}
-제출 시기와 방법은 Event Director가 이벤트 전에 안내해야 합니다. 사정상 지시를 따르기 어려운 경우 Event Director는 JUDGE Advisor와 협력하여 심사 과정에 과도한 부담이 되지 않는 범위에서 모든 Team PORTFOLIO를 받을 수 있도록 합리적인 편의를 제공해야 합니다.<br>
-<br>
-JUDGES와의 Pit Interview를 위해 Digital 또는 Physical 추가 사본을 Pit에 준비할 것을 권장합니다.
+> 제출 시기와 방법은 Event Director가 이벤트 전에 안내해야 합니다. 사정상 지시를 따르기 어려운 경우 Event Director는 JUDGE Advisor와 협력하여 심사 과정에 과도한 부담이 되지 않는 범위에서 모든 Team PORTFOLIO를 받을 수 있도록 합리적인 편의를 제공해야 합니다.<br>
+> <br>
+> JUDGES와의 Pit Interview를 위해 Digital 또는 Physical 추가 사본을 Pit에 준비할 것을 권장합니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A203 \*팀은 Initial Interview에 참여해야 합니다. {#rule-A203}
 
 Judged Award 심사 대상이 되려면 Initial Interview에 참여해야 합니다.
 
-{% hint style="info" %}
-Scheduled 방식이라면 Event Director 또는 지역 Program Delivery Partner가 이벤트 전에 배정 시간을 알려야 합니다. 일정 충돌 또는 예기치 못한 사정으로 Interview 시간을 놓친 경우 가능하다면 이벤트 현장에서 합리적인 대체 Interview를 마련하도록 협의해야 합니다.
+> Scheduled 방식이라면 Event Director 또는 지역 Program Delivery Partner가 이벤트 전에 배정 시간을 알려야 합니다. 일정 충돌 또는 예기치 못한 사정으로 Interview 시간을 놓친 경우 가능하다면 이벤트 현장에서 합리적인 대체 Interview를 마련하도록 협의해야 합니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A204 \*Initial Interview에 필요한 자원을 준비하십시오. {#rule-A204}
 
 팀은 다음을 준비해야 합니다.
@@ -179,42 +180,50 @@ D. A208에 따른 Silent Observer 1명(선택)
 
 E. A209에 따른 Accommodation Support Person 1명(필요 시 선택)
 
-{% hint style="info" %}
-가능한 많은 STUDENTS가 Initial Interview 과정에 참여할 것을 권장합니다. ROBOT이 없어도 심사에 참여하고 Judged Award 자격을 얻을 수 있습니다. Interview 중 ROBOT 전원을 켜고 기능을 시연할 수 있지만 심각한 지연을 일으켜서는 안 됩니다.
+> 가능한 많은 STUDENTS가 Initial Interview 과정에 참여할 것을 권장합니다. ROBOT이 없어도 심사에 참여하고 Judged Award 자격을 얻을 수 있습니다. Interview 중 ROBOT 전원을 켜고 기능을 시연할 수 있지만 심각한 지연을 일으켜서는 안 됩니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A205 \*모든 팀에게 동일한 Initial Interview 시간이 주어집니다. {#rule-A205}
 
 모든 팀의 Initial Interview는 동일한 길이로 배정되며 최소 10분입니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### A206 \*Initial Interview Timer는 팀이 시작할 때 시작됩니다. {#rule-A206}
 
 JUDGES가 자신을 소개한 뒤 팀이 Presentation을 시작하거나 Interview의 Q&amp;A가 시작될 때 Timer가 시작됩니다. 시작까지 지나치게 오래 걸리는 팀에는 JUDGES가 즉시 시작하도록 경고하며, 이후 팀의 준비 여부와 관계없이 Timer가 시작됩니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### A207 \*준비된 Initial Presentation 시간은 방해받지 않아야 합니다. {#rule-A207}
 
 팀이 원한다면 Initial Interview의 첫 5분은 준비된 구두 Presentation을 방해받지 않고 진행하도록 확보됩니다. 팀이 일찍 종료할 수 있으며 남은 시간은 JUDGES가 이끄는 STUDENTS와의 Q&amp;A 대화로 진행합니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### A208 \*성인 Silent Observer 1명이 참석할 수 있습니다. {#rule-A208}
 
 성인 1명은 Judging Session에 참석하여 JUDGES와 STUDENT Team Member의 상호작용을 지켜볼 수 있습니다. Initial Interview 밖의 상호작용에는 Adult Coach(es)가 참석할 수 있습니다. Adult Observer와 Coach(es)는 JUDGES와 STUDENTS의 상호작용 중 개입하거나 적극적으로 Coaching할 수 없습니다.
 
-{% hint style="info" %}
-Silent Observer의 목적은 낯선 환경과 새로운 사람들 앞에서 발표하는 STUDENTS에게 조용한 심리적 안정감을 제공하는 것입니다.
+> Silent Observer의 목적은 낯선 환경과 새로운 사람들 앞에서 발표하는 STUDENTS에게 조용한 심리적 안정감을 제공하는 것입니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A209 \*필요한 팀에는 통역 및/또는 수어 통역 편의를 제공합니다. {#rule-A209}
 
 팀의 모국어가 JUDGES의 언어와 다르면 Translator를 제공할 수 있으며 Sign Language 또는 기타 Adaptive Technology도 포함됩니다. Translator의 도움으로 Interview를 진행하려는 팀은 필요할 경우 2~5분의 추가 Interview 시간을 요청하기 위해 사전에 Event Director와 협의해야 합니다. Translator는 성인일 수 있으며 A208의 Silent Observer와 별도로 추가될 수 있습니다.
 
-{% hint style="info" %}
-대부분의 경우 Translator는 팀이 준비해야 합니다. 다른 편의가 필요하면 지역 Leadership에 문의하십시오.
+> 대부분의 경우 Translator는 팀이 준비해야 합니다. 다른 편의가 필요하면 지역 Leadership에 문의하십시오.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A210 \*Initial Interview 중 사진·영상·음성 녹음은 금지됩니다. {#rule-A210}
 
 E116의 제한에 더해 Initial Interview 중 Video, Audio 또는 Photo Recording은 허용되지 않습니다.
+{% endhint %}
 
+{% hint style="warning" %}
 #### A211 \*Award 수는 Event 규모에 따라 달라집니다. {#rule-A211}
 
 수여되는 Award의 총수는 Event에 Check-in한 Team 수를 기준으로 합니다. 모든 Competition에서 모든 Award가 수여되는 것은 아닙니다. Event 규모에 따라 Table 6-1에 지정된 Award만 Advancement Point 대상이 됩니다.
@@ -223,42 +232,43 @@ E116의 제한에 더해 Initial Interview 중 Video, Audio 또는 Photo Recordi
 
 <table><thead><tr><th colspan="2">Award</th><th colspan="4">Total Event Participating Teams</th></tr><tr><th colspan="2"></th><th>4–10 Teams</th><th>11–20 Teams</th><th>21–40 Teams</th><th>41–64 Teams</th></tr></thead><tbody><tr><td colspan="2">Inspire Award</td><td>1위</td><td>1위<br/>2위</td><td>1위<br/>2위<br/>3위</td><td>1위<br/>2위<br/>3위</td></tr><tr><td colspan="2">Think Award</td><td>1위</td><td>1위</td><td>1위<br/>2위</td><td>1위<br/>2위<br/>(3위*)</td></tr><tr><td rowspan="3">TA Awards</td><td>Connect Award</td><td>1위<br/>(Connect, Reach, Sustain 중 하나만 수여)</td><td>1위</td><td>1위<br/>(2위*)</td><td>1위<br/>2위<br/>(3위*)</td></tr><tr><td>Reach Award</td><td></td><td>1위</td><td>1위<br/>(2위*)</td><td>1위<br/>2위<br/>(3위*)</td></tr><tr><td>Sustain Award</td><td></td><td>1위</td><td>1위<br/>(2위*)</td><td>1위<br/>2위<br/>(3위*)</td></tr><tr><td rowspan="3">MCI Awards</td><td>Design Award</td><td>1위<br/>(Innovate, Control, Design 중 하나만 수여)</td><td>1위</td><td>1위<br/>(2위*)</td><td>1위<br/>2위<br/>(3위*)</td></tr><tr><td>Innovate Award</td><td></td><td>1위</td><td>1위<br/>(2위*)</td><td>1위<br/>2위<br/>(3위*)</td></tr><tr><td>Control Award</td><td></td><td>1위</td><td>1위<br/>(2위*)</td><td>1위<br/>2위<br/>(3위*)</td></tr><tr><td colspan="2">Judges’ Choice Award</td><td>Optional*</td><td>Optional*</td><td>Optional*</td><td>Optional*</td></tr></tbody></table>
 
-{% hint style="info" %}
-\* Discretionary Awards
-
-이 규칙의 Dual Division Event 수정 버전은 Section 13.8 Dual Division Events를 참고하십시오.
+> \* Discretionary Awards
+> 
+> 
+> 
+> 이 규칙의 Dual Division Event 수정 버전은 Section 13.8 Dual Division Events를 참고하십시오.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A212 \*모든 팀에 심사 Feedback이 제공됩니다. {#rule-A212}
 
 모든 팀은 Initial Interview에 대한 Feedback을 받습니다. JUDGES는 Initial Interview 직후 팀에 대한 첫 인상을 바탕으로 Form을 작성합니다. 이 Feedback Form은 Deliberation에 사용되지 않으며 이후 JUDGES와 팀의 상호작용에서 얻은 업데이트된 Feedback을 포함하지 않습니다.
 
-{% hint style="info" %}
-대면 심사의 경우 이벤트 종료 무렵 PORTFOLIO와 함께 반환되거나, 이벤트 이후 Lead Coach 1이 FTC-Scoring에서 Digital Version에 접근할 수 있습니다.
+> 대면 심사의 경우 이벤트 종료 무렵 PORTFOLIO와 함께 반환되거나, 이벤트 이후 Lead Coach 1이 FTC-Scoring에서 Digital Version에 접근할 수 있습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A213 \*팀은 자신의 지역에서만 Inspire Award를 받을 수 있습니다. {#rule-A213}
 
 팀은 HOME REGION 내 Tournament에서 경쟁할 때만 Inspire Award 1·2·3위 심사 대상이 됩니다.
 
-{% hint style="info" %}
-FIRST Championship과 FIRST Premier Event는 예외이며 모든 팀이 Inspire Award 심사 대상이 될 수 있습니다.
+> FIRST Championship과 FIRST Premier Event는 예외이며 모든 팀이 Inspire Award 심사 대상이 될 수 있습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A214 \*여러 Qualifying 또는 League Tournament에서 Inspire Award 1위를 반복 수상할 수 없습니다. {#rule-A214}
 
 팀은 한 시즌 동안 Qualifying 또는 League Tournament 전체를 통틀어 Inspire Award 1위를 한 번만 받을 수 있습니다.
 
-{% hint style="info" %}
-Inspire 1위를 이미 수상한 팀도 이후 Qualifying 또는 League Tournament에서 Inspire 2위 또는 3위를 받을 수 있습니다. Qualifying 또는 League Tournament에서 Inspire 1위를 수상한 팀은 Regional Super Qualifying Tournament(해당되는 경우)와 Regional Championship에서 다시 Inspire 1위를 받을 수 있습니다.
+> Inspire 1위를 이미 수상한 팀도 이후 Qualifying 또는 League Tournament에서 Inspire 2위 또는 3위를 받을 수 있습니다. Qualifying 또는 League Tournament에서 Inspire 1위를 수상한 팀은 Regional Super Qualifying Tournament(해당되는 경우)와 Regional Championship에서 다시 Inspire 1위를 받을 수 있습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### A215 \*팀은 하나의 Judged Award만 받을 수 있습니다. {#rule-A215}
 
 한 이벤트에서 팀은 하나의 Team Judged Award에 대해서만 Winner 또는 Runner-up이 될 수 있습니다.
 
-{% hint style="info" %}
-Section 6.4 Tournament ALLIANCE Awards와 Section 6.5 Individual Awards의 추가 Award 수상을 막는 규칙은 아닙니다.
+> Section 6.4 Tournament ALLIANCE Awards와 Section 6.5 Individual Awards의 추가 Award 수상을 막는 규칙은 아닙니다.
 {% endhint %}
 
 ## 6.3 Team Judged Award Descriptions {#s-6-3}

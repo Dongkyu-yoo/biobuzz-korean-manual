@@ -38,12 +38,12 @@ Division 및 Championship Playoff MATCHES에서 ALLIANCE는 각 MATCH를 자신�
 예를 들어 2대 ROBOT이 Queuing을 떠난 뒤 ALLIANCE가 MATCH에서 플레이할 다른 2대 ROBOT 조합으로 바꾸기로 결정한다면 MATCH Delay로 판단될 가능성이 높습니다.
 {% endhint %}
 
+{% hint style="warning" %}
 #### C301 \*Replay에서는 같은 ROBOT을 사용하십시오. {#rule-C301}
 
 Playoff MATCH를 Replay해야 하는 경우 Replay에 사용하는 2대 ROBOT은 Original MATCH에서 사용한 ROBOT과 동일해야 합니다. 유일한 예외는 Head REFEREE가 ARENA FAULT 때문에 ROBOT이 작동 불가능 상태가 되었다고 판단한 경우이며, 이 경우 ROBOTS를 변경할 수 있습니다. Tie 때문에 추가 MATCH를 플레이하는 경우에는 3대 ROBOT 중 어떤 2대를 사용해도 됩니다.
 
-{% hint style="info" %}
-FIRST Tech Challenge Team은 대부분의 Event보다 FIRST Championship에서 훨씬 더 많은 MATCH를 플레이하며 Event의 Team 수도 훨씬 많습니다. 세 번째 ROBOT을 Draft하면 각 ALLIANCE가 내장 Backup ROBOT을 확보하고 서로 다른 MATCH Strategy를 고려하여 Draft할 수 있는 유연성이 생깁니다.
+> FIRST Tech Challenge Team은 대부분의 Event보다 FIRST Championship에서 훨씬 더 많은 MATCH를 플레이하며 Event의 Team 수도 훨씬 많습니다. 세 번째 ROBOT을 Draft하면 각 ALLIANCE가 내장 Backup ROBOT을 확보하고 서로 다른 MATCH Strategy를 고려하여 Draft할 수 있는 유연성이 생깁니다.
 {% endhint %}
 
 ## 15.4 FIRST Championship Pit Crews {#s-15-4}
