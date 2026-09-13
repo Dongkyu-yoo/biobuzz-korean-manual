@@ -2,7 +2,7 @@
 
 ## 3.1 팀 참가 자격 규칙 {#s-3-1}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### I101 \*팀은 FIRST에 등록되어 있어야 합니다. {#rule-I101}
 
 FIRST Tech Challenge 공식 이벤트에서 경쟁하고 MATCH 포인트를 획득하거나 심사상 수상 자격을 얻으려면 팀은 “competition ready” 상태여야 합니다.
@@ -28,7 +28,7 @@ ii. 프로그램 비용, 등록, 청소년 보호 심사에 관한 지역 Progra
 > 지역 Program Delivery Partner는 드문 경우 지연 납부에 대해 사례별 예외를 적용할 수 있습니다. 연간 등록비를 납부하지 않은 팀은 공식 시즌 기록을 얻지 못하며 진출할 수 없습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### I102 \*이벤트에 정시에 체크인하십시오. {#rule-I102}
 
 별도 지정 또는 Event Director 승인 없이는 성인 팀원이 Qualification MATCH 시작 예정 시각 45분 전까지 Pit Administration 또는 지정 장소에서 체크인해야 합니다. 팀 성인이 체크인을 완료해야 하며 최소 1명의 STUDENT가 행사장에 있어야 합니다.
@@ -46,7 +46,7 @@ D. 인쇄된 팀 PORTFOLIO(선택 사항)
 > 체크인 마감 전에 검사 또는 심사가 있을 수 있으므로 대회 일정을 확인하십시오. 모든 팀은 준비 정도와 관계없이 경기와 심사에 참여할 것을 권장하며, 필요하면 Program Delivery Partner와 다른 팀에 ROBOT 준비 도움을 요청하십시오.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### I103 \*책임 있는 성인이 이벤트 전체 시간 동안 있어야 합니다. {#rule-I103}
 
 STUDENT 팀원을 책임지는 성인이 최소 1명, 가능하면 2명 항상 있어야 합니다. 책임 성인은 팀 명단에 등록되어 있는 것이 권장됩니다.
@@ -78,13 +78,13 @@ STUDENT 팀원은 ROBOT, 사용될 모든 COMPONENT, OPERATOR CONSOLE을 제시�
 
 검사는 한 번에 끝나지 않을 수 있으며 여러 INSPECTOR가 참여할 수 있습니다. INSPECTOR 또는 팀은 LRI에게 도움을 요청할 수 있습니다.
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### I301 \*완전한 ROBOT과 지원 장비를 검사에 가져오십시오. {#rule-I301}
 
 MATCH에서 사용할 장식 부품을 포함한 모든 COMPONENT와 ROBOT, OPERATOR CONSOLE을 제시합니다. 모든 검사 COMPONENT를 매 MATCH에 사용할 필요는 없지만, 재검사 없이 미검사 COMPONENT를 추가해서는 안 됩니다. MATCH에서 사용할 모든 ROBOT 구성 방식을 INSPECTOR에게 보여주어야 합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### I302 \*특정 제한은 모든 구성에 적용됩니다. {#rule-I302}
 
 모든 MECHANISM과 기본 ROBOT 제작에 사용되는 전자장치(모터, 서보, Android Device 등)의 총수는 동시에 사용되는지와 관계없이 Section 12의 제한을 초과할 수 없습니다.
@@ -96,7 +96,7 @@ MATCH에서 사용할 장식 부품을 포함한 모든 COMPONENT와 ROBOT, OPER
 
 ROBOT 변경 시 Team Support 자원봉사자의 조언과 도움을 구할 것을 권장합니다. 검사 후 경쟁상 이점을 얻기 위해 재검사 없이 의도적으로 ROBOT을 변경하는 것은 대회의 정신에 어긋납니다.
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### I303 \*ROBOT의 대부분의 변경 사항에 대해 재검사를 요청하십시오. {#rule-I303}
 
 ROBOT이 안전 및 대회 지침을 준수하지 않게 될 수 있는 변경을 했거나 Head REFEREE 또는 FTA가 요청한 경우 재검사를 받아야 합니다.
@@ -120,7 +120,7 @@ G. 이미 검사받은 MECHANISM의 일부 조합으로 ROBOT을 추가·제거�
 > 이벤트 중 ROBOT을 변경하는 모든 팀은 ROBOT 제작 규칙을 준수하기 위해 선의의 노력을 해야 합니다. 재검사 필요 여부가 불분명하면 LRI 또는 FIELD STAFF에게 확인하십시오.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### I304 \*재검사 절차를 악용하지 마십시오. {#rule-I304}
 
 팀은 다른 규칙을 우회하기 위해 재검사 절차를 이용해서는 안 됩니다.

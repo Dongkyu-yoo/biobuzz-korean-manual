@@ -2,7 +2,7 @@
 
 ## 11.1 Personal Safety {#s-11-1}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G101 \*Humans, MATCH 중 FIELD에 들어가지 마십시오. {#rule-G101}
 
 Team Member는 MATCH 중 FIELD 안으로 들어갈 수 없습니다.
@@ -12,7 +12,7 @@ Team Member는 MATCH 중 FIELD 안으로 들어갈 수 없습니다.
 > 취지는 Team Member가 FIELD Perimeter 밖에 머물며 Section 11.4.6에서 허용된 경우 외에는 MATCH에 영향을 주지 않는 것입니다. FIELD에 발을 들이거나 몸의 큰 부분을 FIELD 위로 내미는 것은 위반입니다. MATCH에 영향을 주지 않는 Arm Pointing, Waving, Leaning은 위반이 아닙니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G102 \*ARENA Element와 상호작용할 때 주의하십시오. {#rule-G102}
 
 Team Member는 ARENA Element와 관련하여 다음 행동을 할 수 없습니다.
@@ -32,7 +32,7 @@ D. 손상시키기
 
 ## 11.2 Conduct {#s-11-2}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G201 \*좋은 사람이 되십시오. {#rule-G201}
 
 모든 Team은 FIRST Tech Challenge Event에서 모든 사람에게 예의를 지키고 Team 및 Event Equipment를 존중해야 합니다. 자세한 내용은 FIRST Code of Conduct, FIRST Core Values 및 Section 1.4.2 Framework of Behaviors의 나머지 내용을 참고하십시오.
@@ -42,7 +42,7 @@ D. 손상시키기
 > 특히 경멸적인 행동은 개인의 ARENA 퇴장, Team DISQUALIFICATION으로 이어질 수 있으며 Escalation Guidelines(추후 공개)에 설명된 추가 Escalation 대상이 될 수 있습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G202 \*Competition Integrity Contract(CIC)를 따르십시오. {#rule-G202}
 
 BIOBUZZ를 플레이할 때 팀은 모든 MATCH에서 규칙과 Section 1.5 Competition Integrity Contract (CIC)에 설명된 CIC를 따라야 합니다.
@@ -68,7 +68,7 @@ F. ARENA 운영을 방해하는 행동
 > FIRST에서는 진실성을 갖고 경기하는 것이 필수입니다. YELLOW 또는 RED CARD는 위반의 심각성과 MATCH에 미친 영향에 따라 Head REFEREE의 재량으로 부여됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G203 \*자신의 MATCH에 참석하십시오. {#rule-G203}
 
 Initial Complete Inspection을 통과한 ROBOT의 팀은 각 배정 Qualification MATCH마다 DRIVE TEAM Member 최소 1명이 ARENA에 와서 참가해야 합니다.
@@ -78,7 +78,7 @@ Initial Complete Inspection을 통과한 ROBOT의 팀은 각 배정 Qualificatio
 > ROBOT이 참가할 수 없으면 Lead Queuer에게 알려야 합니다. 불가피한 사정이 있으면 FIELD STAFF와 Accommodation 가능 여부를 논의하십시오.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G204 \*다른 팀을 해쳐 이득을 얻으려 하지 마십시오. {#rule-G204}
 
 상대 ALLIANCE가 규칙을 위반하도록 명확히 강제하는 행동은 FIRST Tech Challenge의 정신에 어긋나며 허용되지 않습니다. 이런 방식으로 강제된 위반은 대상 ALLIANCE에 Penalty를 부여하지 않습니다.
@@ -94,7 +94,7 @@ Initial Complete Inspection을 통과한 ROBOT의 팀은 각 배정 Qualificatio
 > **B.** Blue DRIVE TEAM Member가 NECTAR를 FIELD에 투입하는 동안 Red ROBOT이 Blue LOADING ZONE을 통과하면서 Blue NECTAR가 LOADING ZONE의 TILE에 닿기 전에 튕겨내어 G426을 위반하게 하는 경우.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G205 \*심각하거나 예외적인 위반. {#rule-G205}
 
 규칙에 열거된 범위를 넘어서는 Egregious Behavior 또는 이벤트 중 어떤 규칙이나 절차의 이후 반복 위반은 금지됩니다.
@@ -116,7 +116,7 @@ Initial Complete Inspection을 통과한 ROBOT의 팀은 각 배정 Qualificatio
 
 ## 11.3 Pre-MATCH {#s-11-3}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G301 \*MATCH를 지연시키지 마십시오. {#rule-G301}
 
 DRIVE TEAM Member는 MATCH 시작을 상당히 지연시킬 수 없습니다. 팀의 행동이 지연으로 간주되기 전에 다음 두 조건이 모두 충족되어야 합니다.
@@ -161,7 +161,7 @@ VERBAL WARNING/MAJOR FOUL이 부여된 뒤 2분 이내에 Team/ALLIANCE가 MATCH
 > **E.** DRIVER STATION과 ROBOT CONTROLLER의 통신을 확인하기 위한 MOMENTARY “wiggle test”. 이 Test 중 ROBOT은 주행하거나 Pre-loaded POLLEN과의 접촉을 제외하고 SCORING ELEMENT와 상호작용해서는 안 됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G302 \*FIELD에 가져오는 물품을 제한하십시오. {#rule-G302}
 
 ROBOT과 OPERATOR CONSOLE 외에 MATCH에서 사용하기 위해 FIELD로 가져오는 물품은 팀의 지정 ALLIANCE AREA 안에 들어가고 DRIVE TEAM Member가 착용하거나 들고 있거나, Accommodation 용품이어야 합니다. Accommodation 예로는 목발, Cushion, Kneeling Mat, 높이 12 in.(30.5 cm) 이하이며 사람이 올라서도록 설계되고 구르거나 접히지 않게 잠기는 Single-step Stool 등이 있습니다.
@@ -194,7 +194,7 @@ G302.B는 6 ft. 6 in.를 MOMENTARY하게 초과하는 경우와 PPE 또는 Hat, 
 > Remote Sensing 방해의 예에는 FIELD AprilTag를 모방하거나 MATCH 중 FIELD에 Bright Light 또는 Laser Pointer를 비추는 행동 등이 포함됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G303 \*FIELD의 ROBOT은 MATCH를 플레이할 준비가 되어 있어야 합니다. {#rule-G303}
 
 ROBOT은 다음 MATCH 시작 요건을 모두 충족해야 합니다.
@@ -212,7 +212,7 @@ D. 올바른 ALLIANCE Color를 나타내는 ROBOT SIGNS를 갖출 것(R402 참�
 > 위 항목 중 여러 사항을 평가할 때 Head REFEREE는 LRI와 협의할 가능성이 높습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G304 \*ROBOT을 FIELD에 올바르게 배치하십시오. {#rule-G304}
 
 ROBOT은 FIELD에서 다음 요건을 모두 충족하도록 배치해야 합니다.
@@ -244,7 +244,7 @@ H. OpMode Initialization 완료 후 완전히 Motionless할 것
 > **Figure 11-1 · 허용되는 ROBOT Starting Location 예**
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G305 \*OpMode를 선택하십시오. {#rule-G305}
 
 DRIVER STATION App에서 OpMode를 선택하고 INIT 버튼으로 초기화해야 합니다. AUTO OpMode이면 30초 AUTO Timer를 활성화해야 합니다.
@@ -258,7 +258,7 @@ DRIVER STATION App에서 OpMode를 선택하고 INIT 버튼으로 초기화해�
 
 ### 11.4.1 AUTO {#s-11-4-1}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G401 \*AUTO 중 ROBOT과 상호작용하지 마십시오. {#rule-G401}
 
 MATCH 시작 Countdown이 시작된 순간부터 AUTO 종료까지 DRIVE TEAM Member는 ROBOT 또는 OPERATOR CONSOLE과 직접 또는 간접적으로 상호작용할 수 없습니다. 다음은 예외입니다.
@@ -276,7 +276,7 @@ C. Personal Safety 또는 OPERATOR CONSOLE Safety를 위한 행동
 > G401.A의 취지는 Human Factor에 따른 약간의 Variation을 고려하면서 Team이 AUTO를 제시간에 시작하도록 하는 것입니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G402 AUTO에서 상대를 방해하지 마십시오. {#rule-G402}
 
 AUTO 중 상대 ALLIANCE의 AUTO를 방해할 수 없습니다. Red는 FIELD Column A/B/C, Blue는 D/E/F에 Priority를 갖습니다.
@@ -288,7 +288,7 @@ AUTO 중 상대 ALLIANCE의 AUTO를 방해할 수 없습니다. Red는 FIELD Col
 
 ### 11.4.2 TELEOP {#s-11-4-2}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G403 \*AUTO와 TELEOP 사이 ROBOT은 정지해야 합니다. {#rule-G403}
 
 AUTO→TELEOP Transition 동안 ROBOT 또는 MECHANISM의 Powered Movement는 허용되지 않습니다.
@@ -298,7 +298,7 @@ AUTO→TELEOP Transition 동안 ROBOT 또는 MECHANISM의 Powered Movement는 �
 > Inertia, Gravity, Actuator De-energizing에 따른 움직임은 Powered Movement가 아닙니다. Transition 중 AUTO Stop, TELEOP Init/Start는 가능하지만 INIT가 Actuator를 움직이게 한다면 TELEOP 시작까지 기다려야 합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G404 \*TELEOP 종료 시 ROBOT은 정지해야 합니다. {#rule-G404}
 
 TELEOP 종료 후 Head REFEREE 또는 Designee가 Team에게 ROBOT을 회수해도 된다고 신호할 때까지 ROBOT에는 Powered Movement가 없어야 합니다.
@@ -312,7 +312,7 @@ TELEOP 종료 후 Head REFEREE 또는 Designee가 Team에게 ROBOT을 회수해�
 
 ### 11.4.3 SCORING ELEMENT {#s-11-4-3}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G405 \*SCORING ELEMENT를 FIELD 안에 유지하십시오. {#rule-G405}
 
 ROBOT은 직접 또는 FIELD Element/다른 ROBOT에 튕기는 방식으로 SCORING ELEMENT를 고의로 FIELD 밖으로 Eject할 수 없습니다.
@@ -322,7 +322,7 @@ ROBOT은 직접 또는 FIELD Element/다른 ROBOT에 튕기는 방식으로 SCOR
 > Scoring Attempt 또는 ROBOT-to-ROBOT Interaction 결과로 밖으로 나간 것은 Deliberate Ejection으로 보지 않습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G406 \*ARENA를 손상시키거나 어지럽히지 마십시오. {#rule-G406}
 
 ROBOT과 DRIVE TEAM Member는 ARENA의 어떤 부분도 어지럽히거나 손상시킬 수 없습니다.
@@ -337,7 +337,7 @@ ROBOT이 이후 MATCH에 참가하기 전에 Sharp Edge 제거, 손상 유발 ME
 > SCORING ELEMENT는 ROBOT과 Human이 다루면서 Scratch, Marking, Fatigue에 따른 손상 등 합리적인 Wear and Tear가 예상됩니다. 그러나 반복적으로 홈을 파거나(gouging), 조각을 뜯어내거나, SCORING ELEMENT에 표시를 남기는 행동은 위반입니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G407 동시에 4개를 초과하지 마십시오. {#rule-G407}
 
 ROBOT은 동시에 4개보다 많은 SCORING ELEMENT를 CONTROL할 수 없습니다.
@@ -371,7 +371,7 @@ ROBOT은 동시에 4개보다 많은 SCORING ELEMENT를 CONTROL할 수 없습니
 > F. ROBOT이 LAUNCH한 뒤 더 이상 ROBOT과 접촉하지 않는 SCORING ELEMENT
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G408 상대 NECTAR를 CONTROL하지 마십시오. {#rule-G408}
 
 ROBOT은 상대 ALLIANCE의 NECTAR를 CONTROL할 수 없습니다.
@@ -379,7 +379,7 @@ ROBOT은 상대 ALLIANCE의 NECTAR를 CONTROL할 수 없습니다.
 **위반:** VERBAL WARNING. STRATEGIC이면 MATCH당 YELLOW CARD.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G409 SCORING ELEMENT를 Catch하지 마십시오. {#rule-G409}
 
 TIPPED HIVE에서 나온 SCORING ELEMENT가 해당 ROBOT 외의 다른 것에 먼저 접촉하기 전까지 ROBOT은 이를 Catch하거나 Deflect할 수 없습니다.
@@ -408,7 +408,7 @@ TIPPED HIVE에서 나온 SCORING ELEMENT가 해당 ROBOT 외의 다른 것에 �
 > E. 더 이상 작동하지 않는 ROBOT이 HIVE 아래에 정지해 있어 SCORING ELEMENT가 위에 쌓이는 경우
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G410 NECTAR는 마지막 1분에만 FLOWER에 넣을 수 있습니다. {#rule-G410}
 
 ROBOT은 MATCH의 마지막 60초가 되기 전에는 NECTAR를 FLOWER Scoring Volume에 넣을 수 없습니다.
@@ -422,7 +422,7 @@ ROBOT은 MATCH의 마지막 60초가 되기 전에는 NECTAR를 FLOWER Scoring V
 > Team은 REFEREE가 NECTAR를 너무 일찍 FLOWER에 넣지 않았음을 명백하고 모호하지 않게 판단할 수 있도록 하는 것이 좋습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G411 \*SCORING ELEMENT를 독점하지 마십시오. {#rule-G411}
 
 ALLIANCE는 상대 ALLIANCE가 SCORING ELEMENT에 접근하는 것을 STRATEGIC하게 막을 수 없습니다.
@@ -434,7 +434,7 @@ ALLIANCE는 상대 ALLIANCE가 SCORING ELEMENT에 접근하는 것을 STRATEGIC�
 
 ### 11.4.4 ROBOT {#s-11-4-4}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G412 \*ROBOT은 Control 아래 있어야 합니다. {#rule-G412}
 
 ROBOT은 MATCH 중 다음 방식으로 Human 또는 ARENA Element에 과도한 Hazard를 주어서는 안 됩니다.
@@ -472,7 +472,7 @@ B. ROBOT Operation 자체가 위험한 경우
 > DRIVER STATION Stand, FIELD 밖의 Floor, 또는 FIELD 바깥쪽의 FIELD Wall Perimeter와 같은 FIELD 밖 ARENA Element와 ROBOT이 접촉하는 것은 이 규칙 위반이 아닙니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G413 \*지시받으면 ROBOT을 정지하십시오. {#rule-G413}
 
 T402에 따라 REFEREE가 DISABLE을 지시하면 DRIVE TEAM Member는 DRIVER STATION App의 Stop 버튼을 누르고 Controller를 내려놓아야 합니다.
@@ -480,7 +480,7 @@ T402에 따라 REFEREE가 DISABLE을 지시하면 DRIVE TEAM Member는 DRIVER ST
 **위반:** VERBAL WARNING. STRATEGIC이면 RED CARD.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G414 \*ROBOT은 식별 가능해야 합니다. {#rule-G414}
 
 Head REFEREE가 판단하기에 ROBOT의 Team Number와 ALLIANCE Color가 불분명한 상태가 되어서는 안 됩니다.
@@ -492,7 +492,7 @@ Head REFEREE가 판단하기에 ROBOT의 Team Number와 ALLIANCE Color가 불분
 > ROBOT이 Subsequent MATCH에 참가하기 전에 ROBOT SIGN 수정과 같은 Corrective Action이 요구될 수 있습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G415 \*ARENA와의 상호작용에 주의하십시오. {#rule-G415}
 
 SCORING ELEMENT를 제외하고 ROBOT은 ARENA Element와 다음과 같이 상호작용할 수 없습니다.
@@ -514,7 +514,7 @@ E. Suspend
 > Alignment를 돕기 위해 FLOWER를 일부 감싸는 Concave Shape의 ROBOT은 이 규칙 위반이 아닙니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G416 ROBOT Construction Limit을 지키십시오. {#rule-G416}
 
 ROBOT은 MATCH 중 R105의 제한을 위반할 수 없습니다. ROBOT은 다음을 할 수 없습니다.
@@ -528,7 +528,7 @@ B. R105.C에 따라 Part를 고의로 Detach
 > ROBOT은 MATCH 시작 후 STARTING CONFIGURATION 밖으로 움직이는 Part를 가질 수 있지만, Extension은 R105의 Expansion Limit 안에 있어야 하며 COMPONENT를 고의로 Detach해서는 안 됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G417 HIVE Structure를 간섭하지 마십시오. {#rule-G417}
 
 ROBOT은 Upward-facing CELL에 SCORING ELEMENT를 LAUNCH하는 방법 외에는 어떤 방식으로도 HIVE의 움직임을 Manipulate할 수 없습니다.
@@ -560,7 +560,7 @@ ROBOT은 Upward-facing CELL에 SCORING ELEMENT를 LAUNCH하는 방법 외에는 
 > H. Upward-facing CELL로 POLLEN/NECTAR를 LAUNCH하려다 빗나가 CELL의 Bottom, Side 또는 Top에 맞음
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G418 FLOWER를 간섭하지 마십시오. {#rule-G418}
 
 ROBOT은 다음 예외 외에는 FLOWER에 SCORING ELEMENT를 넣거나 FLOWER에서 SCORING ELEMENT를 제거할 수 없습니다.
@@ -607,7 +607,7 @@ B. POLLEN만 FLOWER의 아래쪽에서 제거할 수 있습니다.
 
 G419와 G420은 상호 배타적입니다. 하나의 ROBOT-to-ROBOT Interaction이 둘 이상을 위반하면 가장 강한 Penalty 하나만 적용합니다.
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G419 \*상대 ROBOT을 손상시키지 마십시오. {#rule-G419}
 
 ROBOT은 상대 ROBOT을 손상시키거나 기능적으로 Impair할 수 없습니다.
@@ -649,7 +649,7 @@ ROBOT은 상대 ROBOT을 손상시키거나 기능적으로 Impair할 수 없습
 > **“Unable to drive”**란 해당 Incident 때문에 DRIVER가 합리적인 시간 안에 원하는 위치로 더 이상 주행할 수 없는 상태를 의미합니다. 예를 들어 ROBOT이 원만 그리며 움직이거나 극도로 느리게만 움직일 수 있다면 Unable to Drive로 간주합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G420 \*상대를 Tip하거나 Entangle하지 마십시오. {#rule-G420}
 
 ROBOT은 상대 ROBOT에 Attach하거나, 상대 ROBOT을 Tip Over하거나, Entangle할 수 없습니다.
@@ -671,7 +671,7 @@ ROBOT은 상대 ROBOT에 Attach하거나, 상대 ROBOT을 Tip Over하거나, Ent
 > **“Unable to drive”**는 Incident 때문에 DRIVER가 합리적인 시간 안에 원하는 위치로 주행할 수 없는 상태입니다. 예를 들어 원만 그리거나 극도로 느리게만 움직일 수 있다면 Unable to Drive입니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G421 \*PIN은 3-Count 제한입니다. {#rule-G421}
 
 ROBOT은 상대 ROBOT을 3초보다 길게 PIN할 수 없습니다. 직접 접촉 또는 FIELD Element에 밀어 붙이는 것과 같은 간접(Transitive) 접촉으로 상대 ROBOT의 움직임을 막으면 PINNING입니다.
@@ -693,7 +693,7 @@ G421.B에서는 어느 ROBOT이든 PIN 시작 위치에서 2 ft. 이동하면 PI
 
 ### 11.4.6 Human {#s-11-4-6}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G422 \*DRIVE TEAM은 ALLIANCE AREA에 머무르십시오. {#rule-G422}
 
 MATCH가 시작된 뒤 DRIVE TEAM Member는 지정된 ALLIANCE AREA를 떠날 수 없습니다.
@@ -707,7 +707,7 @@ MATCH가 시작된 뒤 DRIVE TEAM Member는 지정된 ALLIANCE AREA를 떠날 �
 > Safety와 관련된 경우에는 예외가 허용됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G423 \*DRIVE COACH와 다른 팀은 Controller를 만지지 마십시오. {#rule-G423}
 
 MATCH가 시작되면 DRIVE COACH 또는 다른 팀의 Member는 OPERATOR CONSOLE의 Gamepad를 다룰 수 없습니다.
@@ -732,7 +732,7 @@ MATCH가 시작되면 DRIVE COACH 또는 다른 팀의 Member는 OPERATOR CONSOL
 > F. DRIVER STATION App의 (■) Stop 버튼 누르기
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G424 \*DRIVE COACH는 SCORING ELEMENT를 만지지 마십시오. {#rule-G424}
 
 Safety 목적을 제외하고 DRIVE COACH는 SCORING ELEMENT에 접촉할 수 없습니다.
@@ -740,7 +740,7 @@ Safety 목적을 제외하고 DRIVE COACH는 SCORING ELEMENT에 접촉할 수 �
 **위반:** VERBAL WARNING. STRATEGIC이면 Instance당 MINOR FOUL.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G425 \*DRIVE TEAM은 손이 닿는 범위를 주의하십시오. {#rule-G425}
 
 MATCH 시작 후 DRIVE TEAM Member는 직접 또는 간접적으로 다음 행동을 할 수 없습니다.
@@ -768,7 +768,7 @@ D. FIELD Element에 접촉
 > B. FLOWER에서 NECTAR/POLLEN을 Descore하기 위해 Perimeter Wall을 의도적으로 치거나 흔드는 행동
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G426 Human은 NECTAR를 너무 일찍 FIELD에 넣을 수 없습니다. {#rule-G426}
 
 DRIVE TEAM Member는 다음 경우를 제외하고 NECTAR를 FIELD에 투입할 수 없습니다.
@@ -786,7 +786,7 @@ B. MATCH에 60초 이하가 남으면 남은 모든 NECTAR를 투입할 수 있�
 > DRIVE TEAM은 ALLIANCE AREA에 남아 있는 NECTAR가 잘 보이도록 하고, REFEREE가 너무 일찍 NECTAR를 투입하지 않았음을 명백하고 모호하지 않게 판단할 수 있도록 하는 것이 좋습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G427 Human은 LOADING ZONE을 통해서만 NECTAR를 넣으십시오. {#rule-G427}
 
 NECTAR는 다음 조건을 모두 충족하는 경우에만 FIELD에 투입할 수 있습니다.
@@ -811,7 +811,7 @@ C. NECTAR가 ROBOT 또는 FIELD Element에 접촉하기 전에 LOADING ZONE 안�
 > NECTAR를 투입할 때 DRIVE TEAM Member는 G425를 위반하지 않도록 TILE과 접촉 중인 다른 SCORING ELEMENT를 만지지 않아야 합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### G428 Human은 SCORING ELEMENT를 FIELD에서 제거하지 마십시오. {#rule-G428}
 
 DRIVE TEAM Member는 SCORING ELEMENT를 FIELD에서 제거할 수 없습니다.

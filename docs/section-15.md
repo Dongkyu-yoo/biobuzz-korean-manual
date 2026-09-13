@@ -38,7 +38,7 @@ Division 및 Championship Playoff MATCHES에서 ALLIANCE는 각 MATCH를 자신�
 예를 들어 2대 ROBOT이 Queuing을 떠난 뒤 ALLIANCE가 MATCH에서 플레이할 다른 2대 ROBOT 조합으로 바꾸기로 결정한다면 MATCH Delay로 판단될 가능성이 높습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### C301 \*Replay에서는 같은 ROBOT을 사용하십시오. {#rule-C301}
 
 Playoff MATCH를 Replay해야 하는 경우 Replay에 사용하는 2대 ROBOT은 Original MATCH에서 사용한 ROBOT과 동일해야 합니다. 유일한 예외는 Head REFEREE가 ARENA FAULT 때문에 ROBOT이 작동 불가능 상태가 되었다고 판단한 경우이며, 이 경우 ROBOTS를 변경할 수 있습니다. Tie 때문에 추가 MATCH를 플레이하는 경우에는 3대 ROBOT 중 어떤 2대를 사용해도 됩니다.

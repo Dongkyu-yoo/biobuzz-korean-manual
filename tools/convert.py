@@ -145,7 +145,7 @@ def render(node, filename):
             return '\n\n' + '\n'.join('> ' + line for line in match.group(1).strip().splitlines()) + '\n\n'
         body=re.sub(r'\{% hint[^%]*%\}(.*?)\{% endhint %\}', quote_note, body, flags=re.S)
         heading='#### ' + render(number,filename).strip() + ' ' + render(title,filename).strip() + f' {{#{anchor}}}'
-        return '\n\n{% hint style="warning" %}\n' + heading + '\n\n' + body.strip() + '\n{% endhint %}\n\n'
+        return '\n\n{% hint style="success" %}\n' + heading + '\n\n' + body.strip() + '\n{% endhint %}\n\n'
     if 'alpha' in cls or 'roman' in cls:
         return '\n\n' + ' '.join(render(x,filename).strip() for x in node.children if str(x).strip()) + '\n\n'
     if any(c in cls for c in ('note-box','callout','notice')):

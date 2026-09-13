@@ -76,7 +76,7 @@ Inspection에서 합법 부품의 제한을 규정한 Rule(예: Motor, Servo, Cu
 
 FIRST Tech Challenge는 접촉이 많고 강도 높은 Gameplay를 포함할 수 있습니다. 규칙은 의도적인 ROBOT 손상을 제한하지만 ROBOT 간 Interaction 자체는 허용되며 예상됩니다. 팀은 ROBOT을 Robust하게 설계해야 합니다.
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R101 \*이 ROBOT은 여러분 팀의 ROBOT이어야 합니다. {#rule-R101}
 
 ROBOT과 그 MAJOR MECHANISMS는 이벤트에 등록되어 있고 MATCH에 참가하거나 Judged Award 심사에 사용할 해당 FIRST Tech Challenge 팀이 제작해야 합니다.
@@ -104,7 +104,7 @@ ROBOT과 그 MAJOR MECHANISMS는 이벤트에 등록되어 있고 MATCH에 참�
 > 이 규칙의 취지는 ROBOT이 현재 Team Member의 경험을 대표하는 결과물이어야 한다는 것이며, 외부 Organization이나 Company가 완성형 Solution을 통째로 제공하는 것을 막기 위한 것입니다. R301과 R303도 참고하십시오.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R102 \*STARTING CONFIGURATION은 18-inch Cube로 제한됩니다. {#rule-R102}
 
 STARTING CONFIGURATION(MATCH를 시작할 때의 물리적 ROBOT 상태)에서 ROBOT의 모든 부분은 완전히 정지해 있어야 하고, ROBOT 전체는 18 in.(45.70 cm) 폭 × 18 in.(45.70 cm) 길이 × 18 in.(45.70 cm) 높이 Volume 안에 완전히 들어가야 합니다.
@@ -116,7 +116,7 @@ STARTING CONFIGURATION(MATCH를 시작할 때의 물리적 ROBOT 상태)에서 R
 > Pre-loaded SCORING ELEMENT는 시작 크기 제한 Volume 밖으로 나가도 됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R103 \*STARTING CONFIGURATION 유지에 ROBOT의 힘을 사용할 수 있습니다. {#rule-R103}
 
 STARTING CONFIGURATION에서 ROBOT은 완전히 Self-supported여야 합니다. 즉 Sizing Tool의 옆면이나 윗면에 힘을 가해서는 안 됩니다. 다음 방법을 단독 또는 조합하여 사용할 수 있습니다.
@@ -128,7 +128,7 @@ B. Servo와 Motor를 원하는 정지 위치로 Pre-position하는 OpMode Initia
 > Inspection 중 또는 MATCH 시작 대기 중 STARTING CONFIGURATION을 유지해야 하는 시간은 몇 분이 될 수 있으므로 Thermal Failure 가능성을 줄여야 합니다. 예를 들어 Motor를 Hard Stop에 계속 Stall시키는 방식은 피하십시오. Inspection 중 구동 중인 ROBOT을 사용할 때에는 INSPECTOR에게 ROBOT이 Live 상태임을 알리십시오.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R104 \*ROBOT 무게 제한은 없습니다. {#rule-R104}
 
 BIOBUZZ를 플레이하는 FIRST Tech Challenge ROBOT에는 명시적인 Weight Limit이 없습니다.
@@ -143,7 +143,7 @@ BIOBUZZ를 플레이하는 FIRST Tech Challenge ROBOT에는 명시적인 Weight 
 > - Overall ROBOT Performance
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R105 ROBOT은 하나의 Assembly로 유지되어야 하며 Expansion Limit이 있습니다. {#rule-R105}
 
 MATCH가 시작된 뒤 ROBOT은 STARTING CONFIGURATION 밖으로 확장할 수 있지만 초기 STARTING CONFIGURATION을 기준으로 다음 Sizing Constraint를 항상 지켜야 합니다.
@@ -213,7 +213,7 @@ Sizing Limit Volume은 FIELD Surface를 기준으로 정의하며 29 in.(73.65 c
 
 ## 12.2 Fair Play &amp; Damage Prevention {#s-12-2}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R201 \*ROBOT은 ARENA를 손상시키거나 어지럽힐 위험이 없어야 합니다. {#rule-R201}
 
 ROBOT은 ARENA 안의 어떤 것에도 Mess를 만들 위험이나 Hazard를 주어서는 안 됩니다.
@@ -263,7 +263,7 @@ ROBOT은 ARENA 안의 어떤 것에도 Mess를 만들 위험이나 Hazard를 주
 > H. Graphite Powder를 포함한 기타 Lubricant
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R202 \*ROBOT과 OPERATOR CONSOLE은 Safety와 Fair Play를 고려해 설계하십시오. {#rule-R202}
 
 ROBOT 및 OPERATOR CONSOLE 부품은 Hazardous Material로 만들어져서는 안 되며, Unsafe Condition을 만들거나 다른 ROBOT 또는 FIELD STAFF의 운영을 방해해서는 안 됩니다.
@@ -315,7 +315,7 @@ ROBOT 및 OPERATOR CONSOLE 부품은 Hazardous Material로 만들어져서는 �
 > K. 목록에 없더라도 Safe/Fair Play의 Rule Spirit을 위반하는 기타 Item
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R203 \*ROBOT은 전원 없이도 FIELD에서 빠르게 제거할 수 있어야 합니다. {#rule-R203}
 
 ROBOT은 전원이 꺼진 상태에서 ROBOT 안의 SCORING ELEMENT를 제거하고 ROBOT을 FIELD Element에서 분리하여 꺼낼 수 있도록 설계되어야 합니다.
@@ -323,7 +323,7 @@ ROBOT은 전원이 꺼진 상태에서 ROBOT 안의 SCORING ELEMENT를 제거하
 > 일부 Event에서는 FIELD Reset 중 ROBOT Power 사용(예: ROBOT을 FIELD Edge로 주행)을 허용할 수 있지만, ROBOT은 이것이 필요하지 않도록 설계되어야 합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R204 \*바닥을 잡지 마십시오. {#rule-R204}
 
 ROBOT은 FIELD Surface를 Grab하거나 Generated Airflow로 Downward Suction을 만들어 Downforce를 증가시키도록 설계된 MECHANISM을 사용할 수 없습니다.
@@ -331,7 +331,7 @@ ROBOT은 FIELD Surface를 Grab하거나 Generated Airflow로 Downward Suction을
 
 ## 12.3 Fabrication {#s-12-3}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R301 \*COTS MECHANISM은 허용되지만 제한이 있습니다. {#rule-R301}
 
 Game Task를 완료하도록 Purpose-built된 COTS MAJOR MECHANISM은 금지됩니다. 예외는 다음과 같습니다.
@@ -345,7 +345,7 @@ B. 공식 FIRST Tech Challenge StarterBots의 일부로 만들어진 COTS MAJOR 
 > VENDOR가 공개된 Purpose-built Solution을 그대로 “build to print” 방식으로 제작·판매하는 것은 이 규칙의 정신에 어긋납니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R302 \*합법적인 COTS Part와 Raw Material은 수정할 수 있습니다. {#rule-R302}
 
 다른 규칙을 위반하지 않는 한 허용된 Raw Material과 합법적인 COTS Part는 Drilling, Cutting, Painting 등으로 수정할 수 있습니다.
@@ -369,7 +369,7 @@ B. 공식 FIRST Tech Challenge StarterBots의 일부로 만들어진 COTS MAJOR 
 > D. Magnet
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R303 \*COTS는 Single DoF여야 합니다. {#rule-R303}
 
 COTS COMPONENT와 MECHANISM은 Mechanical Degree of Freedom(DoF)이 1개를 초과할 수 없습니다.
@@ -417,13 +417,13 @@ L. Variable Angle로 Structure를 연결하는 Item(Ball Joint Linkage, Rod End 
 > **예 3:** 한 Actuator가 2개의 Jaw를 동시에 움직이거나 두 Actuator가 각각 Jaw 하나씩을 움직이는 Simple Gripper Claw는 대체로 Single DoF입니다. 하지만 Wrist처럼 추가 Twisting/Bending Action을 제공하는 Actuator가 통합되면 COTS MECHANISM에서 금지되는 추가 DoF가 생깁니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R304 \*Custom Software, Design, Part는 시즌 간 재사용할 수 있습니다. {#rule-R304}
 
 Kickoff 이전에 만들어진 ROBOT Software, Design, FABRICATED ITEM의 사용이 허용됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R305 \*SCORING ELEMENT는 ROBOT 제작에 사용할 수 없습니다. {#rule-R305}
 
 현재 시즌 SCORING ELEMENT 또는 그 Replica를 ROBOT 제작의 일부로 사용할 수 없습니다.
@@ -439,7 +439,7 @@ ROBOT SIGN은 ROBOT에 부착하는 필수 Assembly입니다. ROBOT SIGN은 FIEL
 
 Template ROBOT SIGN은 US Letter 및 A4 Size로 제공됩니다.
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R401 \*ROBOT당 ROBOT SIGN은 최소 2개. {#rule-R401}
 
 ROBOT SIGN은 ROBOT의 최소 2개 서로 다른 위치에 설치해야 합니다. 두 위치는 서로 반대쪽 Surface 또는 인접 Surface에 있어야 하며, 서로 최소 90° 떨어져 있어야 합니다. FIELD STAFF가 볼 수 있는 모든 ROBOT Surface(ROBOT Top 포함)를 ROBOT SIGN 위치로 사용할 수 있습니다. ROBOT SIGN은 다음을 충족해야 합니다.
@@ -459,7 +459,7 @@ D. ROBOT Structure/Frame이 지지
 **Figure 12-7 · Team Number ROBOT SIGN Sizing**
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R402 \*ROBOT SIGN은 ALLIANCE를 표시해야 합니다. {#rule-R402}
 
 각 ROBOT SIGN에는 MATCH Schedule에서 배정된 ALLIANCE Color를 나타내는, 최소 6.5 in. × 2.5 in.(16.50 cm × 6.35 cm) 크기의 Solid Red 또는 Blue Opaque Background Rectangle이 있어야 합니다. ROBOT에 설치했을 때 보이는 Marking은 다음을 제외하고 금지됩니다.
@@ -481,7 +481,7 @@ E. ALLIANCE Color를 비추거나 드러내기 위해 전원을 사용하거나 
 **Figure 12-8 · Minimum sized ALLIANCE rectangle**
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R403 \*ROBOT SIGN의 Team Number. {#rule-R403}
 
 Team Number는 Figure 12-7, Figure 12-9, Figure 12-10처럼 ROBOT SIGN에 표시·배치해야 하며 추가로 다음을 충족해야 합니다.
@@ -512,7 +512,7 @@ E. 숫자를 비추거나 드러내기 위해 전원을 사용하거나 Power So
 
 ## 12.5 Motors &amp; Actuators {#s-12-5}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R501 \*특정 Motor만 허용됩니다. {#rule-R501}
 
 허용되는 Motor Actuator는 Table 12-1에 있는 것만입니다.
@@ -532,7 +532,7 @@ COTS Sensor에 Integral된 Motor(예: LIDAR, Scanning Sonar)는 Mounting을 위�
 > 많은 합법적인 Gearmotor는 전체 Assembly 기준 Label로 판매됩니다. 이 Motor는 제공된 Gearbox와 함께 또는 Gearbox 없이 사용할 수 있고, 호환되는 다른 Gearbox와도 사용할 수 있습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R502 \*Servo 사용에는 제한이 있습니다. {#rule-R502}
 
 Servo Actuator는 아래 요건을 충족해야 합니다. Servo는 최종적으로 사용하는 Power Regulation Device(R505)와 호환되어야 하며, 추가 Servo Position Output Interface(예: 4th Wire Position Feedback)를 포함할 수 있습니다.
@@ -554,7 +554,7 @@ Servo Actuator는 아래 요건을 충족해야 합니다. Servo는 최종적으
 > 사용할 Power Regulation Device가 Servo의 Operating Voltage Range 안에 있는지도 확인해야 합니다. REV Control Hub/Expansion Hub는 Servo에 5V를 제공하고, goBILDA Servo Power Injector, REV Servo Power Module, Studica Servo Power Block, REV Servo Hub는 6V를 제공합니다. 6~8.4V DC만 지원하는 Servo는 5V 공급 시 정상 작동하지 않을 수 있습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R503 \*ROBOT은 Motor 8개, Servo 8개로 제한됩니다. {#rule-R503}
 
 ROBOT은 모든 Configuration에서 사용하는 모든 MECHANISM을 합쳐 R501/R502의 허용 목록에서 Motor 최대 8개, Servo 최대 8개만 사용할 수 있습니다.
@@ -562,7 +562,7 @@ ROBOT은 모든 Configuration에서 사용하는 모든 MECHANISM을 합쳐 R501
 > 한 Event에서 Configuration에 따라 서로 다른 MECHANISM을 교체해 사용하더라도 모든 Motor와 Servo의 총합은 이 제한 이하여야 합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R504 \*명시적으로 허용된 경우 외에는 Actuator를 수정하지 마십시오. {#rule-R504}
 
 Motor 또는 Servo의 Integral Mechanical/Electrical System은 수정할 수 없습니다. 다음 예외는 허용됩니다.
@@ -582,7 +582,7 @@ F. Original Performance/Specification이 변하지 않는 Repair
 G. Manufacturer가 권장하는 Maintenance
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R505 \*모든 Actuator는 승인된 Device를 통해 Control/Power되어야 합니다. {#rule-R505}
 
 R501에서 허용된 COTS Computing Device의 Integral Servo/Fan/Motor를 제외하면 모든 Actuator Control Signal은 Power Regulating Device에서 나와야 합니다. ROBOT에서 Actuator에 사용할 수 있는 Power Regulating Device는 다음뿐입니다.
@@ -592,7 +592,7 @@ R501에서 허용된 COTS Computing Device의 Integral Servo/Fan/Motor를 제외
 <table><thead><tr><th>Power Regulating Device</th><th>Part Number</th><th>Load Limit per Device</th></tr></thead><tbody><tr><td>goBILDA 6V Servo Power Injector</td><td>3125-0001-0001</td><td>2 Servos per Port</td></tr><tr><td>REV Control Hub or Expansion Hub Motor Ports</td><td>REV-31-1153 / REV-31-1595</td><td>2 Motors per Port</td></tr><tr><td>REV Control Hub or Expansion Hub Servo Ports</td><td>REV-31-1153 / REV-31-1595</td><td>2 Servos per Port</td></tr><tr><td>REV Servo Power Module</td><td>REV-11-1144</td><td>2 Servos per Port</td></tr><tr><td>REV Robotics Servo Hub</td><td>REV-11-1855</td><td>2 Servos per Port</td></tr><tr><td>REV SPARKmini</td><td>REV-31-1230</td><td>2 Motors per Device</td></tr><tr><td>Studica Servo Power Block</td><td>75005</td><td>2 Servos per Port</td></tr></tbody></table>
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R506 \*Relay, Electromagnet, Electrical Solenoid Actuator 사용은 금지됩니다. {#rule-R506}
 
 추가 Relay, Electromagnet, Electrical Solenoid Actuator 또는 관련 System을 이용한 Electromechanical Actuation은 금지됩니다. Relay와 Electromagnet 자체의 사용도 금지됩니다.
@@ -600,7 +600,7 @@ R501에서 허용된 COTS Computing Device의 Integral Servo/Fan/Motor를 제외
 
 ## 12.6 Power Distribution {#s-12-6}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R601 \*ROBOT에는 Main Battery가 정확히 1개만 있어야 합니다. {#rule-R601}
 
 ROBOT은 승인된 12V NiMH Main Battery를 정확히 1개만 사용해야 합니다. 이 Battery는 Competition 중 ROBOT Control System과 Actuation을 위한 유일한 Electrical Energy Source이며 다음 예외 외에는 Manufacturer 상태 그대로여야 합니다.
@@ -618,7 +618,7 @@ B. 기존 Connector는 Anderson Powerpole, XT30 또는 동등한 Power Rating의
 > 여러 VENDOR가 유사 형태 Battery를 판매하지만, FIRST Tech Challenge Event에서 사용할 수 있는 것은 위 Manufacturer와 Part Number뿐입니다. R602에 나열된 Self-contained Device에는 별도 Battery를 사용할 수 있습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R602 \*기타 Battery는 Self-contained Peripheral Device와 LED에만 허용됩니다. {#rule-R602}
 
 100Wh 이하(3.7V 기준 27,000mAh), Port당 최대 5V/5A 또는 USB-PD 사용 시 12V/5A 출력의 COTS USB Battery Pack과 Camera(예: GoPro-style Camera)처럼 Self-contained Device에 Integral된 Battery는 다음 조건에서 사용할 수 있습니다.
@@ -636,7 +636,7 @@ ii. ROBOT CONTROLLER Smartphone
 > REV Control Hub 또는 Expansion Hub에서 Signal을 받는 모든 Device는 Main ROBOT Battery로 Powered되어야 합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R603 \*ROBOT Battery는 Main Power Switch를 통해 연결하십시오. {#rule-R603}
 
 ROBOT Battery Pack에서 ROBOT의 모든 Power Regulating Device로 공급되는 Power는 정확히 1개의 Main Power Switch가 Control해야 합니다(R602 예외 제외). 다음 조건을 모두 충족해야 합니다.
@@ -654,13 +654,13 @@ C. Main Power Switch 이후의 12V Line에는 Secondary Power Switch를 사용�
 > Main Power Switch의 구체적 위치 요구사항은 없지만 High-speed Moving Part와 Pinch Hazard에서 명확히 떨어진 곳에 두는 것이 좋습니다. Removable Panel 뒤에 설치할 수 있습니다. ROBOT-to-ROBOT Contact로 인한 오작동이나 Damage를 막도록 보호된 위치에 설치하는 것이 좋습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R604 \*Fuse는 지시대로 사용하고 수정하지 마십시오. {#rule-R604}
 
 Device Manufacturer가 지정한 방식으로 Fuse를 사용해야 합니다. Competitive Advantage를 얻기 위해 Fuse를 수정하거나 더 높은 Trip Point의 Fuse로 교체하거나 Self-resetting Fuse로 바꾸어서는 안 됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R605 \*ROBOT Frame을 Current Path로 사용하면 안 됩니다. {#rule-R605}
 
 모든 Wiring과 Electrical Device는 ROBOT Frame과 Electrical Isolation되어야 합니다. ROBOT Frame을 Current Carrying Path로 사용할 수 없습니다. Control System Electronics를 ROBOT Frame에 Electrical Grounding하는 것은 다음 조건을 모두 충족할 때만 허용됩니다.
@@ -678,7 +678,7 @@ C. ROBOT COMPONENT 또는 MECHANISM이 ROBOT Frame을 FIELD에 Electrical Ground
 > Grounding Strap 설치에 대한 추가 정보는 공식 ROBOT Wiring Guide를 참고하십시오.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R606 \*ROBOT CONTROLLER와 ROBOT Electrical System은 Inspection 가능해야 합니다. {#rule-R606}
 
 ROBOT Electrical COMPONENT는 Inspection 접근성을 고려해 Mount해야 합니다.
@@ -692,13 +692,13 @@ B. ROBOT CONTROLLER Device는 Diagnostic Light 또는 해당되는 경우 Device
 > 정상 MATCH Play에서 사용하는 모든 ROBOT Configuration에서도 Diagnostic Light가 보이도록 하는 것을 강력히 권장합니다. MATCH 중 Diagnostic LED가 보이지 않으면 FIELD STAFF가 팀을 충분히 지원하기 어려울 수 있습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R607 \*CUSTOM CIRCUIT은 LED 전용이 아니면 5V보다 높은 Regulated Power를 제공할 수 없습니다. {#rule-R607}
 
 R501의 Actuator 또는 R505의 Power Regulation Device가 아닌 모든 Active Electrical Item은 CUSTOM CIRCUIT으로 간주합니다. CUSTOM CIRCUIT은 LED만을 Powered하는 경우를 제외하고 5V를 초과하는 Regulated Output Voltage를 제공할 수 없습니다. Unregulated Battery Voltage를 Pass-through하는 것은 허용됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R608 \*모든 Power Regulating Device는 승인된 Port와 방식으로 연결·Powered해야 합니다. {#rule-R608}
 
 모든 Power Regulating Device(R505)는 Manufacturer Instruction에 따라 Powered되어야 하며 Table 12-7의 요구사항을 충족해야 합니다.
@@ -708,7 +708,7 @@ R501의 Actuator 또는 R505의 Power Regulation Device가 아닌 모든 Active 
 <table><thead><tr><th>Power Regulating Device</th><th>Part Number</th><th>Method of Powering</th></tr></thead><tbody><tr><td>goBILDA 6V Servo Power Injector</td><td>3125-0001-0001</td><td>Device의 XT30 Connector를 통해 ROBOT Main Battery에서만 Power</td></tr><tr><td>REV Control Hub / REV Expansion Hub</td><td>REV-31-1153 / REV-31-1595</td><td>Device의 XT30 Connector를 통해 ROBOT Main Battery에서만 Power</td></tr><tr><td>REV Servo Power Module</td><td>REV-11-1144</td><td>Screw Terminal 사용, ROBOT Main Battery에서만 Power</td></tr><tr><td>REV Robotics Servo Hub</td><td>REV-11-1855</td><td>Power Terminal 사용, ROBOT Main Battery에서만 Power</td></tr><tr><td>REV SPARKmini</td><td>REV-31-1230</td><td>Power Input 사용, ROBOT Main Battery에서만 Power</td></tr><tr><td>Studica Servo Power Block</td><td>75005</td><td>JST-VH Power Connector 사용, ROBOT Main Battery에서만 Power</td></tr></tbody></table>
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R609 \*적절한 굵기의 Wire를 사용하십시오. {#rule-R609}
 
 모든 Circuit은 적절한 굵기의 Insulated Wire로 Wiring해야 합니다.
@@ -722,7 +722,7 @@ R501의 Actuator 또는 R505의 Power Regulation Device가 아닌 모든 Active 
 > 가능하면 Wire Gauge가 명확히 표시된 Wire를 사용하십시오. Label이 없는 Wiring을 사용하면 요구 굵기를 충족함을 Wire Sample 및 Specification 등으로 입증할 준비가 되어 있어야 합니다. 여러 가는 Wire를 Parallel로 묶어 더 굵은 Wire 하나와 동등하다고 간주할 수 없습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R610 \*특정 Bus에는 지정된 Wire Color를 사용하십시오. {#rule-R610}
 
 12V Main Power Bus와 +5V Auxiliary Bus Wire는 전체 길이에 걸쳐 Color-code되어야 합니다.
@@ -734,7 +734,7 @@ B. Negative(Common/GND): Black 또는 Blue
 > 이 규칙은 Motor Wiring, Signal-level Wiring(Encoder/Sensor Wire), Servo Cable/Extension 또는 Manufacturer가 합법 Device에 원래 부착한 Wire 등에는 적용되지 않습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R611 \*Powered USB Hub는 승인된 Source에서만 Energy를 받아야 합니다. {#rule-R611}
 
 ROBOT에서 사용하는 Powered USB Hub는 다음 중 하나로만 Powered할 수 있습니다.
@@ -744,7 +744,7 @@ A. R602에 따른 승인된 COTS USB Battery Pack
 B. REV Expansion Hub 또는 Control Hub의 5V Auxiliary Power Port
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R612 \*Critical Power Path를 수정하지 마십시오. {#rule-R612}
 
 CUSTOM CIRCUIT은 다음 사이의 Power 또는 Control Pathway를 직접 변경할 수 없습니다.
@@ -762,7 +762,7 @@ D. Power Regulating Device ↔ Actuator
 > Power Path 변경에는 Boost(DC Step-up), Buck(DC Step-down) Converter로 Voltage를 바꾸거나 Main Battery의 자연스러운 Variable DC Voltage를 Constant DC Voltage로 바꾸는 행동 등이 포함됩니다. R505에서 허용된 Device 외에 Actuator Control Signal 또는 Power를 수정하는 Device(예: goBILDA Servo Travel Tuner)는 금지됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R613 \*Power Regulation Device 사이의 Power를 혼용하지 마십시오. {#rule-R613}
 
 Power Regulating Device(R505)의 Power 사용 시 다음을 준수해야 합니다.
@@ -778,7 +778,7 @@ D. REV Hub의 +5V Aux Port는 USB를 제외하고 다른 Power Regulation Device
 
 ## 12.7 Control, Command &amp; Signals System {#s-12-7}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R701 \*하나의 ROBOT CONTROLLER로 ROBOT을 제어하십시오. {#rule-R701}
 
 ROBOT은 Programmable ROBOT CONTROLLER 1개를 통해 제어해야 합니다. ROBOT CONTROLLER는 ROBOT Actuator Control의 유일한 Source이며 다음 중 하나로 구성됩니다.
@@ -797,7 +797,7 @@ C. 추가 REV Expansion Hub(REV-31-1153) 최대 1개
 > Android Software는 Manufacturer와 Update에 따라 Variation이 크므로 REV Control Hub만 공식적으로 지원되는 ROBOT CONTROLLER Device입니다. Smartphone 등 Unsupported Device를 선택하는 팀은 Compatibility, Functionality, Performance를 직접 Test하고 검증할 책임이 있습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R702 \*팀은 Coprocessor Software를 임의로 변경할 수 없습니다. {#rule-R702}
 
 이 규칙에서 명시적으로 허용되지 않는 한 Coprocessor의 Software 수정은 허용되지 않습니다. Manufacturer가 Binary Form으로 제공하는 Firmware Update는 Manufacturer 지시에 따라 적용할 수 있습니다.
@@ -826,13 +826,13 @@ FTC SDK에서 Native Support하는 Programmable Vision Coprocessor는 예외이�
 > **예 6:** OpenMV Cam, Luxonis OAK-1, LimeLight Vision Limelight 3G는 금지된 Programmable Vision Coprocessor 예입니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R703 \*ROBOT CONTROLLER로 사용하는 Smartphone Android Device는 USB로 REV Expansion Hub에 연결해야 합니다. {#rule-R703}
 
 Smartphone Android Device를 ROBOT CONTROLLER로 사용하는 경우 Integrated USB Port를 통해 REV Expansion Hub에 연결해야 하며, USB Cable(USB OTG Cable 포함) 및/또는 USB Hub(Powered/Unpowered, Hub에 OTG 통합 여부 무관)의 어떤 조합도 사용할 수 있습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R704 \*지정된 방식으로 Network와 Bandwidth를 사용하십시오. {#rule-R704}
 
 팀과 ROBOT은 Fair Play를 가능하게 하고 다른 팀이나 ARENA 운영을 방해하지 않도록 Wi-Fi Network와 Bandwidth를 사용해야 합니다.
@@ -848,7 +848,7 @@ D. ROBOT CONTROLLER Wi-Fi Network에 접근하는 Software는 Wi-Fi를 통한 Co
 E. 일부 Event는 팀에 Wi-Fi Band/Channel을 지정할 수 있습니다. Event Staff 요청 시 당일 Competition에서 지정 Frequency Band/Channel을 사용해야 합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R705 \*Device를 Team Number에 맞게 설정하십시오. {#rule-R705}
 
 ROBOT CONTROLLER, DRIVER STATION 및 Spare Device의 Name/Configuration은 정확한 Team Number에 맞아야 합니다.
@@ -862,7 +862,7 @@ C. Spare ROBOT CONTROLLER 또는 DRIVER STATION을 설정하는 경우 Letter De
 > DRIVER STATION 및 ROBOT CONTROLLER의 “Name”을 변경하는 자세한 절차는 공식 DRIVER STATION Instructions와 ROBOT CONTROLLER Instructions를 참고하십시오.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R706 \*Core Control System Device에는 명시된 수정만 허용됩니다. {#rule-R706}
 
 DRIVER STATION Device/Software, Android-based ROBOT CONTROLLER Device, Main/Secondary Power Switch, Power Regulation Device, Fuse, Battery는 Drill, Cut, Machine, Rewire, Disassemble, Paint, Enclosure 제거·Custom Enclosure 교체 등을 포함해 임의로 Tamper/Modify/Adjust할 수 없습니다. 다음 예외만 허용됩니다.
@@ -895,7 +895,7 @@ K. Power Switch Mounting Bracket 수정 또는 교체
 > 이러한 COMPONENT의 진단과 Repair는 어려울 수 있습니다. Connector Type 변경, Device Footprint Modification, Mechanical Enhancement를 포함하는 “Repair”는 금지됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R707 \*USB는 Vision 용도입니다. {#rule-R707}
 
 ROBOT Control System에 USB로 연결할 수 있는 Device는 다음뿐입니다.
@@ -907,7 +907,7 @@ B. USB Hub 또는 USB Switch
 C. REV Expansion Hub
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R708 \*지원되는 USB Vision만 사용하십시오. {#rule-R708}
 
 ROBOT CONTROLLER App에서 Native Support하는 Single Image Sensor Vision Device만 USB로 연결할 수 있습니다. Stereoscopic Camera는 허용되지 않습니다. 허용 범위는 다음과 같습니다.
@@ -921,13 +921,13 @@ B. R702에서 허용된 Vision Coprocessor
 > 향후 시즌에 다른 USB Vision Device Support를 요청하거나 Sample Driver를 제공하려면 customerservice@firstinspires.org로 문의하십시오. Email Subject는 “USB Vision Future Support Request”로 하고 Feedback/Clarification Contact 정보와 지원 요청 Device 정보를 포함하십시오.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R709 \*Recording Device는 허용됩니다. {#rule-R709}
 
 GoPro 등 Self-contained Video Recording Device는 MATCH 이후 비기능적 영상 확인 용도로만 사용하고 Wireless Capability를 꺼두는 조건에서 허용됩니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R710 \*Laser는 Sensor의 일부이고 Low-energy이며 Non-visible일 때만 허용됩니다. {#rule-R710}
 
 Laser는 다음 조건을 모두 충족해야 합니다.
@@ -939,7 +939,7 @@ B. IEC/EN 60825-1 “Class I” 또는 IEC/EN 62471 “Exempt” Rating
 C. Non-visible Spectrum 사용
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R711 \*Android Device를 올바르게 설정하십시오. {#rule-R711}
 
 ROBOT CONTROLLER 및 DRIVER STATION Android Device(Smartphone, REV Control Hub, REV Driver Hub)는 추가로 다음과 같이 설정해야 합니다.
@@ -955,7 +955,7 @@ D. DRIVER STATION Android Device에서 기억된 Wi-Fi Direct Group과 Wi-Fi Con
 
 ## 12.8 Pneumatic Systems &amp; Airflow Devices {#s-12-8}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R801 \*Pneumatic Actuator, High-Speed Blower, Vacuum은 금지됩니다. {#rule-R801}
 
 ROBOT의 Air 사용은 다음과 같이 제한됩니다.
@@ -978,7 +978,7 @@ E. COTS Computing Device에 Integral된 Cooling Fan 외에 High-speed Airflow를
 
 ## 12.9 OPERATOR CONSOLE {#s-12-9}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R901 \*지정된 DRIVER STATION Device만 사용하십시오. {#rule-R901}
 
 OPERATOR CONSOLE에는 승인된 Android-based DRIVER STATION Device 1개만 연결되고 Powered On 상태여야 합니다. 다음 중 최소 하나를 사용해야 합니다.
@@ -993,7 +993,7 @@ B. 하나 이상의 Gamepad 연결을 위한 USB Cable(USB OTG 포함) 및/또�
 > Spare DRIVER STATION Device를 OPERATOR CONSOLE의 일부로 가지고 있을 수 있지만 한 번에 하나의 DRIVER STATION Device만 Connected/Powered On 상태여야 합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R902 \*OPERATOR CONSOLE은 Touch Screen 접근이 가능해야 합니다. {#rule-R902}
 
 DRIVE TEAM이 ROBOT에 Command를 전달하는 COMPONENT/MECHANISM Set인 OPERATOR CONSOLE은 DRIVER STATION Device의 Touch Screen에 접근할 수 있어야 합니다. Inspection 및 MATCH 중 Screen Display가 명확히 보이도록 Device를 배치해야 합니다.
@@ -1001,7 +1001,7 @@ DRIVE TEAM이 ROBOT에 Command를 전달하는 COMPONENT/MECHANISM Set인 OPERAT
 DRIVER STATION Device Touch Screen은 Mouse 같은 추가 보조 장치 없이 자체적으로 작동 가능해야 합니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R903 \*OPERATOR CONSOLE Physical Requirement. {#rule-R903}
 
 Power Bank 등 모든 Power Source를 포함한 OPERATOR CONSOLE은 MATCH 중 DRIVER가 들거나 착용하는 Item을 제외하고 폭 3 ft × 깊이 1 ft 6 in. × 높이 2 ft(91.4 × 45.7 × 61.0 cm) Volume을 초과할 수 없습니다.
@@ -1019,7 +1019,7 @@ Power Bank 등 모든 Power Source를 포함한 OPERATOR CONSOLE은 MATCH 중 DR
 > 이 규칙의 취지는 DRIVER STATION Device와 Support Electronics를 보관·정리·운반하는 Container 사용을 허용하는 것입니다. ROBOT Cart처럼 기능하거나 Event가 제공하는 OPERATOR CONSOLE Stand/Table 등을 대체하는 System을 허용하기 위한 규칙은 아닙니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 #### R904 \*ROBOT Application Wireless Communication만 허용됩니다. {#rule-R904}
 
 MATCH 중 ROBOT에서 실행되는 ROBOT CONTROLLER App과 DRIVER STATION Device에서 실행되는 DRIVER STATION App이 Control하는 Connection 외에 OPERATOR CONSOLE로, OPERATOR CONSOLE에서, 또는 OPERATOR CONSOLE 내부에서 다른 Wireless Communication을 사용할 수 없습니다.
