@@ -1,0 +1,622 @@
+{
+  "source_sha256": "2e0d7cc4ddfaa4bec5102032134334315a9b22f7541843eefd95b3ddafc3872f",
+  "pages": [
+    {
+      "file": "README.md",
+      "tables": 0,
+      "images": 2,
+      "rules": 0
+    },
+    {
+      "file": "section-01.md",
+      "tables": 0,
+      "images": 3,
+      "rules": 0
+    },
+    {
+      "file": "section-02.md",
+      "tables": 0,
+      "images": 1,
+      "rules": 0
+    },
+    {
+      "file": "section-03.md",
+      "tables": 0,
+      "images": 1,
+      "rules": 7
+    },
+    {
+      "file": "section-04.md",
+      "tables": 3,
+      "images": 5,
+      "rules": 0
+    },
+    {
+      "file": "section-05.md",
+      "tables": 0,
+      "images": 1,
+      "rules": 35
+    },
+    {
+      "file": "section-06.md",
+      "tables": 10,
+      "images": 4,
+      "rules": 15
+    },
+    {
+      "file": "section-07.md",
+      "tables": 0,
+      "images": 4,
+      "rules": 0
+    },
+    {
+      "file": "section-08.md",
+      "tables": 0,
+      "images": 2,
+      "rules": 0
+    },
+    {
+      "file": "section-09.md",
+      "tables": 1,
+      "images": 18,
+      "rules": 0
+    },
+    {
+      "file": "section-10.md",
+      "tables": 6,
+      "images": 10,
+      "rules": 0
+    },
+    {
+      "file": "section-11.md",
+      "tables": 0,
+      "images": 2,
+      "rules": 40
+    },
+    {
+      "file": "section-12.md",
+      "tables": 9,
+      "images": 11,
+      "rules": 52
+    },
+    {
+      "file": "section-13.md",
+      "tables": 8,
+      "images": 8,
+      "rules": 21
+    },
+    {
+      "file": "section-14.md",
+      "tables": 0,
+      "images": 1,
+      "rules": 0
+    },
+    {
+      "file": "section-15.md",
+      "tables": 1,
+      "images": 1,
+      "rules": 1
+    },
+    {
+      "file": "section-16.md",
+      "tables": 1,
+      "images": 0,
+      "rules": 0
+    }
+  ],
+  "assets": [
+    {
+      "source": "embedded PNG",
+      "index": 1,
+      "path": "assets/image-001.png",
+      "bytes": 14672,
+      "sha256": "88523c4dcc2fc8783be4b6cc0f3eef11ae61c59a23604191b8f5c01f609e2484"
+    },
+    {
+      "source": "embedded PNG",
+      "index": 2,
+      "path": "assets/image-002.png",
+      "bytes": 4203,
+      "sha256": "c900e70bb3abe93413b5c9e5a42995c89beaa5574119f5f3fc1176da3e0d924b"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image002.jpg",
+      "index": 3,
+      "path": "assets/image-003.jpg",
+      "bytes": 12795,
+      "sha256": "76f2b38e000cc996954ef6f70045881ed3593b4e3c267939cc375821caab6092"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image003.png",
+      "index": 4,
+      "path": "assets/image-004.png",
+      "bytes": 45608,
+      "sha256": "2d9471a69a1cdc5f391335fd466cf0311d82d6fe2ed84a5936c233dd5523d0a2"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image004.png",
+      "index": 5,
+      "path": "assets/image-005.png",
+      "bytes": 10882,
+      "sha256": "9f149bc8b07a90c230c5aaa90e146fbf2d681a0ea84ab3c12c9c92e6f9250d7b"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image005.png",
+      "index": 6,
+      "path": "assets/image-006.png",
+      "bytes": 166223,
+      "sha256": "8285c785a2e750b6c5144f2252eb7e0c8cf590bcc4104494b8460f5002bf5528"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image006.jpg",
+      "index": 7,
+      "path": "assets/image-007.jpg",
+      "bytes": 4040,
+      "sha256": "69b1d42ca5fcbb82b8bd025721e2af44f8c4156d1e829bdd3211f0d030e6b56d"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image007.png",
+      "index": 8,
+      "path": "assets/image-008.png",
+      "bytes": 18440,
+      "sha256": "0729cca2b933efbc1a6b28dc078b5186f99db888952fd0e06ab3f9d928720d6d"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image008.png",
+      "index": 9,
+      "path": "assets/image-009.png",
+      "bytes": 20623,
+      "sha256": "793473f0bf2145ade65e7578de25af1dc0d7abf59b6840942ab0e0cab89522cd"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image009.png",
+      "index": 10,
+      "path": "assets/image-010.png",
+      "bytes": 11367,
+      "sha256": "08f4e98d50c37c440a6e401b98f198433c7baadd7ed5c9a50acaccb3b37138a8"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image010.jpg",
+      "index": 11,
+      "path": "assets/image-011.jpg",
+      "bytes": 30817,
+      "sha256": "06eec670957dc3b57fe70f81a7563028961b0e211ff34ccfcd335e164137c498"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image011.jpg",
+      "index": 12,
+      "path": "assets/image-012.jpg",
+      "bytes": 4039,
+      "sha256": "88c1f630a19ff7078e2cd29ff69caadb9635428e466dae61e382010892a21635"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image012.jpg",
+      "index": 13,
+      "path": "assets/image-013.jpg",
+      "bytes": 16988,
+      "sha256": "3cc7a3c3ade95db58ad9fd8f089040458a51cf8e72d846a12d3449a88effac86"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image013.png",
+      "index": 14,
+      "path": "assets/image-014.png",
+      "bytes": 24314,
+      "sha256": "796e27310b50a899e9e134a8c9187c84858e8ed39f62da2e5ab803965a051912"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image014.png",
+      "index": 15,
+      "path": "assets/image-015.png",
+      "bytes": 43314,
+      "sha256": "50388bfca72781c29c5d82949534077daf0fadc2de55bc22a6fd61402f39d73c"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image015.jpg",
+      "index": 16,
+      "path": "assets/image-016.jpg",
+      "bytes": 4066,
+      "sha256": "85594881ec5a5b07f75993d92e34471ac6d61cb96b1f4e3b99ddb173c72a0807"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image016.jpg",
+      "index": 17,
+      "path": "assets/image-017.jpg",
+      "bytes": 8077,
+      "sha256": "f78830459a49c6f4955fccd9f19ba889cd9987ed79cf039ea1a765f2953a02b9"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image017.jpg",
+      "index": 18,
+      "path": "assets/image-018.jpg",
+      "bytes": 13033,
+      "sha256": "f96c38c16b068048ce70ed6771c9e01f4034cad7ecbab7b405953f7335f62fcc"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image018.jpg",
+      "index": 19,
+      "path": "assets/image-019.jpg",
+      "bytes": 13441,
+      "sha256": "97a60dbc5c94aed9d84d390dde2423fbadb4591157aa14e85491e5044e325210"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image019.jpg",
+      "index": 20,
+      "path": "assets/image-020.jpg",
+      "bytes": 11084,
+      "sha256": "896ce08c93485692c3f33294e165018d59e2e7914fb69b029d5a36a57031c9cc"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image020.png",
+      "index": 21,
+      "path": "assets/image-021.png",
+      "bytes": 87100,
+      "sha256": "de1ddaa7d0878ea3c82f9669c0cb90a02fef65f3f7a057a90a4753d9040a5bb1"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image021.jpg",
+      "index": 22,
+      "path": "assets/image-022.jpg",
+      "bytes": 4057,
+      "sha256": "f2a52e44c0620daf24d7674905a8ecdf388cd2475c11221d7c02d9d37c65f081"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image022.png",
+      "index": 23,
+      "path": "assets/image-023.png",
+      "bytes": 126813,
+      "sha256": "6c8ca54caf47aa7b27a51f47d9561c7c23af7130e97ad3020f3044029f763338"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image023.png",
+      "index": 24,
+      "path": "assets/image-024.png",
+      "bytes": 130431,
+      "sha256": "19d52cea5700e6aebabdcf339a8735ffc8f36757dcf68470a76454612df155cb"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image024.png",
+      "index": 25,
+      "path": "assets/image-025.png",
+      "bytes": 49250,
+      "sha256": "d271302110b6f26246428ae42bdd60ec5c837937f5f392057cfe73bfba552be1"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image025.png",
+      "index": 26,
+      "path": "assets/image-026.png",
+      "bytes": 64697,
+      "sha256": "915aa245d904e6f878898ed2f9f3e0a12587b5e04f92f586f84450ee352e612f"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image026.png",
+      "index": 27,
+      "path": "assets/image-027.png",
+      "bytes": 67767,
+      "sha256": "0c7bd11cf66efa3cf60827bd9234949227d273f7ce635072443d89b624703f68"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image027.png",
+      "index": 28,
+      "path": "assets/image-028.png",
+      "bytes": 57706,
+      "sha256": "f2c539777a412887a9f2a257d9f5a94d3eaa05f5967041727fef3d5c6ac2e650"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image028.png",
+      "index": 29,
+      "path": "assets/image-029.png",
+      "bytes": 86924,
+      "sha256": "3c1981539e4d7a77108fdc6651fcd2d39263e2a290c682b74b8a7d94e956e1d4"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image029.png",
+      "index": 30,
+      "path": "assets/image-030.png",
+      "bytes": 84534,
+      "sha256": "ec54b1f11742623d98d874d081eff2081c120cfcefc809b39ed298396485d5d0"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image030.png",
+      "index": 31,
+      "path": "assets/image-031.png",
+      "bytes": 75897,
+      "sha256": "e5cc393f9fafcd730ac53abba7222442b6f8859c68114f0e7a39859a3b379826"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image031.png",
+      "index": 32,
+      "path": "assets/image-032.png",
+      "bytes": 118601,
+      "sha256": "6632409708553e8e5fb335a359b10420217abaa3ef63d83e3f26595dcc23f279"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image032.png",
+      "index": 33,
+      "path": "assets/image-033.png",
+      "bytes": 74419,
+      "sha256": "316cf4ccd0e1feb5bfeac9b609e7a2de2f94926b880aa92812a69634ad1b7515"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image033.png",
+      "index": 34,
+      "path": "assets/image-034.png",
+      "bytes": 119972,
+      "sha256": "7bfa3983eccac0494a98bfc3ba2d45651bc1bd654725efabbade59437f456f00"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image034.png",
+      "index": 35,
+      "path": "assets/image-035.png",
+      "bytes": 22604,
+      "sha256": "1109a466b055cb2210393dc9c1bbc327a12196337b0fc0fa50c64df6b6c729ae"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image035.png",
+      "index": 36,
+      "path": "assets/image-036.png",
+      "bytes": 60146,
+      "sha256": "8e95536890f64d860a17c67bf5ac7fa7985552a0f6dea76bef3ab54e2528da0a"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image036.png",
+      "index": 37,
+      "path": "assets/image-037.png",
+      "bytes": 100332,
+      "sha256": "c25007cd944221efc20265acff8440d70b623ce76cf979a5aac6ec0f99fa5797"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image037.png",
+      "index": 38,
+      "path": "assets/image-038.png",
+      "bytes": 81959,
+      "sha256": "a2824334d62fd3c0dd272bdeff87aec5c59b11d115c17e89de28e76ab0dcf894"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image038.png",
+      "index": 39,
+      "path": "assets/image-039.png",
+      "bytes": 125269,
+      "sha256": "1a3331591794d64c0640f05cba3f0ee9d1a98e58b8f44e2a3587d9aae80c4abc"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image039.jpg",
+      "index": 40,
+      "path": "assets/image-040.jpg",
+      "bytes": 4059,
+      "sha256": "c1f95e094a95ed48bc7672b712c0cd406cd7a6fce6686d4ea1d88c004c6c212b"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image040.png",
+      "index": 41,
+      "path": "assets/image-041.png",
+      "bytes": 89064,
+      "sha256": "246c2053f4713169bd10c6bc2c2c2e96806a6d3dfdd33df13358f157fae5ba8b"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image041.png",
+      "index": 42,
+      "path": "assets/image-042.png",
+      "bytes": 162560,
+      "sha256": "6945d19aa0e813a69f26681ace01c2f3f1c700a85101c4587bc30b6165022f81"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image042.png",
+      "index": 43,
+      "path": "assets/image-043.png",
+      "bytes": 68130,
+      "sha256": "b671730c826dea191d55328ee356eff866933c86bc2b1b0a833cf958dbb39445"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image043.png",
+      "index": 44,
+      "path": "assets/image-044.png",
+      "bytes": 34792,
+      "sha256": "fd901be680d04ffc2892024412b3a2aee1f0b1c61e8b5f23c034521bd49a2e98"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image044.png",
+      "index": 45,
+      "path": "assets/image-045.png",
+      "bytes": 229323,
+      "sha256": "12fc0d1a5fece0ad7ca44ba15aa4e81fbe6211fdaee1f0e4eefb02757deaa62f"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image045.png",
+      "index": 46,
+      "path": "assets/image-046.png",
+      "bytes": 35817,
+      "sha256": "a56711a89989bf738cce28e9c9238a1d234f938f11f52ede4ca7d44a936945d8"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image046.png",
+      "index": 47,
+      "path": "assets/image-047.png",
+      "bytes": 78469,
+      "sha256": "cd0c9f801251b99e12014b60df520c2956dfcd384dcf3ff55b9a560ff96b7488"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image047.jpg",
+      "index": 48,
+      "path": "assets/image-048.jpg",
+      "bytes": 12432,
+      "sha256": "6c11607322a1f916db115b40d450dfb24bbb288605b563f52aa16e43dba62a6e"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image048.jpg",
+      "index": 49,
+      "path": "assets/image-049.jpg",
+      "bytes": 7764,
+      "sha256": "487036604b81b8136e5fdf1bf8fe57c383a91121106efeab0fb86fc837face6d"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image049.jpg",
+      "index": 50,
+      "path": "assets/image-050.jpg",
+      "bytes": 4059,
+      "sha256": "e77563760f8b33c2976842a4921e2932e98d8b2cc0be8b3aa6fe272de808ca9d"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image050.png",
+      "index": 51,
+      "path": "assets/image-051.png",
+      "bytes": 142605,
+      "sha256": "7e3d7d73f81e4018a8f91bf6ea051261e2d6645bfbdbc949f7e1a47cba66baf2"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image051.jpg",
+      "index": 52,
+      "path": "assets/image-052.jpg",
+      "bytes": 4053,
+      "sha256": "94eb9359209b1d60df6fdd891026db1c8ba166d82226b04698fdcfaf1ad681ae"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image052.jpg",
+      "index": 53,
+      "path": "assets/image-053.jpg",
+      "bytes": 14462,
+      "sha256": "4881a4238097a498e8d5c816507eed3aa1d72278ea5c3cecd073a6469be3f93a"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image053.jpg",
+      "index": 54,
+      "path": "assets/image-054.jpg",
+      "bytes": 12932,
+      "sha256": "37ab1a95ffe8441687a7539c8e2706c82eb16532950274464cceb7d6eee9ff79"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image054.png",
+      "index": 55,
+      "path": "assets/image-055.png",
+      "bytes": 26663,
+      "sha256": "2d04fb1e7cb5c54bd857c2833947492e99a87115784f9957f788be3aa32dcf6c"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image055.png",
+      "index": 56,
+      "path": "assets/image-056.png",
+      "bytes": 38009,
+      "sha256": "7d0ea4716dab463553ef966772d62ea68f79d2151030c5ab3893c3bfc7baada8"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image056.png",
+      "index": 57,
+      "path": "assets/image-057.png",
+      "bytes": 48063,
+      "sha256": "33a3fe7ded7afe04c7739a58ca83248bd23893fc76cef5544158648b666d7f4b"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image057.png",
+      "index": 58,
+      "path": "assets/image-058.png",
+      "bytes": 46893,
+      "sha256": "de11826111a46d276a68f81f00ac2129ceabb5c3665a12cb62aed6c95056c4a0"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image058.jpg",
+      "index": 59,
+      "path": "assets/image-059.jpg",
+      "bytes": 44734,
+      "sha256": "8bef6df4548bd11851e6c00b9feee3e8efa65397669361888db2ebbf4a26bb7e"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image059.png",
+      "index": 60,
+      "path": "assets/image-060.png",
+      "bytes": 39277,
+      "sha256": "f4e5c42d7dd66acde0c7e67f296af19327a0d78e02f0755ea59183d3b951c303"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image060.png",
+      "index": 61,
+      "path": "assets/image-061.png",
+      "bytes": 12161,
+      "sha256": "bc332b789a6e826ad5632856df8be96e44988b745b77f6ee49addb42ec868ba3"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image061.png",
+      "index": 62,
+      "path": "assets/image-062.png",
+      "bytes": 47823,
+      "sha256": "ddd22d123f94448eeb0bfee6761c1ae214980c1baada9c6cfe443b3046e0e9ce"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image062.jpg",
+      "index": 63,
+      "path": "assets/image-063.jpg",
+      "bytes": 4057,
+      "sha256": "b3f9c9262d7296fccd99b2ccdcd6470776ceb0b52f22d0a8a7a012abc4596763"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image063.png",
+      "index": 64,
+      "path": "assets/image-064.png",
+      "bytes": 60005,
+      "sha256": "982699f80aba27d039d3fd29effda6680e87613b9defcfdbbaa585fcaf5012a4"
+    },
+    {
+      "source": "embedded PNG",
+      "index": 65,
+      "path": "assets/image-065.png",
+      "bytes": 91183,
+      "sha256": "58dc49454ab40eff04365b7fe085cad91c2ecfcf931937c89f0ed33bc607483c"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image065.png",
+      "index": 66,
+      "path": "assets/image-066.png",
+      "bytes": 11212,
+      "sha256": "2a1f7d17ae6fdcac2cd4f8ccc93a6489cf19676e984bd9d64e53808b268ce4d3"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image066.png",
+      "index": 67,
+      "path": "assets/image-067.png",
+      "bytes": 42727,
+      "sha256": "593fa5efe4ccc3badf57aed4bb95f44b16c46538dd4c8766ca46fbce5d15e129"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image067.png",
+      "index": 68,
+      "path": "assets/image-068.png",
+      "bytes": 44361,
+      "sha256": "0f384292569ad920dfb98d9eacaa5a8f6529e2e42301d95850ca8a5385fd1a6a"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image068.png",
+      "index": 69,
+      "path": "assets/image-069.png",
+      "bytes": 63717,
+      "sha256": "ab05d93fc75f9f84069a25f7219960d04bcbbe26a31d3846204ad70c9e5254f1"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image069.png",
+      "index": 70,
+      "path": "assets/image-070.png",
+      "bytes": 12956,
+      "sha256": "d2679138052a1f9732419bf64b6f9879ac17043d66e10bf4516a2538e24c445b"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image070.jpg",
+      "index": 71,
+      "path": "assets/image-071.jpg",
+      "bytes": 4053,
+      "sha256": "2bff44cb8e56f8a573d8d3e1119c7db04f42f04f4af982e40d0149726e2e1fc0"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image071.jpg",
+      "index": 72,
+      "path": "assets/image-072.jpg",
+      "bytes": 4046,
+      "sha256": "a49f9bd1cbb5ba90c54fabfada24593f2c04a0e77fdcddaf142752a9e470fd6c"
+    },
+    {
+      "source": "https://ftc-resources.firstinspires.org/ftc/game/cm-html/BIOBUZZ%20Competition%20Manual%20-%20V1_files/image072.jpg",
+      "index": 73,
+      "path": "assets/image-073.jpg",
+      "bytes": 4046,
+      "sha256": "864c26c6a0bb42c8a6a2abfaf4e0d977924587a92da4b866342e7f7738cef7d7"
+    }
+  ],
+  "rectangular_header_adjustments": 2,
+  "gitbook_live_render_verified": false
+}
