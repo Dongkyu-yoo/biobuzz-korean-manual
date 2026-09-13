@@ -6,6 +6,7 @@ site:
       key: biobuzz-manual
       title: BIOBUZZ 한국어 매뉴얼
       path: manual
+      default: true
       children:
         - type: space
           key: biobuzz-ko
