@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: BIOBUZZ Korean Manual
+  structure:
+    - type: section
+      key: biobuzz-manual
+      title: BIOBUZZ 한국어 매뉴얼
+      path: manual
+      children:
+        - type: space
+          key: biobuzz-ko
+          title: 한국어
+          path: ko
+          default: true
+          content:
+            directory: ./
+            language: ko
